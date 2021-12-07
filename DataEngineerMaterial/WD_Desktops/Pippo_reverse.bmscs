@@ -1,0 +1,7 @@
+<COLORSCALE Min="-4.5" Max="0" RelativeBreakpoints="-1" SolidColor="#00ffffff">
+	<FILEPATH>C:\Users\Matteo.Paganini\Desktop\Pippo_reverse.bmscs</FILEPATH>
+	<BREAKPOINT Value="-4.5" Color="#ffff0000"/>
+	<BREAKPOINT Value="-3.78" Color="#ffff8000"/>
+	<BREAKPOINT Value="-3.015" Color="#ffffff00"/>
+	<BREAKPOINT Value="0" Color="#ffffffff"/>
+</COLORSCALE>

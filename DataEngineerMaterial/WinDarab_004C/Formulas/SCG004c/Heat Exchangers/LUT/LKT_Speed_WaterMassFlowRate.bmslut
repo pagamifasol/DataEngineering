@@ -1,0 +1,41 @@
+<BMSXML>
+	<FILEINFO>
+		<name>New Lookup Table</name>
+		<application>WinDarab</application>
+		<filetype>LookupTable</filetype>
+		<version MajVersion="1.0" MinVersion="001" AppVersion="7.04.030"/>
+	</FILEINFO>
+	<FILEBODY>
+		<DESCRIPTION>Heat Exchange forVehicle speed (m/s) vs  Water  Mass Flow Rate (kg/s)</DESCRIPTION>
+		<COLUMNWIDTHS>50</COLUMNWIDTHS>
+		<AXIS interpolate="yes" decimals="4">
+			<VALUE>0.8069</VALUE>
+			<VALUE>1.2104</VALUE>
+			<VALUE>1.6138</VALUE>
+		</AXIS>
+		<AXIS interpolate="yes" decimals="4">
+			<VALUE>90</VALUE>
+			<VALUE>180</VALUE>
+			<VALUE>270</VALUE>
+		</AXIS>
+		<VALUES decimals="4">
+			<DIM dimension="1">
+				<DIM dimension="0">
+					<VALUE>29.8597</VALUE>
+					<VALUE>30.7442</VALUE>
+					<VALUE>31.3105</VALUE>
+				</DIM>
+				<DIM dimension="0">
+					<VALUE>53.4158</VALUE>
+					<VALUE>56.4051</VALUE>
+					<VALUE>58.2061</VALUE>
+				</DIM>
+				<DIM dimension="0">
+					<VALUE>71.559</VALUE>
+					<VALUE>77.3276</VALUE>
+					<VALUE>80.76730000000001</VALUE>
+				</DIM>
+			</DIM>
+		</VALUES>
+	</FILEBODY>
+</BMSXML>

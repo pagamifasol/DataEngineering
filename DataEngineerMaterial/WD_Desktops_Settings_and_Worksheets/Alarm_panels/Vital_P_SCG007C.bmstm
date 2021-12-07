@@ -1,0 +1,92 @@
+<COnlineDataWnd Name="C:\Users\Matteo.Paganini\Desktop\DataEnginnering\Worksheets\Vital_P_SCG007C.bmstm" Caption="Instrument panel">
+	<COnlineDataItemBar oid="1" Name="poil" Caption="P_Oil" Len="5" Dec="2" Max="10" PosSize="96,0,96,112" ForeColor="BLACK" BackColor="WHITE">
+		<ZONE Id="0" Valid="-1" Start="0.5" Hysteresis="0.3" Hystersis="0.3" Alert="-1"/>
+		<ZONE Id="1" Valid="-1" Hysteresis="0.5" Hystersis="0.5"/>
+		<ZONE Id="2" Valid="-1" Start="6.5" Hysteresis="0.3" Hystersis="0.3" Alert="-1"/>
+		<ALERT Delay="1000"/>
+		<CAPTION Height="17" BackColor="Magenta-5"/>
+		<STYLE Solid="-1" ValueHeight="17" ScaleWidth="40" ScaleValueHeight="13"/>
+	</COnlineDataItemBar>
+	<COnlineDataItemBar oid="2" Name="p22" Caption="P22_1" Len="7" Dec="2" Max="3500" PosSize="192,0,96,112" ForeColor="BLACK" BackColor="WHITE">
+		<ZONE Id="0" Valid="-1" Start="300" Hysteresis="100" Hystersis="100" ForeColor="LTRED" UnconfirmedForeColor="LTRED" UnconfirmedBackColor="WHITE" Alert="-1"/>
+		<ZONE Id="1" Valid="-1" Hysteresis="1" Hystersis="1"/>
+		<ZONE Id="2" Valid="-1" Start="2500" Hysteresis="300" Hystersis="300" Alert="-1"/>
+		<CAPTION Height="17" ForeColor="WHITE" BackColor="Cyan-3"/>
+		<STYLE Solid="-1" ValueHeight="17" ScaleWidth="40" ScaleValueHeight="9"/>
+	</COnlineDataItemBar>
+	<COnlineDataItemBar oid="3" Name="prail2" Len="5" Dec="2" Max="200" PosSize="288,112,99,112" ForeColor="BLACK" BackColor="WHITE">
+		<ZONE Id="0" Valid="-1" Start="60" Hysteresis="10" Hystersis="10" Alert="-1"/>
+		<ZONE Id="1" Valid="-1" Hysteresis="1" Hystersis="1"/>
+		<ZONE Id="2" Valid="-1" Start="180" Hysteresis="20" Hystersis="20" UnconfirmedForeColor="LTRED" Alert="-1"/>
+		<ALERT Delay="5000"/>
+		<CAPTION Height="17" ForeColor="WHITE" BackColor="Gray-4"/>
+		<HOLD Min="90000" Max="90000"/>
+		<STYLE Solid="-1" ValueHeight="17" ScaleWidth="40" ScaleValueHeight="11"/>
+	</COnlineDataItemBar>
+	<COnlineDataItemBar oid="4" Name="prail" Len="5" Dec="2" Max="200" PosSize="288,0,99,112" ForeColor="BLACK" BackColor="WHITE">
+		<ZONE Id="0" Valid="-1" Start="60" Hysteresis="10" Hystersis="10" Alert="-1"/>
+		<ZONE Id="1" Valid="-1" Hysteresis="1" Hystersis="1"/>
+		<ZONE Id="2" Valid="-1" Start="180" Hysteresis="20" Hystersis="20" UnconfirmedForeColor="LTRED" Alert="-1"/>
+		<ALERT Delay="5000"/>
+		<CAPTION Height="17" ForeColor="WHITE" BackColor="Gray-4"/>
+		<HOLD Min="90000" Max="90000"/>
+		<STYLE Solid="-1" ValueHeight="17" ScaleWidth="40" ScaleValueHeight="11"/>
+	</COnlineDataItemBar>
+	<COnlineDataItemBar oid="5" Name="pfuel" Len="5" Dec="2" Max="10" PosSize="387,0,96,112" ForeColor="BLACK" BackColor="WHITE">
+		<ZONE Id="0" Valid="-1" Start="5.5" Hysteresis="0.3" Hystersis="0.3" ForeColor="LTBLUE" UnconfirmedBackColor="WHITE" Alert="-1"/>
+		<ZONE Id="1" Valid="-1" Hysteresis="0.1" Hystersis="0.1"/>
+		<ZONE Id="2" Valid="-1" Start="6.5" Hysteresis="0.3" Hystersis="0.3" UnconfirmedBackColor="WHITE" Alert="-1" Blink="0"/>
+		<CAPTION Height="17" ForeColor="WHITE" BackColor="Green-3"/>
+		<HOLD Min="90000" Max="90000"/>
+		<STYLE Solid="-1" ValueHeight="17" ScaleWidth="40" ScaleValueHeight="13"/>
+	</COnlineDataItemBar>
+	<COnlineDataItemBar oid="6" Name="pgear" Caption="P_gearbox_OUT" Len="5" Dec="2" Max="3" PosSize="387,112,96,112">
+		<ZONE Id="0" Valid="-1" Start="0.5" Hysteresis="0.3" Hystersis="0.3" Alert="-1"/>
+		<ZONE Id="1" Valid="-1" Hysteresis="0.05" Hystersis="0.05"/>
+		<ZONE Id="2" Valid="-1" Start="2.5" Hysteresis="0.3" Hystersis="0.3" Alert="-1"/>
+		<CAPTION Height="17" ForeColor="WHITE" BackColor="Yellow-4"/>
+		<HOLD Min="90000" Max="90000"/>
+		<STYLE Solid="-1" ValueHeight="17" ScaleWidth="40" ScaleValueHeight="14"/>
+	</COnlineDataItemBar>
+	<COnlineDataItemBar oid="7" Name="pfuel2" Len="5" Dec="2" Max="10" PosSize="483,0,96,112" ForeColor="BLACK" BackColor="WHITE">
+		<ZONE Id="0" Valid="-1" Start="5.5" Hysteresis="0.3" Hystersis="0.3" ForeColor="LTBLUE" UnconfirmedBackColor="WHITE" Alert="-1"/>
+		<ZONE Id="1" Valid="-1" Hysteresis="0.1" Hystersis="0.1"/>
+		<ZONE Id="2" Valid="-1" Start="6.5" Hysteresis="0.3" Hystersis="0.3" UnconfirmedBackColor="WHITE" Alert="-1" Blink="0"/>
+		<CAPTION Height="17" ForeColor="WHITE" BackColor="Green-3"/>
+		<HOLD Min="90000" Max="90000"/>
+		<STYLE Solid="-1" ValueHeight="17" ScaleWidth="40" ScaleValueHeight="13"/>
+	</COnlineDataItemBar>
+	<COnlineDataItemBar oid="8" Name="pcrank" Caption="P_crankcase" Len="6" Dec="2" Max="1100" PosSize="96,112,96,112">
+		<ZONE Id="0" Valid="-1" Start="600" Hysteresis="50" Hystersis="50" Alert="-1"/>
+		<ZONE Id="1" Valid="-1" Hysteresis="1" Hystersis="1"/>
+		<ZONE Id="2" Valid="-1" Start="950" Hysteresis="50" Hystersis="50" Alert="-1"/>
+		<CAPTION Height="17" ForeColor="BLACK" BackColor="Orange-6"/>
+		<HOLD Min="90000" Max="90000"/>
+		<STYLE Solid="-1" ValueHeight="17" ScaleWidth="40" ScaleValueHeight="9"/>
+	</COnlineDataItemBar>
+	<COnlineDataItemBar oid="9" Name="p22_2" Caption="P22_2" Len="7" Dec="2" Max="3500" PosSize="192,112,96,112" ForeColor="BLACK" BackColor="WHITE">
+		<ZONE Id="0" Valid="-1" Start="300" Hysteresis="1" Hystersis="1" ForeColor="LTRED" UnconfirmedForeColor="LTRED" UnconfirmedBackColor="WHITE" Alert="-1"/>
+		<ZONE Id="1" Valid="-1" Hysteresis="1" Hystersis="1"/>
+		<ZONE Id="2" Valid="-1" Start="2500" Hysteresis="1" Hystersis="1" Alert="-1"/>
+		<CAPTION Height="17" ForeColor="WHITE" BackColor="Cyan-3"/>
+		<STYLE Solid="-1" ValueHeight="17" ScaleWidth="40" ScaleValueHeight="9"/>
+	</COnlineDataItemBar>
+	<COnlineDataItemBar oid="10" Name="pmotin_pod" Caption="Pmot_in" Len="5" Dec="2" Max="6" PosSize="0,0,96,112" ForeColor="BLACK" BackColor="WHITE">
+		<ZONE Id="0" Valid="-1" Start="1.5" Hysteresis="0.5" Hystersis="0.5" Alert="-1"/>
+		<ZONE Id="1" Valid="-1" Hysteresis="0.5" Hystersis="0.5"/>
+		<ZONE Id="2" Valid="-1" Start="3.5" Hysteresis="0.5" Hystersis="0.5" Alert="-1"/>
+		<ALERT Delay="1000"/>
+		<CAPTION Height="17" BackColor="Cyan-6"/>
+		<HOLD Min="90000" Max="90000"/>
+		<STYLE Solid="-1" ValueHeight="17" ScaleWidth="40" ScaleValueHeight="14"/>
+	</COnlineDataItemBar>
+	<COnlineDataItemBar oid="11" Name="pwat" Caption="P_HeaderTank" Len="5" Dec="2" Max="5" PosSize="0,112,96,112" ForeColor="BLACK" BackColor="WHITE">
+		<ZONE Id="0" Valid="-1" Start="0.5" Hysteresis="0.5" Hystersis="0.5" Alert="-1"/>
+		<ZONE Id="1" Valid="-1" Hysteresis="0.5" Hystersis="0.5"/>
+		<ZONE Id="2" Valid="-1" Start="3.5" Hysteresis="0.5" Hystersis="0.5" Alert="-1"/>
+		<ALERT Delay="1000"/>
+		<CAPTION Height="17" BackColor="Cyan-6"/>
+		<HOLD Min="90000" Max="90000"/>
+		<STYLE Solid="-1" ValueHeight="17" ScaleWidth="40" ScaleValueHeight="14"/>
+	</COnlineDataItemBar>
+</COnlineDataWnd>

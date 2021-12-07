@@ -1,0 +1,94 @@
+<BMSXML>
+	<FILEINFO>
+		<name>LUT_CzR_FWFL45</name>
+		<application>WinDarab</application>
+		<filetype>LookupTable</filetype>
+		<version MajVersion="1.0" MinVersion="001" AppVersion="7.08.027"/>
+	</FILEINFO>
+	<FILEBODY>
+		<DESCRIPTION></DESCRIPTION>
+		<COLUMNWIDTHS>50</COLUMNWIDTHS>
+		<AXIS interpolate="yes" decimals="3">
+			<VALUE>30</VALUE>
+			<VALUE>40</VALUE>
+			<VALUE>50</VALUE>
+			<VALUE>60</VALUE>
+			<VALUE>70</VALUE>
+			<VALUE>80</VALUE>
+			<VALUE>90</VALUE>
+			<VALUE>100</VALUE>
+		</AXIS>
+		<AXIS interpolate="yes" decimals="3">
+			<VALUE>30</VALUE>
+			<VALUE>40</VALUE>
+			<VALUE>50</VALUE>
+			<VALUE>60</VALUE>
+			<VALUE>70</VALUE>
+			<VALUE>80</VALUE>
+		</AXIS>
+		<VALUES decimals="3">
+			<DIM dimension="1">
+				<DIM dimension="0">
+					<VALUE>2.042</VALUE>
+					<VALUE>2.086</VALUE>
+					<VALUE>2.138</VALUE>
+					<VALUE>2.191</VALUE>
+					<VALUE>2.228</VALUE>
+					<VALUE>2.234</VALUE>
+					<VALUE>2.198</VALUE>
+					<VALUE>2.122</VALUE>
+				</DIM>
+				<DIM dimension="0">
+					<VALUE>2.067</VALUE>
+					<VALUE>2.112</VALUE>
+					<VALUE>2.165</VALUE>
+					<VALUE>2.22</VALUE>
+					<VALUE>2.259</VALUE>
+					<VALUE>2.261</VALUE>
+					<VALUE>2.213</VALUE>
+					<VALUE>2.118</VALUE>
+				</DIM>
+				<DIM dimension="0">
+					<VALUE>2.128</VALUE>
+					<VALUE>2.172</VALUE>
+					<VALUE>2.224</VALUE>
+					<VALUE>2.277</VALUE>
+					<VALUE>2.313</VALUE>
+					<VALUE>2.307</VALUE>
+					<VALUE>2.241</VALUE>
+					<VALUE>2.118</VALUE>
+				</DIM>
+				<DIM dimension="0">
+					<VALUE>2.189</VALUE>
+					<VALUE>2.227</VALUE>
+					<VALUE>2.27</VALUE>
+					<VALUE>2.317</VALUE>
+					<VALUE>2.346</VALUE>
+					<VALUE>2.331</VALUE>
+					<VALUE>2.249</VALUE>
+					<VALUE>2.104</VALUE>
+				</DIM>
+				<DIM dimension="0">
+					<VALUE>2.209</VALUE>
+					<VALUE>2.238</VALUE>
+					<VALUE>2.272</VALUE>
+					<VALUE>2.312</VALUE>
+					<VALUE>2.337</VALUE>
+					<VALUE>2.319</VALUE>
+					<VALUE>2.234</VALUE>
+					<VALUE>2.084</VALUE>
+				</DIM>
+				<DIM dimension="0">
+					<VALUE>2.179</VALUE>
+					<VALUE>2.203</VALUE>
+					<VALUE>2.235</VALUE>
+					<VALUE>2.274</VALUE>
+					<VALUE>2.303</VALUE>
+					<VALUE>2.291</VALUE>
+					<VALUE>2.218</VALUE>
+					<VALUE>2.081</VALUE>
+				</DIM>
+			</DIM>
+		</VALUES>
+	</FILEBODY>
+</BMSXML>

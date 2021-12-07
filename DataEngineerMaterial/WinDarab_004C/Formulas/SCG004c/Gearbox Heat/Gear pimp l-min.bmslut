@@ -1,0 +1,34 @@
+<BMSXML>
+	<FILEINFO>
+		<name>Gear pimp l-min</name>
+		<application>WinDarab</application>
+		<filetype>LookupTable</filetype>
+		<version MajVersion="1.0" MinVersion="001" AppVersion="7.07.027"/>
+	</FILEINFO>
+	<FILEBODY>
+		<DESCRIPTION></DESCRIPTION>
+		<COLUMNWIDTHS>50</COLUMNWIDTHS>
+		<AXIS interpolate="yes" decimals="2">
+			<VALUE>979</VALUE>
+			<VALUE>1990</VALUE>
+			<VALUE>2998</VALUE>
+			<VALUE>3998</VALUE>
+			<VALUE>4993</VALUE>
+			<VALUE>5996</VALUE>
+			<VALUE>7006</VALUE>
+			<VALUE>8010</VALUE>
+		</AXIS>
+		<VALUES decimals="2">
+			<DIM dimension="0">
+				<VALUE>3.19</VALUE>
+				<VALUE>5.82</VALUE>
+				<VALUE>8.210000000000001</VALUE>
+				<VALUE>10.83</VALUE>
+				<VALUE>13.63</VALUE>
+				<VALUE>16.74</VALUE>
+				<VALUE>19.31</VALUE>
+				<VALUE>20.07</VALUE>
+			</DIM>
+		</VALUES>
+	</FILEBODY>
+</BMSXML>

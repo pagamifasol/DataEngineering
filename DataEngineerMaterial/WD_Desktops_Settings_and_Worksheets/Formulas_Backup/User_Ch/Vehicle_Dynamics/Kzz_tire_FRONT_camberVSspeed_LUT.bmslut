@@ -1,0 +1,119 @@
+<BMSXML>
+	<FILEINFO>
+		<name>Kzz_tire_FRONT_camberVSspeed_LUT</name>
+		<application>WinDarab</application>
+		<filetype>LookupTable</filetype>
+		<version MajVersion="1.0" MinVersion="001" AppVersion="7.08.027"/>
+	</FILEINFO>
+	<FILEBODY>
+		<DESCRIPTION></DESCRIPTION>
+		<COLUMNWIDTHS>50</COLUMNWIDTHS>
+		<AXIS interpolate="yes" decimals="2">
+			<VALUE>1</VALUE>
+			<VALUE>2</VALUE>
+			<VALUE>3</VALUE>
+		</AXIS>
+		<AXIS interpolate="yes" decimals="2">
+			<VALUE>11.11</VALUE>
+			<VALUE>16.67</VALUE>
+			<VALUE>22.22</VALUE>
+			<VALUE>27.78</VALUE>
+			<VALUE>33.33</VALUE>
+			<VALUE>38.89</VALUE>
+			<VALUE>44.44</VALUE>
+			<VALUE>50</VALUE>
+			<VALUE>55.56</VALUE>
+			<VALUE>61.11</VALUE>
+			<VALUE>66.67</VALUE>
+			<VALUE>72.22</VALUE>
+			<VALUE>77.78</VALUE>
+			<VALUE>83.33</VALUE>
+			<VALUE>88.89</VALUE>
+			<VALUE>94.44</VALUE>
+		</AXIS>
+		<VALUES decimals="2">
+			<DIM dimension="1">
+				<DIM dimension="0">
+					<VALUE>335223.873</VALUE>
+					<VALUE>324103.473</VALUE>
+					<VALUE>305569.473</VALUE>
+				</DIM>
+				<DIM dimension="0">
+					<VALUE>339133.922</VALUE>
+					<VALUE>328013.522</VALUE>
+					<VALUE>309479.522</VALUE>
+				</DIM>
+				<DIM dimension="0">
+					<VALUE>343092.78</VALUE>
+					<VALUE>331972.38</VALUE>
+					<VALUE>313438.38</VALUE>
+				</DIM>
+				<DIM dimension="0">
+					<VALUE>347100.447</VALUE>
+					<VALUE>335980.047</VALUE>
+					<VALUE>317446.047</VALUE>
+				</DIM>
+				<DIM dimension="0">
+					<VALUE>351156.922</VALUE>
+					<VALUE>340036.522</VALUE>
+					<VALUE>321502.522</VALUE>
+				</DIM>
+				<DIM dimension="0">
+					<VALUE>355262.206</VALUE>
+					<VALUE>344141.806</VALUE>
+					<VALUE>325607.806</VALUE>
+				</DIM>
+				<DIM dimension="0">
+					<VALUE>359416.299</VALUE>
+					<VALUE>348295.899</VALUE>
+					<VALUE>329761.899</VALUE>
+				</DIM>
+				<DIM dimension="0">
+					<VALUE>363619.2</VALUE>
+					<VALUE>352498.8</VALUE>
+					<VALUE>333964.8</VALUE>
+				</DIM>
+				<DIM dimension="0">
+					<VALUE>367870.91</VALUE>
+					<VALUE>356750.51</VALUE>
+					<VALUE>338216.51</VALUE>
+				</DIM>
+				<DIM dimension="0">
+					<VALUE>372171.428</VALUE>
+					<VALUE>361051.028</VALUE>
+					<VALUE>342517.028</VALUE>
+				</DIM>
+				<DIM dimension="0">
+					<VALUE>376520.756</VALUE>
+					<VALUE>365400.356</VALUE>
+					<VALUE>346866.356</VALUE>
+				</DIM>
+				<DIM dimension="0">
+					<VALUE>380918.891</VALUE>
+					<VALUE>369798.491</VALUE>
+					<VALUE>351264.491</VALUE>
+				</DIM>
+				<DIM dimension="0">
+					<VALUE>385365.836</VALUE>
+					<VALUE>374245.436</VALUE>
+					<VALUE>355711.436</VALUE>
+				</DIM>
+				<DIM dimension="0">
+					<VALUE>389861.589</VALUE>
+					<VALUE>378741.189</VALUE>
+					<VALUE>360207.189</VALUE>
+				</DIM>
+				<DIM dimension="0">
+					<VALUE>394406.151</VALUE>
+					<VALUE>383285.751</VALUE>
+					<VALUE>364751.751</VALUE>
+				</DIM>
+				<DIM dimension="0">
+					<VALUE>398999.521</VALUE>
+					<VALUE>387879.121</VALUE>
+					<VALUE>369345.121</VALUE>
+				</DIM>
+			</DIM>
+		</VALUES>
+	</FILEBODY>
+</BMSXML>

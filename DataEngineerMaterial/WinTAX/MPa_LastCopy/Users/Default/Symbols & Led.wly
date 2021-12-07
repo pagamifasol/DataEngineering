@@ -1,0 +1,37 @@
+<?xml version="1.0"?>
+<Layouts>
+<BackGround>B6D2F5</BackGround>
+<Layouts>
+<Layout>
+<FileName>Symbols &amp; Led_Symbols Led Window.syl</FileName>
+<Type>48</Type>
+<Style>1354760192</Style>
+<Data>1</Data>
+<Rect>
+<top>0</top>
+<left>0</left>
+<bottom>5000</bottom>
+<right>10000</right>
+</Rect>
+<Top>0</Top>
+<DataSetReferenceStatus>255</DataSetReferenceStatus>
+</Layout>
+<Layout>
+<FileName>Symbols &amp; Led_Graph.gra</FileName>
+<Type>1</Type>
+<Style>1354760192</Style>
+<Data>0</Data>
+<Rect>
+<top>5000</top>
+<left>0</left>
+<bottom>10000</bottom>
+<right>10000</right>
+</Rect>
+<Top>0</Top>
+<DataSetReferenceStatus>255</DataSetReferenceStatus>
+</Layout>
+</Layouts>
+<WintaxConfiguration>
+<Version>4.80.08.29</Version>
+</WintaxConfiguration>
+</Layouts>

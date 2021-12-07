@@ -1,0 +1,38 @@
+<BMSXML>
+	<FILEINFO>
+		<name>Front_9Hz_Stack_LUT</name>
+		<application>WinDarab</application>
+		<filetype>LookupTable</filetype>
+		<version MajVersion="1.0" MinVersion="001" AppVersion="7.08.027"/>
+	</FILEINFO>
+	<FILEBODY>
+		<DESCRIPTION></DESCRIPTION>
+		<COLUMNWIDTHS>50</COLUMNWIDTHS>
+		<AXIS interpolate="no" decimals="2">
+			<VALUE>0</VALUE>
+			<VALUE>1</VALUE>
+			<VALUE>2</VALUE>
+			<VALUE>3</VALUE>
+			<VALUE>4</VALUE>
+			<VALUE>5</VALUE>
+			<VALUE>6</VALUE>
+			<VALUE>7</VALUE>
+			<VALUE>8</VALUE>
+			<VALUE>9</VALUE>
+		</AXIS>
+		<VALUES decimals="2">
+			<DIM dimension="0">
+				<VALUE>0</VALUE>
+				<VALUE>39.73</VALUE>
+				<VALUE>203.07</VALUE>
+				<VALUE>445.86</VALUE>
+				<VALUE>697.49</VALUE>
+				<VALUE>953.53</VALUE>
+				<VALUE>1492.1</VALUE>
+				<VALUE>2216.08</VALUE>
+				<VALUE>2979.79</VALUE>
+				<VALUE>3743.5</VALUE>
+			</DIM>
+		</VALUES>
+	</FILEBODY>
+</BMSXML>

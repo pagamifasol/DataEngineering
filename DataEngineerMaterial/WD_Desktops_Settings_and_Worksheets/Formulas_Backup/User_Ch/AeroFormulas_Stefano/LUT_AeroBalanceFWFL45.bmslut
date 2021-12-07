@@ -1,0 +1,94 @@
+<BMSXML>
+	<FILEINFO>
+		<name>New Lookup Table</name>
+		<application>WinDarab</application>
+		<filetype>LookupTable</filetype>
+		<version MajVersion="1.0" MinVersion="001" AppVersion="7.08.027"/>
+	</FILEINFO>
+	<FILEBODY>
+		<DESCRIPTION></DESCRIPTION>
+		<COLUMNWIDTHS>50</COLUMNWIDTHS>
+		<AXIS interpolate="yes" decimals="3">
+			<VALUE>30</VALUE>
+			<VALUE>40</VALUE>
+			<VALUE>50</VALUE>
+			<VALUE>60</VALUE>
+			<VALUE>70</VALUE>
+			<VALUE>80</VALUE>
+			<VALUE>90</VALUE>
+			<VALUE>100</VALUE>
+		</AXIS>
+		<AXIS interpolate="yes" decimals="3">
+			<VALUE>30</VALUE>
+			<VALUE>40</VALUE>
+			<VALUE>50</VALUE>
+			<VALUE>60</VALUE>
+			<VALUE>70</VALUE>
+			<VALUE>80</VALUE>
+		</AXIS>
+		<VALUES decimals="3">
+			<DIM dimension="1">
+				<DIM dimension="0">
+					<VALUE>0.47</VALUE>
+					<VALUE>0.482</VALUE>
+					<VALUE>0.494</VALUE>
+					<VALUE>0.504</VALUE>
+					<VALUE>0.513</VALUE>
+					<VALUE>0.525</VALUE>
+					<VALUE>0.538</VALUE>
+					<VALUE>0.552</VALUE>
+				</DIM>
+				<DIM dimension="0">
+					<VALUE>0.429</VALUE>
+					<VALUE>0.443</VALUE>
+					<VALUE>0.456</VALUE>
+					<VALUE>0.468</VALUE>
+					<VALUE>0.48</VALUE>
+					<VALUE>0.494</VALUE>
+					<VALUE>0.512</VALUE>
+					<VALUE>0.532</VALUE>
+				</DIM>
+				<DIM dimension="0">
+					<VALUE>0.376</VALUE>
+					<VALUE>0.394</VALUE>
+					<VALUE>0.411</VALUE>
+					<VALUE>0.426</VALUE>
+					<VALUE>0.439</VALUE>
+					<VALUE>0.455</VALUE>
+					<VALUE>0.475</VALUE>
+					<VALUE>0.5</VALUE>
+				</DIM>
+				<DIM dimension="0">
+					<VALUE>0.317</VALUE>
+					<VALUE>0.34</VALUE>
+					<VALUE>0.363</VALUE>
+					<VALUE>0.382</VALUE>
+					<VALUE>0.399</VALUE>
+					<VALUE>0.417</VALUE>
+					<VALUE>0.439</VALUE>
+					<VALUE>0.465</VALUE>
+				</DIM>
+				<DIM dimension="0">
+					<VALUE>0.259</VALUE>
+					<VALUE>0.281</VALUE>
+					<VALUE>0.307</VALUE>
+					<VALUE>0.332</VALUE>
+					<VALUE>0.354</VALUE>
+					<VALUE>0.376</VALUE>
+					<VALUE>0.401</VALUE>
+					<VALUE>0.43</VALUE>
+				</DIM>
+				<DIM dimension="0">
+					<VALUE>0.22</VALUE>
+					<VALUE>0.23</VALUE>
+					<VALUE>0.25</VALUE>
+					<VALUE>0.274</VALUE>
+					<VALUE>0.299</VALUE>
+					<VALUE>0.326</VALUE>
+					<VALUE>0.355</VALUE>
+					<VALUE>0.387</VALUE>
+				</DIM>
+			</DIM>
+		</VALUES>
+	</FILEBODY>
+</BMSXML>

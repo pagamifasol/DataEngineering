@@ -1,0 +1,41 @@
+<BMSXML>
+	<FILEINFO>
+		<name>LKT_Speed_ChargeAirMassFlowRate</name>
+		<application>WinDarab</application>
+		<filetype>LookupTable</filetype>
+		<version MajVersion="1.0" MinVersion="001" AppVersion="7.04.030"/>
+	</FILEINFO>
+	<FILEBODY>
+		<DESCRIPTION>Heat Exchange forVehicle speed (m/s) vs  Charge Air Mass Flow Rate (kg/s)</DESCRIPTION>
+		<COLUMNWIDTHS>50</COLUMNWIDTHS>
+		<AXIS interpolate="yes" decimals="4">
+			<VALUE>0.15</VALUE>
+			<VALUE>0.2</VALUE>
+			<VALUE>0.25</VALUE>
+		</AXIS>
+		<AXIS interpolate="yes" decimals="4">
+			<VALUE>90</VALUE>
+			<VALUE>180</VALUE>
+			<VALUE>270</VALUE>
+		</AXIS>
+		<VALUES decimals="4">
+			<DIM dimension="1">
+				<DIM dimension="0">
+					<VALUE>22.27</VALUE>
+					<VALUE>26.72</VALUE>
+					<VALUE>29.58</VALUE>
+				</DIM>
+				<DIM dimension="0">
+					<VALUE>24.11</VALUE>
+					<VALUE>30.33</VALUE>
+					<VALUE>35.34</VALUE>
+				</DIM>
+				<DIM dimension="0">
+					<VALUE>24.72</VALUE>
+					<VALUE>31.67</VALUE>
+					<VALUE>37.68</VALUE>
+				</DIM>
+			</DIM>
+		</VALUES>
+	</FILEBODY>
+</BMSXML>

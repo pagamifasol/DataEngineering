@@ -1,0 +1,119 @@
+<BMSXML>
+	<FILEINFO>
+		<name>New Lookup Table</name>
+		<application>WinDarab</application>
+		<filetype>LookupTable</filetype>
+		<version MajVersion="1.0" MinVersion="001" AppVersion="7.08.027"/>
+	</FILEINFO>
+	<FILEBODY>
+		<DESCRIPTION></DESCRIPTION>
+		<COLUMNWIDTHS>50</COLUMNWIDTHS>
+		<AXIS interpolate="no" decimals="2">
+			<VALUE>1</VALUE>
+			<VALUE>2</VALUE>
+			<VALUE>3</VALUE>
+		</AXIS>
+		<AXIS interpolate="no" decimals="2">
+			<VALUE>11.11</VALUE>
+			<VALUE>16.67</VALUE>
+			<VALUE>22.22</VALUE>
+			<VALUE>27.78</VALUE>
+			<VALUE>33.33</VALUE>
+			<VALUE>38.89</VALUE>
+			<VALUE>44.44</VALUE>
+			<VALUE>50</VALUE>
+			<VALUE>55.56</VALUE>
+			<VALUE>61.11</VALUE>
+			<VALUE>66.67</VALUE>
+			<VALUE>72.22</VALUE>
+			<VALUE>77.78</VALUE>
+			<VALUE>83.33</VALUE>
+			<VALUE>88.89</VALUE>
+			<VALUE>94.44</VALUE>
+		</AXIS>
+		<VALUES decimals="2">
+			<DIM dimension="1">
+				<DIM dimension="0">
+					<VALUE>356426.556</VALUE>
+					<VALUE>341065.056</VALUE>
+					<VALUE>315462.556</VALUE>
+				</DIM>
+				<DIM dimension="0">
+					<VALUE>360813.676</VALUE>
+					<VALUE>345452.176</VALUE>
+					<VALUE>319849.676</VALUE>
+				</DIM>
+				<DIM dimension="0">
+					<VALUE>365181.192</VALUE>
+					<VALUE>349819.692</VALUE>
+					<VALUE>324217.192</VALUE>
+				</DIM>
+				<DIM dimension="0">
+					<VALUE>369529.102</VALUE>
+					<VALUE>354167.602</VALUE>
+					<VALUE>328565.102</VALUE>
+				</DIM>
+				<DIM dimension="0">
+					<VALUE>373857.408</VALUE>
+					<VALUE>358495.908</VALUE>
+					<VALUE>332893.408</VALUE>
+				</DIM>
+				<DIM dimension="0">
+					<VALUE>378166.108</VALUE>
+					<VALUE>362804.608</VALUE>
+					<VALUE>337202.108</VALUE>
+				</DIM>
+				<DIM dimension="0">
+					<VALUE>382455.204</VALUE>
+					<VALUE>367093.704</VALUE>
+					<VALUE>341491.204</VALUE>
+				</DIM>
+				<DIM dimension="0">
+					<VALUE>386724.695</VALUE>
+					<VALUE>371363.195</VALUE>
+					<VALUE>345760.695</VALUE>
+				</DIM>
+				<DIM dimension="0">
+					<VALUE>390974.581</VALUE>
+					<VALUE>375613.081</VALUE>
+					<VALUE>350010.581</VALUE>
+				</DIM>
+				<DIM dimension="0">
+					<VALUE>395204.862</VALUE>
+					<VALUE>379843.362</VALUE>
+					<VALUE>354240.862</VALUE>
+				</DIM>
+				<DIM dimension="0">
+					<VALUE>399415.538</VALUE>
+					<VALUE>384054.038</VALUE>
+					<VALUE>358451.538</VALUE>
+				</DIM>
+				<DIM dimension="0">
+					<VALUE>403606.609</VALUE>
+					<VALUE>388245.109</VALUE>
+					<VALUE>362642.609</VALUE>
+				</DIM>
+				<DIM dimension="0">
+					<VALUE>407778.075</VALUE>
+					<VALUE>392416.575</VALUE>
+					<VALUE>366814.075</VALUE>
+				</DIM>
+				<DIM dimension="0">
+					<VALUE>411929.936</VALUE>
+					<VALUE>396568.436</VALUE>
+					<VALUE>370965.936</VALUE>
+				</DIM>
+				<DIM dimension="0">
+					<VALUE>416062.192</VALUE>
+					<VALUE>400700.692</VALUE>
+					<VALUE>375098.192</VALUE>
+				</DIM>
+				<DIM dimension="0">
+					<VALUE>420174.844</VALUE>
+					<VALUE>404813.344</VALUE>
+					<VALUE>379210.844</VALUE>
+				</DIM>
+			</DIM>
+		</VALUES>
+	</FILEBODY>
+</BMSXML>

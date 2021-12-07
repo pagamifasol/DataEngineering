@@ -1,0 +1,59 @@
+<BMSXML>
+	<FILEINFO>
+		<name>LKT_MassFlow_Face_HeatExchange_Intercooler</name>
+		<application>WinDarab</application>
+		<filetype>LookupTable</filetype>
+		<version MajVersion="1.0" MinVersion="001" AppVersion="7.03.027"/>
+	</FILEINFO>
+	<FILEBODY>
+		<DESCRIPTION></DESCRIPTION>
+		<COLUMNWIDTHS>50</COLUMNWIDTHS>
+		<AXIS interpolate="yes" decimals="4">
+			<VALUE>0</VALUE>
+			<VALUE>0.15</VALUE>
+			<VALUE>0.2</VALUE>
+			<VALUE>0.25</VALUE>
+		</AXIS>
+		<AXIS interpolate="yes" decimals="4">
+			<VALUE>-5</VALUE>
+			<VALUE>0.3739</VALUE>
+			<VALUE>0.7477</VALUE>
+			<VALUE>1.1216</VALUE>
+			<VALUE>1.4954</VALUE>
+		</AXIS>
+		<VALUES decimals="4">
+			<DIM dimension="1">
+				<DIM dimension="0">
+					<VALUE>0</VALUE>
+					<VALUE>0</VALUE>
+					<VALUE>0</VALUE>
+					<VALUE>0</VALUE>
+				</DIM>
+				<DIM dimension="0">
+					<VALUE>0</VALUE>
+					<VALUE>22.2725</VALUE>
+					<VALUE>26.7175</VALUE>
+					<VALUE>29.5797</VALUE>
+				</DIM>
+				<DIM dimension="0">
+					<VALUE>0</VALUE>
+					<VALUE>24.1128</VALUE>
+					<VALUE>30.3349</VALUE>
+					<VALUE>35.3446</VALUE>
+				</DIM>
+				<DIM dimension="0">
+					<VALUE>0</VALUE>
+					<VALUE>24.7242</VALUE>
+					<VALUE>31.6739</VALUE>
+					<VALUE>37.6843</VALUE>
+				</DIM>
+				<DIM dimension="0">
+					<VALUE>0</VALUE>
+					<VALUE>25.3355</VALUE>
+					<VALUE>33.013</VALUE>
+					<VALUE>40.0239</VALUE>
+				</DIM>
+			</DIM>
+		</VALUES>
+	</FILEBODY>
+</BMSXML>

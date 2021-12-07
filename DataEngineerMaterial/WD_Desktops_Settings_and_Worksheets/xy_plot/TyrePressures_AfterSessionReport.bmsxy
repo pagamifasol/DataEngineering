@@ -1,0 +1,56 @@
+<XYPlot>
+	<Range Value="File"/>
+	<Grid Visible="-1"/>
+	<Info Visible="-1" Location="0,0" Widths="30, 60, 60, 60"/>
+	<PlotSamplesView Width="240" ColumnWidths="UIScale;55;55;55;55"/>
+	<Filepath>C:\Users\Matteo.Paganini\Desktop\DataEnginnering\WD_savedSettings_and_Worksheets\xy_plot\TyrePressures_AfterSessionReport.bmsxy</Filepath>
+	<Legend>
+		<Columns Width="40;354;148;163;338;417"/>
+	</Legend>
+	<Files ShowInfo="-1">
+		<File Overlay="0">
+			<XChannelName Name="lap" Min="nan" Max="nan"/>
+			<YChannelName Name="PressFL_LapAVG" Min="1.5" Max="2.1"/>
+			<ZChannelName Name="gps_elv" Min="0" Max="1"/>
+			<Options Mode="Simple" Style="DotLine"/>
+			<ColorScale Min="0" Max="1" RelativeBreakpoints="-1" SolidColor="#ffff0000">
+				<BREAKPOINT Value="0" Color="#ff0000ff"/>
+				<BREAKPOINT Value="0.5" Color="#ff008000"/>
+				<BREAKPOINT Value="1" Color="#ffff0000"/>
+			</ColorScale>
+		</File>
+		<File Overlay="0">
+			<XChannelName Name="lap" Min="nan" Max="nan"/>
+			<YChannelName Name="PressFR_LapAVG" Min="1.5" Max="2.1"/>
+			<ZChannelName Name="gps_elv" Min="0" Max="1"/>
+			<Options Mode="Simple" Style="DotLine"/>
+			<ColorScale Min="0" Max="1" RelativeBreakpoints="-1" SolidColor="#ff00d500">
+				<BREAKPOINT Value="0" Color="#ff0000ff"/>
+				<BREAKPOINT Value="0.5" Color="#ff008000"/>
+				<BREAKPOINT Value="1" Color="#ffff0000"/>
+			</ColorScale>
+		</File>
+		<File Overlay="0">
+			<XChannelName Name="lap" Min="nan" Max="nan"/>
+			<YChannelName Name="PressRL_LapAVG" Min="1.5" Max="2.1"/>
+			<ZChannelName Name="gps_elv" Min="0" Max="1"/>
+			<Options Mode="Simple" Style="DotLine"/>
+			<ColorScale Min="0" Max="1" RelativeBreakpoints="-1" SolidColor="#ff3182f5">
+				<BREAKPOINT Value="0" Color="#ff0000ff"/>
+				<BREAKPOINT Value="0.5" Color="#ff008000"/>
+				<BREAKPOINT Value="1" Color="#ffff0000"/>
+			</ColorScale>
+		</File>
+		<File Overlay="0">
+			<XChannelName Name="lap" Min="nan" Max="nan"/>
+			<YChannelName Name="PressRR_LapAVG" Min="1.5" Max="2.1"/>
+			<ZChannelName Name="gps_elv" Min="0" Max="1"/>
+			<Options Mode="Simple" Style="DotLine"/>
+			<ColorScale Min="0" Max="1" RelativeBreakpoints="-1" SolidColor="#ffd5d500">
+				<BREAKPOINT Value="0" Color="#ff0000ff"/>
+				<BREAKPOINT Value="0.5" Color="#ff008000"/>
+				<BREAKPOINT Value="1" Color="#ffff0000"/>
+			</ColorScale>
+		</File>
+	</Files>
+</XYPlot>

@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<WTX3ToolBars>
+<ToolBar>
+<Name>Main</Name>
+<Cmd>61,1,0,14,15,16,157,0,9,10,11,0,12,13,0,17,18,0,360,0,387,388,0,68,69,125,156,0,24,25,26,30,34,0,42,0,47,48,60,0,71,59,</Cmd>
+<State>1</State>
+<ID>4106</ID>
+</ToolBar>
+<ToolBar>
+<Name>Layout</Name>
+<Cmd>66,63,65,64,364,</Cmd>
+<State>1</State>
+<ID>4107</ID>
+</ToolBar>
+<WintaxConfiguration>
+<Version>4.80.08.29</Version>
+</WintaxConfiguration>
+</WTX3ToolBars>

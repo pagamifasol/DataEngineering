@@ -1,0 +1,62 @@
+<BMSXML>
+	<FILEINFO>
+		<name>Temp-M6</name>
+		<application>WinDarab</application>
+		<filetype>LookupTable</filetype>
+		<version MajVersion="1.0" MinVersion="001" AppVersion="7.03.027"/>
+	</FILEINFO>
+	<FILEBODY>
+		<DESCRIPTION></DESCRIPTION>
+		<COLUMNWIDTHS>60</COLUMNWIDTHS>
+		<AXIS interpolate="no" decimals="2">
+			<VALUE>363</VALUE>
+			<VALUE>477</VALUE>
+			<VALUE>567</VALUE>
+			<VALUE>1011</VALUE>
+			<VALUE>1338</VALUE>
+			<VALUE>1721</VALUE>
+			<VALUE>2171</VALUE>
+			<VALUE>2702</VALUE>
+			<VALUE>3348</VALUE>
+			<VALUE>4153</VALUE>
+			<VALUE>5169</VALUE>
+			<VALUE>5725</VALUE>
+			<VALUE>6500</VALUE>
+			<VALUE>7893</VALUE>
+			<VALUE>12012</VALUE>
+			<VALUE>18732</VALUE>
+			<VALUE>29960</VALUE>
+			<VALUE>49254</VALUE>
+			<VALUE>83318</VALUE>
+			<VALUE>145877</VALUE>
+			<VALUE>266805</VALUE>
+			<VALUE>510285</VALUE>
+		</AXIS>
+		<VALUES decimals="2">
+			<DIM dimension="0">
+				<VALUE>150</VALUE>
+				<VALUE>140</VALUE>
+				<VALUE>120</VALUE>
+				<VALUE>100</VALUE>
+				<VALUE>80</VALUE>
+				<VALUE>60</VALUE>
+				<VALUE>40</VALUE>
+				<VALUE>20</VALUE>
+				<VALUE>0</VALUE>
+				<VALUE>-20</VALUE>
+				<VALUE>-40</VALUE>
+				<VALUE>-40</VALUE>
+				<VALUE>-40</VALUE>
+				<VALUE>-40</VALUE>
+				<VALUE>-40</VALUE>
+				<VALUE>-40</VALUE>
+				<VALUE>-40</VALUE>
+				<VALUE>-40</VALUE>
+				<VALUE>-40</VALUE>
+				<VALUE>-40</VALUE>
+				<VALUE>-40</VALUE>
+				<VALUE>-40</VALUE>
+			</DIM>
+		</VALUES>
+	</FILEBODY>
+</BMSXML>

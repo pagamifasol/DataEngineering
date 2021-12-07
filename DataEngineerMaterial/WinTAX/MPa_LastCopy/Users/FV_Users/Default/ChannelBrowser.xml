@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<CnfChannelBrowser>
+<SortVCH>0</SortVCH>
+<SortUDA>0</SortUDA>
+<SortCOND>0</SortCOND>
+<SortINFO>0</SortINFO>
+<SortUDART>0</SortUDART>
+<SortConstants>0</SortConstants>
+<SortUserRecords>0</SortUserRecords>
+<SortEvents>0</SortEvents>
+<SortOLE>0</SortOLE>
+<SortGroups>0</SortGroups>
+<SortMerged>0</SortMerged>
+<SortImport>0</SortImport>
+<SortLocalGroups>0</SortLocalGroups>
+<SortVCHVariables>0</SortVCHVariables>
+<SortV2X>0</SortV2X>
+<SortVCHMathDLL>0</SortVCHMathDLL>
+<SortCLXChannels>0</SortCLXChannels>
+<SortTPXChannels>0</SortTPXChannels>
+<SortRCS>0</SortRCS>
+</CnfChannelBrowser>

@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<Libraries>
+<Library>
+<Name>Default.cnd</Name>
+<Enable>1</Enable>
+<Expand>1</Expand>
+</Library>
+<WintaxConfiguration>
+<Version>4.80.08.29</Version>
+</WintaxConfiguration>
+</Libraries>

@@ -1,0 +1,32 @@
+<?xml version="1.0"?>
+<Condition>
+<Conditions>
+<VCH>
+<Name>Braking</Name>
+<Properties>
+<Comment/>
+<Measure/>
+<Expression>IFGT( team_master_cyl_press_f, 10 )</Expression>
+<Freq>Auto</Freq>
+<OutFormat>Auto</OutFormat>
+<Decimals>Auto</Decimals>
+<Showhide>1</Showhide>
+</Properties>
+</VCH>
+<VCH>
+<Name>Condition</Name>
+<Properties>
+<Comment/>
+<Measure/>
+<Expression/>
+<Freq>Auto</Freq>
+<OutFormat>Auto</OutFormat>
+<Decimals>Auto</Decimals>
+<Showhide>1</Showhide>
+</Properties>
+</VCH>
+</Conditions>
+<WintaxConfiguration>
+<Version>4.80.08.29</Version>
+</WintaxConfiguration>
+</Condition>

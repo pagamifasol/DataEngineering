@@ -1,0 +1,102 @@
+<COnlineDataWnd Name="C:\Users\Matteo.Paganini\Desktop\DataEnginnering\Worksheets\Brakes_alarms.bmstm" Caption="Instrument panel">
+	<COnlineDataItemBar oid="1" Name="tdisk_rr" Caption="RR_Disk_T" Len="8" Dec="2" Max="1200" PosSize="207,131,107,132" ForeColor="WHITE" BackColor="Yellow-5">
+		<ZONE Id="0" Valid="-1" Start="400" Hysteresis="20" Hystersis="20" UnconfirmedBackColor="BLACK" Alert="-1"/>
+		<ZONE Id="1" Valid="-1" Hysteresis="0.2" Hystersis="0.2"/>
+		<ZONE Id="2" Valid="-1" Start="650" Hysteresis="20" Hystersis="20" UnconfirmedBackColor="BLACK" Alert="-1"/>
+		<CAPTION Height="18"/>
+		<HOLD Min="90000" Max="90000"/>
+		<STYLE Solid="-1" ValueHeight="17" ScaleWidth="40" ScaleValueHeight="9"/>
+	</COnlineDataItemBar>
+	<COnlineDataItemBar oid="2" Name="tdisk_rl" Caption="RL_Disk_T" Len="8" Dec="2" Max="1200" PosSize="79,131,106,132" ForeColor="WHITE" BackColor="Blue-8">
+		<ZONE Id="0" Valid="-1" Start="400" Hysteresis="20" Hystersis="20" UnconfirmedForeColor="LTBLUE" Alert="-1"/>
+		<ZONE Id="1" Valid="-1" Hysteresis="0.2" Hystersis="0.2"/>
+		<ZONE Id="2" Valid="-1" Start="650" Hysteresis="20" Hystersis="20" Alert="-1"/>
+		<CAPTION Height="18"/>
+		<HOLD Min="90000" Max="90000"/>
+		<STYLE Solid="-1" ValueHeight="17" ScaleWidth="38" ScaleValueHeight="9"/>
+	</COnlineDataItemBar>
+	<COnlineDataItemValue oid="3" Name="brake_wear_rr" Caption="RR_Brk_Wear" Len="8" Dec="2" Min="-12" Max="12" PosSize="314,228,79,35" BackColor="Yellow-5">
+		<ZONE Id="0" Valid="-1" Start="-49" Hysteresis="0.005" Hystersis="0.005" UnconfirmedBackColor="WHITE" Alert="-1"/>
+		<ZONE Id="1" Valid="-1" Hysteresis="0.005" Hystersis="0.005"/>
+		<ZONE Id="2" Hysteresis="0.005" Hystersis="0.005"/>
+		<CAPTION Height="17" ForeColor="WHITE"/>
+	</COnlineDataItemValue>
+	<COnlineDataItemValue oid="4" Name="brake_wear_rl" Caption="RL_Brk_Wear" Len="8" Dec="2" Min="-12" Max="12" PosSize="0,228,79,35" BackColor="Blue-9">
+		<ZONE Id="0" Valid="-1" Start="-49" Hysteresis="0.005" Hystersis="0.005" UnconfirmedBackColor="WHITE" Alert="-1"/>
+		<ZONE Id="1" Valid="-1" Hysteresis="0.005" Hystersis="0.005"/>
+		<ZONE Id="2" Hysteresis="0.005" Hystersis="0.005"/>
+		<CAPTION Height="17" ForeColor="WHITE"/>
+	</COnlineDataItemValue>
+	<COnlineDataItemValue oid="5" Name="brake_wear_fr" Caption="FR_Brk_Wear" Len="8" Dec="2" Min="-12" Max="12" PosSize="314,0,79,35" BackColor="Green-5">
+		<ZONE Id="0" Valid="-1" Start="-49" Hysteresis="0.005" Hystersis="0.005" UnconfirmedBackColor="WHITE" Alert="-1"/>
+		<ZONE Id="1" Valid="-1" Hysteresis="0.005" Hystersis="0.005"/>
+		<ZONE Id="2" Hysteresis="0.005" Hystersis="0.005"/>
+		<CAPTION Height="17" ForeColor="WHITE"/>
+	</COnlineDataItemValue>
+	<COnlineDataItemValue oid="6" Name="brake_wear_fl" Caption="FL_Brk_Wear" Len="8" Dec="2" Min="-12" Max="12" PosSize="0,0,79,35" BackColor="Red-8">
+		<ZONE Id="0" Valid="-1" Start="-49" Hysteresis="2" Hystersis="2" UnconfirmedBackColor="WHITE" Alert="-1"/>
+		<ZONE Id="1" Valid="-1" Hysteresis="0.005" Hystersis="0.005"/>
+		<ZONE Id="2" Hysteresis="0.005" Hystersis="0.005"/>
+		<CAPTION Height="17" ForeColor="WHITE"/>
+	</COnlineDataItemValue>
+	<COnlineDataItemBar oid="7" Name="tcalliper" Caption="FL_Calliper_T" Len="9" Dec="2" Max="200" PosSize="12,35,67,96" ForeColor="WHITE" BackColor="Red-7">
+		<ZONE Id="0" Valid="-1" Start="40" Hysteresis="0.05" Hystersis="0.05"/>
+		<ZONE Id="1" Valid="-1" Hysteresis="0.05" Hystersis="0.05"/>
+		<ZONE Id="2" Valid="-1" Start="180" Hysteresis="35" Hystersis="35" UnconfirmedForeColor="Red-8" UnconfirmedBackColor="WHITE" Alert="-1"/>
+		<CAPTION Height="17"/>
+		<HOLD Min="90000" Max="90000"/>
+		<STYLE Solid="-1" ValueHeight="17" ScaleWidth="36" ScaleValueHeight="10"/>
+	</COnlineDataItemBar>
+	<COnlineDataItemBar oid="8" Name="tcalliper_fr" Caption="FR_Calliper_T" Len="9" Dec="2" Max="200" PosSize="314,35,67,96" ForeColor="WHITE" BackColor="Green-5">
+		<ZONE Id="0" Valid="-1" Start="40" Hysteresis="0.05" Hystersis="0.05"/>
+		<ZONE Id="1" Valid="-1" Hysteresis="0.05" Hystersis="0.05"/>
+		<ZONE Id="2" Valid="-1" Start="180" Hysteresis="0.05" Hystersis="0.05" UnconfirmedForeColor="Red-8" UnconfirmedBackColor="WHITE" Alert="-1"/>
+		<CAPTION Height="17"/>
+		<HOLD Min="90000" Max="90000"/>
+		<STYLE Solid="-1" ValueHeight="17" ScaleWidth="36" ScaleValueHeight="10"/>
+	</COnlineDataItemBar>
+	<COnlineDataItemBar oid="9" Name="tcalliper_rr" Caption="RR_Calliper_T" Len="9" Dec="2" Max="200" PosSize="314,132,67,96" ForeColor="WHITE" BackColor="Yellow-5">
+		<ZONE Id="0" Valid="-1" Start="40" Hysteresis="0.05" Hystersis="0.05"/>
+		<ZONE Id="1" Valid="-1" Hysteresis="0.05" Hystersis="0.05"/>
+		<ZONE Id="2" Valid="-1" Start="180" Hysteresis="0.05" Hystersis="0.05" UnconfirmedForeColor="Red-8" UnconfirmedBackColor="WHITE" Alert="-1"/>
+		<CAPTION Height="17"/>
+		<HOLD Min="90000" Max="90000"/>
+		<STYLE Solid="-1" ValueHeight="17" ScaleWidth="36" ScaleValueHeight="10"/>
+	</COnlineDataItemBar>
+	<COnlineDataItemBar oid="10" Name="tcalliper_rl" Caption="RL_Calliper_T" Len="9" Dec="2" Max="200" PosSize="12,132,67,96" ForeColor="WHITE" BackColor="Blue-8">
+		<ZONE Id="0" Valid="-1" Start="40" Hysteresis="0.05" Hystersis="0.05"/>
+		<ZONE Id="1" Valid="-1" Hysteresis="0.05" Hystersis="0.05"/>
+		<ZONE Id="2" Valid="-1" Start="180" Hysteresis="0.05" Hystersis="0.05" UnconfirmedForeColor="Red-8" UnconfirmedBackColor="WHITE" Alert="-1"/>
+		<CAPTION Height="17"/>
+		<HOLD Min="90000" Max="90000"/>
+		<STYLE Solid="-1" ValueHeight="17" ScaleWidth="36" ScaleValueHeight="10"/>
+	</COnlineDataItemBar>
+	<COnlineDataItemBar oid="11" Name="tdisk_fr" Caption="FR_Disk_T" Len="8" Dec="2" Max="1200" PosSize="244,0,70,130" ForeColor="WHITE" BackColor="Green-5">
+		<ZONE Id="0" Valid="-1" Start="400" Hysteresis="20" Hystersis="20" UnconfirmedBackColor="BLACK" Alert="-1"/>
+		<ZONE Id="1" Valid="-1" Hysteresis="0.2" Hystersis="0.2"/>
+		<ZONE Id="2" Valid="-1" Start="650" Hysteresis="20" Hystersis="20" UnconfirmedBackColor="BLACK" Alert="-1"/>
+		<CAPTION Height="18" BackColor="GREEN"/>
+		<HOLD Min="90000" Max="90000"/>
+		<STYLE Solid="-1" ValueHeight="17" ScaleWidth="40" ScaleValueHeight="9"/>
+	</COnlineDataItemBar>
+	<COnlineDataItemBar oid="12" Name="tdisk_fl" Caption="FL_Disk_T" Len="8" Dec="2" Max="1200" PosSize="79,0,70,130" ForeColor="WHITE" BackColor="Red-7">
+		<ZONE Id="0" Valid="-1" Start="400" Hysteresis="20" Hystersis="20" UnconfirmedBackColor="BLACK" Alert="-1"/>
+		<ZONE Id="1" Valid="-1" Hysteresis="0.2" Hystersis="0.2"/>
+		<ZONE Id="2" Valid="-1" Start="650" Hysteresis="20" Hystersis="20" UnconfirmedBackColor="BLACK" Alert="-1"/>
+		<CAPTION Height="18"/>
+		<HOLD Min="90000" Max="90000"/>
+		<STYLE Solid="-1" ValueHeight="17" ScaleWidth="38" ScaleValueHeight="9"/>
+	</COnlineDataItemBar>
+	<COnlineDataItemPrevLapTime oid="13" Name="laptime" Len="9" Dec="3" Max="1570.00492" PosSize="149,47,95,34">
+		<ZONE Id="0" Hysteresis="1" Hystersis="1" ForeColor="Red-5"/>
+		<ZONE Id="1" Valid="-1" Hysteresis="1" Hystersis="1"/>
+		<ZONE Id="2" Hysteresis="1" Hystersis="1"/>
+		<CAPTION Height="16"/>
+	</COnlineDataItemPrevLapTime>
+	<COnlineDataItemCurrLapTime oid="14" Name="laptime" Len="9" Dec="3" Max="1570.00492" PosSize="149,13,95,34">
+		<ZONE Id="0" Hysteresis="1" Hystersis="1" ForeColor="LTGREEN"/>
+		<ZONE Id="1" Valid="-1" Hysteresis="1" Hystersis="1"/>
+		<ZONE Id="2" Hysteresis="1" Hystersis="1"/>
+		<CAPTION Height="17"/>
+	</COnlineDataItemCurrLapTime>
+</COnlineDataWnd>

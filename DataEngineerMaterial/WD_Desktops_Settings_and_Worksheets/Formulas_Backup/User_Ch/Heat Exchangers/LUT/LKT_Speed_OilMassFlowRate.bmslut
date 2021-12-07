@@ -1,0 +1,41 @@
+<BMSXML>
+	<FILEINFO>
+		<name>LKT_Speed_OilMassFlowRate</name>
+		<application>WinDarab</application>
+		<filetype>LookupTable</filetype>
+		<version MajVersion="1.0" MinVersion="001" AppVersion="7.04.030"/>
+	</FILEINFO>
+	<FILEBODY>
+		<DESCRIPTION>Heat Exchange forVehicle speed (m/s) vs  Oil  Mass Flow Rate (kg/s)</DESCRIPTION>
+		<COLUMNWIDTHS>50</COLUMNWIDTHS>
+		<AXIS interpolate="yes" decimals="4">
+			<VALUE>0.33</VALUE>
+			<VALUE>0.47</VALUE>
+			<VALUE>0.6</VALUE>
+		</AXIS>
+		<AXIS interpolate="yes" decimals="4">
+			<VALUE>90</VALUE>
+			<VALUE>180</VALUE>
+			<VALUE>270</VALUE>
+		</AXIS>
+		<VALUES decimals="4">
+			<DIM dimension="1">
+				<DIM dimension="0">
+					<VALUE>14.07</VALUE>
+					<VALUE>14.77</VALUE>
+					<VALUE>15.18</VALUE>
+				</DIM>
+				<DIM dimension="0">
+					<VALUE>22.31</VALUE>
+					<VALUE>24.19</VALUE>
+					<VALUE>25.42</VALUE>
+				</DIM>
+				<DIM dimension="0">
+					<VALUE>27.1</VALUE>
+					<VALUE>30.17</VALUE>
+					<VALUE>32.3</VALUE>
+				</DIM>
+			</DIM>
+		</VALUES>
+	</FILEBODY>
+</BMSXML>

@@ -1,0 +1,58 @@
+<BMSXML>
+	<FILEINFO>
+		<name>LKT_RPM_HeatRejection_Oil-Gearbox</name>
+		<application>WinDarab</application>
+		<filetype>LookupTable</filetype>
+		<version MajVersion="1.0" MinVersion="001" AppVersion="7.03.027"/>
+	</FILEINFO>
+	<FILEBODY>
+		<DESCRIPTION></DESCRIPTION>
+		<COLUMNWIDTHS>50</COLUMNWIDTHS>
+		<AXIS interpolate="yes" decimals="2">
+			<VALUE>3000</VALUE>
+			<VALUE>3200</VALUE>
+			<VALUE>3400</VALUE>
+			<VALUE>3600</VALUE>
+			<VALUE>3800</VALUE>
+			<VALUE>4000</VALUE>
+			<VALUE>4200</VALUE>
+			<VALUE>4400</VALUE>
+			<VALUE>4600</VALUE>
+			<VALUE>4800</VALUE>
+			<VALUE>5000</VALUE>
+			<VALUE>5200</VALUE>
+			<VALUE>5400</VALUE>
+			<VALUE>5600</VALUE>
+			<VALUE>5800</VALUE>
+			<VALUE>6000</VALUE>
+			<VALUE>6200</VALUE>
+			<VALUE>6400</VALUE>
+			<VALUE>6600</VALUE>
+			<VALUE>6800</VALUE>
+		</AXIS>
+		<VALUES decimals="2">
+			<DIM dimension="0">
+				<VALUE>7.56</VALUE>
+				<VALUE>7.72</VALUE>
+				<VALUE>8.460000000000001</VALUE>
+				<VALUE>9.27</VALUE>
+				<VALUE>9.619999999999999</VALUE>
+				<VALUE>10.01</VALUE>
+				<VALUE>10.47</VALUE>
+				<VALUE>11.56</VALUE>
+				<VALUE>11.71</VALUE>
+				<VALUE>12.37</VALUE>
+				<VALUE>13.19</VALUE>
+				<VALUE>13.89</VALUE>
+				<VALUE>13.9</VALUE>
+				<VALUE>13.91</VALUE>
+				<VALUE>13.93</VALUE>
+				<VALUE>13.94</VALUE>
+				<VALUE>13.95</VALUE>
+				<VALUE>13.96</VALUE>
+				<VALUE>13.98</VALUE>
+				<VALUE>13.99</VALUE>
+			</DIM>
+		</VALUES>
+	</FILEBODY>
+</BMSXML>

@@ -1,0 +1,196 @@
+<SETUPSHEET>
+	<CAR Filename="*">
+		<CHANNEL Name="AirDensity" Unit="kg/m^3" Format="9.3" Persistent="True">
+			<OUTING Value="1">1.18</OUTING>
+		</CHANNEL>
+		<CHANNEL Name="Camber_F" Unit="deg" Format="4.2" Persistent="True">
+			<OUTING Value="1">-2.6</OUTING>
+		</CHANNEL>
+		<CHANNEL Name="Camber_Gain_F" Unit="deg/mm" Format="9.3" Persistent="True">
+			<OUTING Value="1">0.02</OUTING>
+		</CHANNEL>
+		<CHANNEL Name="Camber_R" Unit="deg" Format="4.2" Persistent="True">
+			<OUTING Value="1">-2.1</OUTING>
+		</CHANNEL>
+		<CHANNEL Name="Camber_Gain_R" Unit="deg/mm" Format="9.3" Persistent="True">
+			<OUTING Value="1">0.026</OUTING>
+		</CHANNEL>
+		<CHANNEL Name="Toe_F (OUT)" Unit="mm" Format="4.2" Persistent="True">
+			<OUTING Value="1">-1.4</OUTING>
+		</CHANNEL>
+		<CHANNEL Name="Toe_R (IN)" Unit="mm" Format="4.2" Persistent="True">
+			<OUTING Value="1">1.6</OUTING>
+		</CHANNEL>
+		<CHANNEL Name="Car_mass" Unit="kg" Format="9.3" Persistent="True">
+			<OUTING Value="1">1128.1</OUTING>
+		</CHANNEL>
+		<CHANNEL Name="Sprung_mass" Unit="kg" Format="9.3" Persistent="True">
+			<OUTING Value="1">958.1</OUTING>
+		</CHANNEL>
+		<CHANNEL Name="Unsprung_mass_f" Unit="kg" Format="9.3" Persistent="True">
+			<OUTING Value="1">40</OUTING>
+		</CHANNEL>
+		<CHANNEL Name="Unsprung_mass_r" Unit="kg" Format="9.3" Persistent="True">
+			<OUTING Value="1">45</OUTING>
+		</CHANNEL>
+		<CHANNEL Name="Weight_Distribution(front)" Unit="%" Format="7.5" Persistent="True">
+			<OUTING Value="1">0.4521</OUTING>
+		</CHANNEL>
+		<CHANNEL Name="Load_Static_front" Unit="kN" Format="9.3" Persistent="True">
+			<OUTING Value="1">6.865</OUTING>
+		</CHANNEL>
+		<CHANNEL Name="Load_Static_rear" Unit="kN" Format="9.3" Persistent="True">
+			<OUTING Value="1">13.92</OUTING>
+		</CHANNEL>
+		<CHANNEL Name="pushrod_ratio_f" Unit="none" Format="6.4" Persistent="True">
+			<OUTING Value="1">0.705</OUTING>
+		</CHANNEL>
+		<CHANNEL Name="pushrod_ratio_r" Unit="none" Format="6.4" Persistent="True">
+			<OUTING Value="1">0.44</OUTING>
+		</CHANNEL>
+		<CHANNEL Name="Anti_Dive" Unit="none" Format="6.2" Persistent="True">
+			<OUTING Value="1">53</OUTING>
+		</CHANNEL>
+		<CHANNEL Name="Anti_Lift" Unit="none" Format="6.2" Persistent="True">
+			<OUTING Value="1">90</OUTING>
+		</CHANNEL>
+		<CHANNEL Name="Anti_Squat" Unit="none" Format="6.2" Persistent="True">
+			<OUTING Value="1">-11</OUTING>
+		</CHANNEL>
+		<CHANNEL Name="h_RC_f" Unit="mm" Format="5.3" Persistent="True">
+			<OUTING Value="1">51</OUTING>
+		</CHANNEL>
+		<CHANNEL Name="h_RC_r" Unit="mm" Format="5.3" Persistent="True">
+			<OUTING Value="1">108</OUTING>
+		</CHANNEL>
+		<CHANNEL Name="Cz_f_pit" Unit="none" Format="9.3" Persistent="True">
+			<OUTING Value="1">0</OUTING>
+		</CHANNEL>
+		<CHANNEL Name="Cz_r_pit" Unit="none" Format="9.3" Persistent="True">
+			<OUTING Value="1">0</OUTING>
+		</CHANNEL>
+		<CHANNEL Name="h_COG" Unit="m" Format="9.3" Persistent="True">
+			<OUTING Value="1">0.32</OUTING>
+		</CHANNEL>
+		<CHANNEL Name="Track_F" Unit="mm" Format="9.3" Persistent="True">
+			<OUTING Value="1">1.655105</OUTING>
+		</CHANNEL>
+		<CHANNEL Name="Track_R" Unit="mm" Format="9.3" Persistent="True">
+			<OUTING Value="1">1.61046</OUTING>
+		</CHANNEL>
+		<CHANNEL Name="Wheelbase" Unit="m" Format="9.3" Persistent="True">
+			<OUTING Value="1">3.14</OUTING>
+		</CHANNEL>
+		<CHANNEL Name="Front_Splitter" Unit="deg" Format="4.2" Persistent="True">
+			<OUTING Value="1">0</OUTING>
+		</CHANNEL>
+		<CHANNEL Name="Wheel_Radius" Unit="m" Format="6.4" Persistent="True">
+			<OUTING Value="1">0.346</OUTING>
+		</CHANNEL>
+		<CHANNEL Name="Tyre_Compound" Unit="none" Format="1.0" Persistent="True">
+			<OUTING Value="1">1</OUTING>
+		</CHANNEL>
+		<CHANNEL Name="mu_tires" Unit="none" Format="5.3" Persistent="True">
+			<OUTING Value="1">1.3</OUTING>
+		</CHANNEL>
+		<CHANNEL Name="Front_Spring_K" Unit="N/mm" Format="4.1" Persistent="True">
+			<OUTING Value="1">193</OUTING>
+		</CHANNEL>
+		<CHANNEL Name="MR_lat_f" Unit="none" Format="9.3" Persistent="True">
+			<OUTING Value="1">0.8</OUTING>
+		</CHANNEL>
+		<CHANNEL Name="droop_f" Unit="mm" Format="9.3" Persistent="True">
+			<OUTING Value="1">26.25</OUTING>
+		</CHANNEL>
+		<CHANNEL Name="droop_3rd_element_front" Unit="mm" Format="9.3" Persistent="True">
+			<OUTING Value="1">38.882</OUTING>
+		</CHANNEL>
+		<CHANNEL Name="Front_3rdElement_Stack" Unit="Hz" Format="2.0" Persistent="True">
+			<OUTING Value="1">9</OUTING>
+		</CHANNEL>
+		<CHANNEL Name="MR_Cen_f" Unit="none" Format="9.3" Persistent="True">
+			<OUTING Value="1">1.2</OUTING>
+		</CHANNEL>
+		<CHANNEL Name="Rear_Spring_K" Unit="N/mm" Format="4.1" Persistent="True">
+			<OUTING Value="1">193</OUTING>
+		</CHANNEL>
+		<CHANNEL Name="MR_lat_r" Unit="none" Format="9.3" Persistent="True">
+			<OUTING Value="1">0.8</OUTING>
+		</CHANNEL>
+		<CHANNEL Name="droop_r" Unit="mm" Format="9.3" Persistent="True">
+			<OUTING Value="1">23.8</OUTING>
+		</CHANNEL>
+		<CHANNEL Name="droop_3rd_element_rear" Unit="mm" Format="9.3" Persistent="True">
+			<OUTING Value="1">26.302</OUTING>
+		</CHANNEL>
+		<CHANNEL Name="Rear_3rdElement_Stack" Unit="Hz" Format="2.0" Persistent="True">
+			<OUTING Value="1">6</OUTING>
+		</CHANNEL>
+		<CHANNEL Name="MR_Cen_r" Unit="none" Format="9.3" Persistent="True">
+			<OUTING Value="1">0.9</OUTING>
+		</CHANNEL>
+		<CHANNEL Name="Front_ARB" Unit="Nm/deg" Format="9.1" Persistent="True">
+			<OUTING Value="1">26800</OUTING>
+		</CHANNEL>
+		<CHANNEL Name="MR_Front_ARB" Unit="deg/deg body roll" Format="9.3" Persistent="True">
+			<OUTING Value="1">8.99</OUTING>
+		</CHANNEL>
+		<CHANNEL Name="Rear_ARB" Unit="Nm/deg" Format="9.1" Persistent="True">
+			<OUTING Value="1">30400</OUTING>
+		</CHANNEL>
+		<CHANNEL Name="MR_Rear_ARB" Unit="deg/deg body roll" Format="9.3" Persistent="True">
+			<OUTING Value="1">6.07</OUTING>
+		</CHANNEL>
+		<CHANNEL Name="Elastic Roll Bal" Unit="none" Format="5.3" Persistent="True">
+			<OUTING Value="1">0.56</OUTING>
+		</CHANNEL>
+		<CHANNEL Name="FRH_Static" Unit="mm" Format="6.2" Persistent="True">
+			<OUTING Value="1">61.5</OUTING>
+		</CHANNEL>
+		<CHANNEL Name="RRH_Static" Unit="mm" Format="6.2" Persistent="True">
+			<OUTING Value="1">82.2</OUTING>
+		</CHANNEL>
+		<CHANNEL Name="Packer_gap_FL" Unit="mm" Format="9.3" Persistent="True">
+			<OUTING Value="1">49.8</OUTING>
+		</CHANNEL>
+		<CHANNEL Name="Packer_gap_FR" Unit="mm+" Format="9.3" Persistent="True">
+			<OUTING Value="1">49.4</OUTING>
+		</CHANNEL>
+		<CHANNEL Name="Packer_gap_RL" Unit="mm" Format="9.3" Persistent="True">
+			<OUTING Value="1">41.1</OUTING>
+		</CHANNEL>
+		<CHANNEL Name="Packer_gap_RR" Unit="mm" Format="9.3" Persistent="True">
+			<OUTING Value="1">44.8</OUTING>
+		</CHANNEL>
+		<CHANNEL Name="Packer_gap_FC" Unit="mm" Format="9.3" Persistent="True">
+			<OUTING Value="1">40.8</OUTING>
+		</CHANNEL>
+		<CHANNEL Name="Packer_gap_RC" Format="9.3" Persistent="True">
+			<OUTING Value="1">27.9</OUTING>
+		</CHANNEL>
+		<CHANNEL Name="FL_Brake_Blanking" Unit="%" Format="5.2" Persistent="True">
+			<OUTING Value="1">0</OUTING>
+		</CHANNEL>
+		<CHANNEL Name="FR_Brake_Blanking" Unit="%" Format="5.2" Persistent="True">
+			<OUTING Value="1">0</OUTING>
+		</CHANNEL>
+		<CHANNEL Name="RL_Brake_Blanking" Unit="%" Format="5.2" Persistent="True">
+			<OUTING Value="1">0</OUTING>
+		</CHANNEL>
+		<CHANNEL Name="RR_Brake_Blanking" Unit="%" Format="5.2" Persistent="True">
+			<OUTING Value="1">0</OUTING>
+		</CHANNEL>
+		<CHANNEL Name="Offset_acc_fl" Unit="g" Format="5.3" Persistent="True">
+			<OUTING Value="1">-2</OUTING>
+		</CHANNEL>
+		<CHANNEL Name="Offset_acc_fr" Unit="g" Format="5.3" Persistent="True">
+			<OUTING Value="1">-2</OUTING>
+		</CHANNEL>
+		<CHANNEL Name="Offset_acc_rl" Unit="g" Format="5.3" Persistent="True">
+			<OUTING Value="1">-2</OUTING>
+		</CHANNEL>
+		<CHANNEL Name="Offset_acc_rr" Unit="g" Format="5.3" Persistent="True">
+			<OUTING Value="1">-2</OUTING>
+		</CHANNEL>
+	</CAR>
+</SETUPSHEET>

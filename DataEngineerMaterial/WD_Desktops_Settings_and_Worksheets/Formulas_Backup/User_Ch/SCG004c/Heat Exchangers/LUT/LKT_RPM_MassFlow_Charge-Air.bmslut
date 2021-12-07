@@ -1,0 +1,56 @@
+<BMSXML>
+	<FILEINFO>
+		<name>LKT_RPM_MassFlow_Charge-Air</name>
+		<application>WinDarab</application>
+		<filetype>LookupTable</filetype>
+		<version MajVersion="1.0" MinVersion="001" AppVersion="7.03.027"/>
+	</FILEINFO>
+	<FILEBODY>
+		<DESCRIPTION></DESCRIPTION>
+		<COLUMNWIDTHS>50</COLUMNWIDTHS>
+		<AXIS interpolate="yes" decimals="0">
+			<VALUE>3000</VALUE>
+			<VALUE>3200</VALUE>
+			<VALUE>3400</VALUE>
+			<VALUE>3600</VALUE>
+			<VALUE>3800</VALUE>
+			<VALUE>4400</VALUE>
+			<VALUE>4600</VALUE>
+			<VALUE>4800</VALUE>
+			<VALUE>5000</VALUE>
+			<VALUE>5200</VALUE>
+			<VALUE>5400</VALUE>
+			<VALUE>5500</VALUE>
+			<VALUE>5600</VALUE>
+			<VALUE>5800</VALUE>
+			<VALUE>6000</VALUE>
+			<VALUE>6200</VALUE>
+			<VALUE>6400</VALUE>
+			<VALUE>6600</VALUE>
+			<VALUE>6800</VALUE>
+		</AXIS>
+		<VALUES decimals="4">
+			<DIM dimension="0">
+				<VALUE>0.195</VALUE>
+				<VALUE>0.199</VALUE>
+				<VALUE>0.218</VALUE>
+				<VALUE>0.239</VALUE>
+				<VALUE>0.248</VALUE>
+				<VALUE>0.298</VALUE>
+				<VALUE>0.302</VALUE>
+				<VALUE>0.319</VALUE>
+				<VALUE>0.34</VALUE>
+				<VALUE>0.363</VALUE>
+				<VALUE>0.378</VALUE>
+				<VALUE>0.3835</VALUE>
+				<VALUE>0.389</VALUE>
+				<VALUE>0.399</VALUE>
+				<VALUE>0.403</VALUE>
+				<VALUE>0.4045</VALUE>
+				<VALUE>0.404</VALUE>
+				<VALUE>0.403</VALUE>
+				<VALUE>0.402</VALUE>
+			</DIM>
+		</VALUES>
+	</FILEBODY>
+</BMSXML>

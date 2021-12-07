@@ -1,0 +1,113 @@
+<COnlineDataWnd Name="C:\Users\Matteo.Paganini\Desktop\DataEnginnering\Worksheets\Vital_T_SCG007C.bmstm" Caption="Instrument panel">
+	<COnlineDataItemBar oid="1" Name="toil" Len="3" Min="60" Max="150" PosSize="178,0,96,112" ForeColor="BLACK" BackColor="WHITE">
+		<ZONE Id="0" Valid="-1" Start="60" Hysteresis="4.5" Hystersis="4.5" Alert="-1"/>
+		<ZONE Id="1" Valid="-1" Hysteresis="4.5" Hystersis="4.5"/>
+		<ZONE Id="2" Valid="-1" Start="125" Hysteresis="4.5" Hystersis="4.5" Alert="-1"/>
+		<ALERT Delay="1000"/>
+		<CAPTION Height="17" ForeColor="BLACK" BackColor="Magenta-5"/>
+		<STYLE Solid="-1" ValueHeight="17" ScaleWidth="40" ScaleValueHeight="14"/>
+	</COnlineDataItemBar>
+	<COnlineDataItemBar oid="2" Name="tint2" Len="3" Min="10" Max="60" PosSize="274,112,96,112" ForeColor="BLACK" BackColor="WHITE">
+		<ZONE Id="0" Valid="-1" Start="10" Hysteresis="3" Hystersis="3" ForeColor="LTBLUE" UnconfirmedForeColor="LTRED" Alert="-1"/>
+		<ZONE Id="1" Valid="-1" Hysteresis="3" Hystersis="3"/>
+		<ZONE Id="2" Valid="-1" Start="40" Hysteresis="3" Hystersis="3" Alert="-1"/>
+		<CAPTION Height="17" ForeColor="WHITE" BackColor="Cyan-3"/>
+		<HOLD Min="15000" Max="15000"/>
+		<STYLE Solid="-1" ValueHeight="17" ScaleWidth="40" ScaleValueHeight="14"/>
+	</COnlineDataItemBar>
+	<COnlineDataItemBar oid="3" Name="texh2" Len="5" Min="500" Max="1000" PosSize="370,112,99,112" ForeColor="BLACK" BackColor="WHITE">
+		<ZONE Id="0" Hysteresis="50" Hystersis="50"/>
+		<ZONE Id="1" Valid="-1" Hysteresis="50" Hystersis="50"/>
+		<ZONE Id="2" Valid="-1" Start="850" Hysteresis="20" Hystersis="20" UnconfirmedForeColor="LTRED" Alert="-1"/>
+		<ALERT Delay="5000"/>
+		<CAPTION Height="17" ForeColor="WHITE" BackColor="Orange-5"/>
+		<STYLE Solid="-1" ValueHeight="17" ScaleWidth="40" ScaleValueHeight="14"/>
+	</COnlineDataItemBar>
+	<COnlineDataItemBar oid="4" Name="fuelrem_dls" Len="6" Dec="3" Max="150" PosSize="568,112,93,112">
+		<ZONE Id="0" Valid="-1" Start="11" Hysteresis="0.05" Hystersis="0.05" UnconfirmedForeColor="LTBLUE" UnconfirmedBackColor="WHITE" Alert="-1"/>
+		<ZONE Id="1" Valid="-1" Hysteresis="0.05" Hystersis="0.05"/>
+		<ZONE Id="2" Valid="-1" Start="135" Hysteresis="0.05" Hystersis="0.05" UnconfirmedForeColor="LTRED" UnconfirmedBackColor="WHITE" Alert="-1" Blink="0"/>
+		<CAPTION Height="17" ForeColor="WHITE" BackColor="Green-4"/>
+		<STYLE Solid="-1" ValueHeight="17" ScaleWidth="40" ScaleValueHeight="9"/>
+	</COnlineDataItemBar>
+	<COnlineDataItemBar oid="5" Name="ub" Len="4" Dec="1" Min="11.5" Max="14.5" PosSize="469,112,96,112" ForeColor="BLACK" BackColor="WHITE">
+		<ZONE Id="0" Valid="-1" Start="13" Hysteresis="0.5" Hystersis="0.5" ForeColor="LTRED" UnconfirmedForeColor="LTRED" Alert="-1"/>
+		<ZONE Id="1" Valid="-1" Hysteresis="1" Hystersis="1"/>
+		<ZONE Id="2" Hysteresis="1" Hystersis="1"/>
+		<ALERT Delay="1000"/>
+		<CAPTION Height="17"/>
+		<STYLE Solid="-1" ValueHeight="17" ScaleWidth="40" ScaleValueHeight="14"/>
+	</COnlineDataItemBar>
+	<COnlineDataItemBar oid="6" Name="tmot" Len="4" Min="50" Max="130" PosSize="0,0,96,112" ForeColor="BLACK" BackColor="WHITE">
+		<ZONE Id="0" Valid="-1" Start="60" Hysteresis="2" Hystersis="2" UnconfirmedBackColor="BLACK" Alert="-1"/>
+		<ZONE Id="1" Valid="-1" Hysteresis="10" Hystersis="10"/>
+		<ZONE Id="2" Valid="-1" Start="110" Hysteresis="5" Hystersis="5" UnconfirmedBackColor="BLACK" Alert="-1"/>
+		<ALERT Delay="1000"/>
+		<CAPTION Height="17" BackColor="Yellow-5"/>
+		<HOLD Min="90000" Max="90000"/>
+		<STYLE Solid="-1" ValueHeight="17" ScaleWidth="40" ScaleValueHeight="14"/>
+	</COnlineDataItemBar>
+	<COnlineDataItemBar oid="7" Name="trail_pod" Caption="T_rail" Len="4" Dec="2" Max="95" PosSize="96,0,82,112" ForeColor="BLACK">
+		<ZONE Id="0" Valid="-1" Start="10" Hysteresis="5" Hystersis="5" Alert="-1"/>
+		<ZONE Id="1" Valid="-1" Hysteresis="10" Hystersis="10"/>
+		<ZONE Id="2" Valid="-1" Start="75" Hysteresis="5" Hystersis="5" Alert="-1"/>
+		<ALERT Delay="1000"/>
+		<CAPTION Height="17" ForeColor="WHITE" BackColor="Green-4"/>
+		<HOLD Min="90000" Max="90000"/>
+		<STYLE Solid="-1" ValueHeight="17" ScaleWidth="40" ScaleValueHeight="13"/>
+	</COnlineDataItemBar>
+	<COnlineDataItemBar oid="8" Name="trail2_pod" Caption="T_rail2" Len="4" Dec="2" Max="95" PosSize="96,112,82,112" ForeColor="BLACK">
+		<ZONE Id="0" Valid="-1" Start="10" Hysteresis="10" Hystersis="10" Alert="-1"/>
+		<ZONE Id="1" Valid="-1" Hysteresis="10" Hystersis="10"/>
+		<ZONE Id="2" Valid="-1" Start="75" Hysteresis="10" Hystersis="10" Alert="-1"/>
+		<ALERT Delay="1000"/>
+		<CAPTION Height="17" ForeColor="WHITE" BackColor="Green-4"/>
+		<HOLD Min="90000" Max="90000"/>
+		<STYLE Solid="-1" ValueHeight="17" ScaleWidth="40" ScaleValueHeight="13"/>
+	</COnlineDataItemBar>
+	<COnlineDataItemBar oid="9" Name="tint" Len="3" Min="10" Max="60" PosSize="274,0,96,112" ForeColor="BLACK" BackColor="WHITE">
+		<ZONE Id="0" Valid="-1" Start="10" Hysteresis="3" Hystersis="3" ForeColor="LTRED" UnconfirmedForeColor="LTRED"/>
+		<ZONE Id="1" Valid="-1" Hysteresis="3" Hystersis="3"/>
+		<ZONE Id="2" Valid="-1" Start="40" Hysteresis="3" Hystersis="3" Alert="-1"/>
+		<CAPTION Height="17" ForeColor="WHITE" BackColor="Cyan-3"/>
+		<STYLE Solid="-1" ValueHeight="17" ScaleWidth="40" ScaleValueHeight="14"/>
+	</COnlineDataItemBar>
+	<COnlineDataItemBar oid="10" Name="texh" Len="5" Min="500" Max="1000" PosSize="370,0,99,112" ForeColor="BLACK" BackColor="WHITE">
+		<ZONE Id="0" Hysteresis="50" Hystersis="50"/>
+		<ZONE Id="1" Valid="-1" Hysteresis="50" Hystersis="50"/>
+		<ZONE Id="2" Valid="-1" Start="850" Hysteresis="10" Hystersis="10" UnconfirmedForeColor="LTRED" Alert="-1"/>
+		<ALERT Delay="5000"/>
+		<CAPTION Height="17" ForeColor="WHITE" BackColor="Orange-5"/>
+		<STYLE Solid="-1" ValueHeight="17" ScaleWidth="40" ScaleValueHeight="14"/>
+	</COnlineDataItemBar>
+	<COnlineDataItemBar oid="11" Name="toil2" Len="3" Min="60" Max="150" PosSize="568,0,96,112">
+		<ZONE Id="0" Valid="-1" Start="60" Hysteresis="4" Hystersis="4" Alert="-1"/>
+		<ZONE Id="1" Valid="-1" Hysteresis="4" Hystersis="4"/>
+		<ZONE Id="2" Valid="-1" Start="125" Hysteresis="4" Hystersis="4" Alert="-1"/>
+		<CAPTION Height="17" BackColor="LTMAGENTA"/>
+		<STYLE Solid="-1" ValueHeight="17" ScaleWidth="40" ScaleValueHeight="14"/>
+	</COnlineDataItemBar>
+	<COnlineDataItemBar oid="12" Name="tmot2" Len="4" Min="50" Max="120" PosSize="0,112,96,112" ForeColor="BLACK" BackColor="WHITE">
+		<ZONE Id="0" Valid="-1" Start="60" Hysteresis="4" Hystersis="4" UnconfirmedBackColor="BLACK" Alert="-1"/>
+		<ZONE Id="1" Valid="-1" Hysteresis="4" Hystersis="4"/>
+		<ZONE Id="2" Valid="-1" Start="110" Hysteresis="4" Hystersis="4" UnconfirmedBackColor="BLACK" Alert="-1" Blink="0"/>
+		<ALERT Delay="1000"/>
+		<CAPTION Height="17" BackColor="Yellow-5"/>
+		<HOLD Min="90000" Max="90000"/>
+		<STYLE Solid="-1" ValueHeight="17" ScaleWidth="40" ScaleValueHeight="14"/>
+	</COnlineDataItemBar>
+	<COnlineDataItemBar oid="13" Name="Oil_level" Len="4" Dec="2" Max="9" PosSize="178,112,96,112">
+		<ZONE Id="0" Valid="-1" Start="1.5" Hysteresis="0.2" Hystersis="0.2" UnconfirmedForeColor="LTBLUE" UnconfirmedBackColor="WHITE" Alert="-1"/>
+		<ZONE Id="1" Valid="-1" Hysteresis="5" Hystersis="5"/>
+		<ZONE Id="2" Valid="-1" Start="7" Hysteresis="0.2" Hystersis="0.2" ForeColor="LTRED" UnconfirmedForeColor="LTRED" UnconfirmedBackColor="WHITE" Alert="-1"/>
+		<CAPTION Height="17"/>
+		<STYLE Solid="-1" ValueHeight="17" ScaleWidth="40" ScaleValueHeight="14"/>
+	</COnlineDataItemBar>
+	<COnlineDataItemBar oid="14" Name="tgear" Caption="tgear" Len="3" Min="40" Max="140" PosSize="469,0,96,112" BackColor="WHITE">
+		<ZONE Id="0" Valid="-1" Start="65" Hysteresis="5" Hystersis="5" ForeColor="LTBLUE" UnconfirmedBackColor="LTBLUE" Alert="-1"/>
+		<ZONE Id="1" Valid="-1" Hysteresis="10" Hystersis="10"/>
+		<ZONE Id="2" Valid="-1" Start="110" Hysteresis="10" Hystersis="10" UnconfirmedForeColor="LTRED" Alert="-1"/>
+		<CAPTION Height="17" ForeColor="WHITE" BackColor="Yellow-5"/>
+		<STYLE Solid="-1" ValueHeight="17" ScaleWidth="40" ScaleValueHeight="14"/>
+	</COnlineDataItemBar>
+</COnlineDataWnd>

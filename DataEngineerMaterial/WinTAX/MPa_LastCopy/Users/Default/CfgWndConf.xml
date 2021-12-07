@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<WindowLib>
+<Splitter>
+<XPosDiv>150</XPosDiv>
+</Splitter>
+<WindowState>
+<RectWin>
+<top>151</top>
+<left>-1474</left>
+<bottom>751</bottom>
+<right>-378</right>
+</RectWin>
+<Page>0</Page>
+<Maximized>0</Maximized>
+</WindowState>
+</WindowLib>

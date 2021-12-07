@@ -1,0 +1,62 @@
+<?xml version="1.0"?>
+<LayoutBars>
+<LayoutBar>
+<FileName>Telemetry_1_CB.wly</FileName>
+</LayoutBar>
+<LayoutBar>
+<FileName>Telemetry_2_CB.wly</FileName>
+</LayoutBar>
+<LayoutBar>
+<FileName>Driving_Telemetry.wly</FileName>
+</LayoutBar>
+<LayoutBar>
+<FileName>Performance_Monitor_LeMans.wly</FileName>
+</LayoutBar>
+<LayoutBar>
+<FileName>Race monitor.wly</FileName>
+</LayoutBar>
+<LayoutBar>
+<FileName>Vital #1.wly</FileName>
+</LayoutBar>
+<LayoutBar>
+<FileName>Vital_minMax.wly</FileName>
+</LayoutBar>
+<LayoutBar>
+<FileName>Don't_Break_The_Car.wly</FileName>
+</LayoutBar>
+<LayoutBar>
+<FileName>LookCarefully.wly</FileName>
+</LayoutBar>
+<LayoutBar>
+<FileName>Brake_Diagnosis.wly</FileName>
+</LayoutBar>
+<LayoutBar>
+<FileName>Brake_Report.wly</FileName>
+</LayoutBar>
+<LayoutBar>
+<FileName>Dampers.wly</FileName>
+</LayoutBar>
+<LayoutBar>
+<FileName>DriverPerformance.wly</FileName>
+</LayoutBar>
+<LayoutBar>
+<FileName>TyresAfterSession_P.wly</FileName>
+</LayoutBar>
+<LayoutBar>
+<FileName>TyresAfterSession_T.wly</FileName>
+</LayoutBar>
+<LayoutBar>
+<FileName>Tires_Monitor.wly</FileName>
+</LayoutBar>
+<LayoutBar>
+<FileName>Strategy 1.wly</FileName>
+</LayoutBar>
+<LayoutBar>
+<FileName>Prova_1.wly</FileName>
+</LayoutBar>
+<LayoutBar>
+<FileName>1 Graph window.wly</FileName>
+</LayoutBar>
+<AutoAddToLayoutBar>1</AutoAddToLayoutBar>
+<CompactView>1</CompactView>
+</LayoutBars>

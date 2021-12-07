@@ -1,0 +1,94 @@
+<BMSXML>
+	<FILEINFO>
+		<name>LUT_CzF_FWFL45</name>
+		<application>WinDarab</application>
+		<filetype>LookupTable</filetype>
+		<version MajVersion="1.0" MinVersion="001" AppVersion="7.08.027"/>
+	</FILEINFO>
+	<FILEBODY>
+		<DESCRIPTION></DESCRIPTION>
+		<COLUMNWIDTHS>50</COLUMNWIDTHS>
+		<AXIS interpolate="yes" decimals="3">
+			<VALUE>30</VALUE>
+			<VALUE>40</VALUE>
+			<VALUE>50</VALUE>
+			<VALUE>60</VALUE>
+			<VALUE>70</VALUE>
+			<VALUE>80</VALUE>
+			<VALUE>90</VALUE>
+			<VALUE>100</VALUE>
+		</AXIS>
+		<AXIS interpolate="yes" decimals="3">
+			<VALUE>30</VALUE>
+			<VALUE>40</VALUE>
+			<VALUE>50</VALUE>
+			<VALUE>60</VALUE>
+			<VALUE>70</VALUE>
+			<VALUE>80</VALUE>
+		</AXIS>
+		<VALUES decimals="3">
+			<DIM dimension="1">
+				<DIM dimension="0">
+					<VALUE>1.81</VALUE>
+					<VALUE>1.944</VALUE>
+					<VALUE>2.085</VALUE>
+					<VALUE>2.222</VALUE>
+					<VALUE>2.35</VALUE>
+					<VALUE>2.466</VALUE>
+					<VALUE>2.56</VALUE>
+					<VALUE>2.619</VALUE>
+				</DIM>
+				<DIM dimension="0">
+					<VALUE>1.55</VALUE>
+					<VALUE>1.679</VALUE>
+					<VALUE>1.816</VALUE>
+					<VALUE>1.952</VALUE>
+					<VALUE>2.082</VALUE>
+					<VALUE>2.206</VALUE>
+					<VALUE>2.319</VALUE>
+					<VALUE>2.406</VALUE>
+				</DIM>
+				<DIM dimension="0">
+					<VALUE>1.282</VALUE>
+					<VALUE>1.413</VALUE>
+					<VALUE>1.554</VALUE>
+					<VALUE>1.69</VALUE>
+					<VALUE>1.813</VALUE>
+					<VALUE>1.926</VALUE>
+					<VALUE>2.029</VALUE>
+					<VALUE>2.114</VALUE>
+				</DIM>
+				<DIM dimension="0">
+					<VALUE>1.016</VALUE>
+					<VALUE>1.145</VALUE>
+					<VALUE>1.292</VALUE>
+					<VALUE>1.433</VALUE>
+					<VALUE>1.559</VALUE>
+					<VALUE>1.667</VALUE>
+					<VALUE>1.759</VALUE>
+					<VALUE>1.832</VALUE>
+				</DIM>
+				<DIM dimension="0">
+					<VALUE>0.774</VALUE>
+					<VALUE>0.875</VALUE>
+					<VALUE>1.007</VALUE>
+					<VALUE>1.147</VALUE>
+					<VALUE>1.278</VALUE>
+					<VALUE>1.395</VALUE>
+					<VALUE>1.494</VALUE>
+					<VALUE>1.569</VALUE>
+				</DIM>
+				<DIM dimension="0">
+					<VALUE>0.614</VALUE>
+					<VALUE>0.659</VALUE>
+					<VALUE>0.746</VALUE>
+					<VALUE>0.858</VALUE>
+					<VALUE>0.982</VALUE>
+					<VALUE>1.106</VALUE>
+					<VALUE>1.22</VALUE>
+					<VALUE>1.315</VALUE>
+				</DIM>
+			</DIM>
+		</VALUES>
+	</FILEBODY>
+</BMSXML>

@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<LayoutBars>
+<LayoutBar>
+<FileName>Vital window.wly</FileName>
+</LayoutBar>
+<LayoutBar>
+<FileName>Driver.wly</FileName>
+</LayoutBar>
+<LayoutBar>
+<FileName>Fuel cons.wly</FileName>
+</LayoutBar>
+<LayoutBar>
+<FileName>damper speed.wly</FileName>
+</LayoutBar>
+<AutoAddToLayoutBar>1</AutoAddToLayoutBar>
+<CompactView>1</CompactView>
+</LayoutBars>

@@ -1,0 +1,94 @@
+<BMSXML>
+	<FILEINFO>
+		<name>AeroBalance_LUT_0.8deg_Roll</name>
+		<application>WinDarab</application>
+		<filetype>LookupTable</filetype>
+		<version MajVersion="1.0" MinVersion="001" AppVersion="7.07.052"/>
+	</FILEINFO>
+	<FILEBODY>
+		<DESCRIPTION></DESCRIPTION>
+		<COLUMNWIDTHS>50</COLUMNWIDTHS>
+		<AXIS interpolate="yes" decimals="2">
+			<VALUE>30</VALUE>
+			<VALUE>40</VALUE>
+			<VALUE>50</VALUE>
+			<VALUE>60</VALUE>
+			<VALUE>70</VALUE>
+			<VALUE>80</VALUE>
+			<VALUE>90</VALUE>
+			<VALUE>100</VALUE>
+		</AXIS>
+		<AXIS interpolate="yes" decimals="2">
+			<VALUE>30</VALUE>
+			<VALUE>40</VALUE>
+			<VALUE>50</VALUE>
+			<VALUE>60</VALUE>
+			<VALUE>70</VALUE>
+			<VALUE>80</VALUE>
+		</AXIS>
+		<VALUES decimals="2">
+			<DIM dimension="1">
+				<DIM dimension="0">
+					<VALUE>47.64</VALUE>
+					<VALUE>49.03</VALUE>
+					<VALUE>50.22</VALUE>
+					<VALUE>51.19</VALUE>
+					<VALUE>52.11</VALUE>
+					<VALUE>53.19</VALUE>
+					<VALUE>54.5</VALUE>
+					<VALUE>55.92</VALUE>
+				</DIM>
+				<DIM dimension="0">
+					<VALUE>43.49</VALUE>
+					<VALUE>45</VALUE>
+					<VALUE>46.41</VALUE>
+					<VALUE>47.63</VALUE>
+					<VALUE>48.83</VALUE>
+					<VALUE>50.26</VALUE>
+					<VALUE>52.05</VALUE>
+					<VALUE>54.06</VALUE>
+				</DIM>
+				<DIM dimension="0">
+					<VALUE>37.9</VALUE>
+					<VALUE>39.65</VALUE>
+					<VALUE>41.46</VALUE>
+					<VALUE>43.07</VALUE>
+					<VALUE>44.57</VALUE>
+					<VALUE>46.25</VALUE>
+					<VALUE>48.34</VALUE>
+					<VALUE>50.77</VALUE>
+				</DIM>
+				<DIM dimension="0">
+					<VALUE>31.66</VALUE>
+					<VALUE>33.67</VALUE>
+					<VALUE>36.04</VALUE>
+					<VALUE>38.21</VALUE>
+					<VALUE>40.13</VALUE>
+					<VALUE>42.08</VALUE>
+					<VALUE>44.36</VALUE>
+					<VALUE>47.01</VALUE>
+				</DIM>
+				<DIM dimension="0">
+					<VALUE>26.01</VALUE>
+					<VALUE>27.82</VALUE>
+					<VALUE>30.4</VALUE>
+					<VALUE>33</VALUE>
+					<VALUE>35.35</VALUE>
+					<VALUE>37.64</VALUE>
+					<VALUE>40.17</VALUE>
+					<VALUE>43.02</VALUE>
+				</DIM>
+				<DIM dimension="0">
+					<VALUE>22.83</VALUE>
+					<VALUE>23.49</VALUE>
+					<VALUE>25.33</VALUE>
+					<VALUE>27.66</VALUE>
+					<VALUE>30.1</VALUE>
+					<VALUE>32.67</VALUE>
+					<VALUE>35.52</VALUE>
+					<VALUE>38.67</VALUE>
+				</DIM>
+			</DIM>
+		</VALUES>
+	</FILEBODY>
+</BMSXML>

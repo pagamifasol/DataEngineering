@@ -1,0 +1,1 @@
+%1- Controllare unità di misura degli output/input da VI-Grade

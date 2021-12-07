@@ -1,0 +1,42 @@
+<?xml version="1.0"?>
+<LapHeader>
+<LoggerName>MLS</LoggerName>
+<Alias>Car02 (007_009)</Alias>
+<StartTime>17/07/2021 16:11:02</StartTime>
+<Table>
+<Name>MLS_WEC21_209_0027_Glickenhaus_I v.1</Name>
+<Version>18</Version>
+</Table>
+<Marker>Auto Limit</Marker>
+<Abs>662</Abs>
+<Run>1</Run>
+<Lap>1</Lap>
+<TrackLap>31</TrackLap>
+<TrackRun>0</TrackRun>
+<Fuel>
+<Consumption>0.000000</Consumption>
+<Level>-1.000000</Level>
+</Fuel>
+<LapTime>120</LapTime>
+<LapDistance>256</LapDistance>
+<StartTimeInfo>
+<InfoArray>
+<StartTimeInfo>
+<Acq>dst</Acq>
+<STMs>17/07/2021 16:11:02.734</STMs>
+<STS>1626538262</STS>
+<STNs>734000000</STNs>
+</StartTimeInfo>
+</InfoArray>
+</StartTimeInfo>
+<DownloadTimeInfo>
+<InfoArray>
+<DownloadTimeInfo>
+<Acq>dst</Acq>
+<Time>17/07/2021 16:13:02</Time>
+</DownloadTimeInfo>
+</InfoArray>
+</DownloadTimeInfo>
+<TableComment>USR_MLS_ACT2_0.0.27_WEC SA_1.4.1.0</TableComment>
+<FlagsStatus>0</FlagsStatus>
+</LapHeader>

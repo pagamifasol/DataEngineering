@@ -1,0 +1,36 @@
+<BMSXML>
+	<FILEINFO>
+		<name>LUT_CamberRecoveryF</name>
+		<application>WinDarab</application>
+		<filetype>LookupTable</filetype>
+		<version MajVersion="1.0" MinVersion="001" AppVersion="7.08.027"/>
+	</FILEINFO>
+	<FILEBODY>
+		<DESCRIPTION></DESCRIPTION>
+		<COLUMNWIDTHS>50</COLUMNWIDTHS>
+		<AXIS interpolate="yes" decimals="2">
+			<VALUE>-47</VALUE>
+			<VALUE>-34</VALUE>
+			<VALUE>-20</VALUE>
+			<VALUE>-6.8</VALUE>
+			<VALUE>0</VALUE>
+			<VALUE>6.8</VALUE>
+			<VALUE>20</VALUE>
+			<VALUE>34</VALUE>
+			<VALUE>40.8</VALUE>
+		</AXIS>
+		<VALUES decimals="2">
+			<DIM dimension="0">
+				<VALUE>-0.9399999999999999</VALUE>
+				<VALUE>-0.68</VALUE>
+				<VALUE>-0.4</VALUE>
+				<VALUE>-0.136</VALUE>
+				<VALUE>0</VALUE>
+				<VALUE>0.14</VALUE>
+				<VALUE>0.4</VALUE>
+				<VALUE>0.68</VALUE>
+				<VALUE>0.9399999999999999</VALUE>
+			</DIM>
+		</VALUES>
+	</FILEBODY>
+</BMSXML>

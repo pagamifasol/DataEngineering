@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<Libraries>
+<Library>
+<Name>Default.vch</Name>
+<Enable>1</Enable>
+<Expand>1</Expand>
+</Library>
+<Library>
+<Name>Default_MR.vch</Name>
+<Enable>1</Enable>
+<Expand>1</Expand>
+</Library>
+<Library>
+<Name>C:\Program Files\WinTAX FIA - RACE CONTROL SYSTEM SAT\Backup\FV_Default.vch</Name>
+<Enable>0</Enable>
+<Expand>0</Expand>
+</Library>
+<WintaxConfiguration>
+<Version>4.80.08.29</Version>
+</WintaxConfiguration>
+</Libraries>

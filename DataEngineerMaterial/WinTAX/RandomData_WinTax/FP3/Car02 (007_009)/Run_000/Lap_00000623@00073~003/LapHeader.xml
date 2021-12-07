@@ -1,0 +1,42 @@
+<?xml version="1.0"?>
+<LapHeader>
+<LoggerName/>
+<Alias>Car02 (007_009)</Alias>
+<StartTime>17/07/2021 13:38:31</StartTime>
+<Table>
+<Name/>
+<Version>18</Version>
+</Table>
+<Marker>Auto Limit</Marker>
+<Abs>623</Abs>
+<Run>1</Run>
+<Lap>1</Lap>
+<TrackLap>0</TrackLap>
+<TrackRun>0</TrackRun>
+<Fuel>
+<Consumption>0.000000</Consumption>
+<Level>0.000000</Level>
+</Fuel>
+<LapTime>120</LapTime>
+<LapDistance>0</LapDistance>
+<StartTimeInfo>
+<InfoArray>
+<StartTimeInfo>
+<Acq>dst</Acq>
+<STMs>17/07/2021 13:38:31.650</STMs>
+<STS>1626529111</STS>
+<STNs>650000000</STNs>
+</StartTimeInfo>
+</InfoArray>
+</StartTimeInfo>
+<DownloadTimeInfo>
+<InfoArray>
+<DownloadTimeInfo>
+<Acq>dst</Acq>
+<Time>17/07/2021 13:40:31</Time>
+</DownloadTimeInfo>
+</InfoArray>
+</DownloadTimeInfo>
+<TableComment/>
+<FlagsStatus>0</FlagsStatus>
+</LapHeader>

@@ -1,0 +1,94 @@
+<BMSXML>
+	<FILEINFO>
+		<name>004_Gear_HR0</name>
+		<application>WinDarab</application>
+		<filetype>LookupTable</filetype>
+		<version MajVersion="1.0" MinVersion="001" AppVersion="7.07.027"/>
+	</FILEINFO>
+	<FILEBODY>
+		<DESCRIPTION></DESCRIPTION>
+		<COLUMNWIDTHS>50</COLUMNWIDTHS>
+		<AXIS interpolate="yes" decimals="2">
+			<VALUE>0</VALUE>
+			<VALUE>1000</VALUE>
+			<VALUE>2000</VALUE>
+			<VALUE>3000</VALUE>
+			<VALUE>4000</VALUE>
+			<VALUE>5000</VALUE>
+			<VALUE>6000</VALUE>
+			<VALUE>7000</VALUE>
+		</AXIS>
+		<AXIS interpolate="yes" decimals="2">
+			<VALUE>1</VALUE>
+			<VALUE>2</VALUE>
+			<VALUE>3</VALUE>
+			<VALUE>4</VALUE>
+			<VALUE>5</VALUE>
+			<VALUE>6</VALUE>
+		</AXIS>
+		<VALUES decimals="2">
+			<DIM dimension="1">
+				<DIM dimension="0">
+					<VALUE>0</VALUE>
+					<VALUE>1000</VALUE>
+					<VALUE>2000</VALUE>
+					<VALUE>3000</VALUE>
+					<VALUE>4000</VALUE>
+					<VALUE>5000</VALUE>
+					<VALUE>6000</VALUE>
+					<VALUE>7000</VALUE>
+				</DIM>
+				<DIM dimension="0">
+					<VALUE>0</VALUE>
+					<VALUE>900</VALUE>
+					<VALUE>1800</VALUE>
+					<VALUE>2600</VALUE>
+					<VALUE>3800</VALUE>
+					<VALUE>4900</VALUE>
+					<VALUE>6200</VALUE>
+					<VALUE>7700</VALUE>
+				</DIM>
+				<DIM dimension="0">
+					<VALUE>0</VALUE>
+					<VALUE>1100</VALUE>
+					<VALUE>2200</VALUE>
+					<VALUE>3300</VALUE>
+					<VALUE>4500</VALUE>
+					<VALUE>5700</VALUE>
+					<VALUE>7000</VALUE>
+					<VALUE>8300</VALUE>
+				</DIM>
+				<DIM dimension="0">
+					<VALUE>0</VALUE>
+					<VALUE>900</VALUE>
+					<VALUE>1800</VALUE>
+					<VALUE>2600</VALUE>
+					<VALUE>3800</VALUE>
+					<VALUE>5100</VALUE>
+					<VALUE>6600</VALUE>
+					<VALUE>8300</VALUE>
+				</DIM>
+				<DIM dimension="0">
+					<VALUE>0</VALUE>
+					<VALUE>950</VALUE>
+					<VALUE>1900</VALUE>
+					<VALUE>2700</VALUE>
+					<VALUE>4000</VALUE>
+					<VALUE>5300</VALUE>
+					<VALUE>7000</VALUE>
+					<VALUE>8600</VALUE>
+				</DIM>
+				<DIM dimension="0">
+					<VALUE>0</VALUE>
+					<VALUE>400</VALUE>
+					<VALUE>1000</VALUE>
+					<VALUE>1750</VALUE>
+					<VALUE>2800</VALUE>
+					<VALUE>4200</VALUE>
+					<VALUE>6100</VALUE>
+					<VALUE>9000</VALUE>
+				</DIM>
+			</DIM>
+		</VALUES>
+	</FILEBODY>
+</BMSXML>

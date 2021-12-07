@@ -1,0 +1,22 @@
+<BMSXML>
+	<FILEINFO>
+		<name>LKT_RPM_MassFLow_Coolant-Engine</name>
+		<application>WinDarab</application>
+		<filetype>LookupTable</filetype>
+		<version MajVersion="1.0" MinVersion="001" AppVersion="7.03.027"/>
+	</FILEINFO>
+	<FILEBODY>
+		<DESCRIPTION></DESCRIPTION>
+		<COLUMNWIDTHS>50</COLUMNWIDTHS>
+		<AXIS interpolate="yes" decimals="1">
+			<VALUE>0</VALUE>
+			<VALUE>6800</VALUE>
+		</AXIS>
+		<VALUES decimals="1">
+			<DIM dimension="0">
+				<VALUE>0</VALUE>
+				<VALUE>3.3</VALUE>
+			</DIM>
+		</VALUES>
+	</FILEBODY>
+</BMSXML>

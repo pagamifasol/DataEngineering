@@ -1,0 +1,65 @@
+<BMSXML>
+	<FILEINFO>
+		<name>LUT_fuelflow_ARA21T06_FromTrack</name>
+		<application>WinDarab</application>
+		<filetype>LookupTable</filetype>
+		<version MajVersion="1.0" MinVersion="001" AppVersion="7.08.027"/>
+	</FILEINFO>
+	<FILEBODY>
+		<DESCRIPTION></DESCRIPTION>
+		<COLUMNWIDTHS>50</COLUMNWIDTHS>
+		<AXIS interpolate="yes" decimals="0">
+			<VALUE>0</VALUE>
+			<VALUE>4000</VALUE>
+			<VALUE>4500</VALUE>
+			<VALUE>5000</VALUE>
+			<VALUE>5500</VALUE>
+			<VALUE>6000</VALUE>
+			<VALUE>6500</VALUE>
+			<VALUE>7000</VALUE>
+			<VALUE>7500</VALUE>
+		</AXIS>
+		<AXIS interpolate="yes" decimals="2">
+			<VALUE>0</VALUE>
+			<VALUE>0.5</VALUE>
+			<VALUE>1</VALUE>
+		</AXIS>
+		<VALUES decimals="2">
+			<DIM dimension="1">
+				<DIM dimension="0">
+					<VALUE>0</VALUE>
+					<VALUE>9.7951</VALUE>
+					<VALUE>9.4619</VALUE>
+					<VALUE>9.0016</VALUE>
+					<VALUE>8.414199999999999</VALUE>
+					<VALUE>7.6996</VALUE>
+					<VALUE>6.8579</VALUE>
+					<VALUE>5.8891</VALUE>
+					<VALUE>4.7932</VALUE>
+				</DIM>
+				<DIM dimension="0">
+					<VALUE>0</VALUE>
+					<VALUE>20.0535</VALUE>
+					<VALUE>29.1954</VALUE>
+					<VALUE>37.9186</VALUE>
+					<VALUE>46.2232</VALUE>
+					<VALUE>54.1091</VALUE>
+					<VALUE>61.5763</VALUE>
+					<VALUE>68.6249</VALUE>
+					<VALUE>75.2547</VALUE>
+				</DIM>
+				<DIM dimension="0">
+					<VALUE>0</VALUE>
+					<VALUE>30.3119</VALUE>
+					<VALUE>48.9289</VALUE>
+					<VALUE>66.8357</VALUE>
+					<VALUE>84.0322</VALUE>
+					<VALUE>100.5186</VALUE>
+					<VALUE>116.2947</VALUE>
+					<VALUE>131.3606</VALUE>
+					<VALUE>145.7163</VALUE>
+				</DIM>
+			</DIM>
+		</VALUES>
+	</FILEBODY>
+</BMSXML>

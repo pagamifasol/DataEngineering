@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<Diag_Window>
+<Diagnostics/>
+<Colors>
+<EnableCustomSettings>0</EnableCustomSettings>
+<BKColorWin>000000</BKColorWin>
+<FRColorBoxes>FFFFFF</FRColorBoxes>
+<BKColorBoxes>D3D3D3</BKColorBoxes>
+</Colors>
+<Layout>0</Layout>
+<Font>
+<FontConfiguration>
+<CustomEnabled>0</CustomEnabled>
+<FontName>Tahoma</FontName>
+<Weight>8</Weight>
+<Scalable>1</Scalable>
+<SevenSegments>0</SevenSegments>
+</FontConfiguration>
+</Font>
+<WintaxConfiguration>
+<Version>4.80.08.29</Version>
+<EmbeddedScript/>
+</WintaxConfiguration>
+</Diag_Window>

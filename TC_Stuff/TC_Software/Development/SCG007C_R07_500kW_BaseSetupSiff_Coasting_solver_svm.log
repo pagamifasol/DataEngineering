@@ -1,0 +1,3274 @@
+
+Event data is being read from input XML file...
+
+Using configuration file:  D:\VI-Grade_WD\SCG007C_2/vicrt_cdb.cfg
+
+Databases List:
+
+Alias: carrealtime_shared
+Path: C:/PROGRA~1/VI-grade/VI-CAR~1/acarrt/CARREA~1.CDB
+
+Alias: citycar
+Path: C:/PROGRA~1/VI-grade/VI-CAR~1/acarrt/examples/SHARED~1/CityCar.cdb
+
+Alias: compactcar
+Path: C:/PROGRA~1/VI-grade/VI-CAR~1/acarrt/examples/SHARED~1/COMPAC~1.CDB
+
+Alias: crossover
+Path: C:/PROGRA~1/VI-grade/VI-CAR~1/acarrt/examples/SHARED~1/CROSSO~1.CDB
+
+Alias: pickup
+Path: C:/PROGRA~1/VI-grade/VI-CAR~1/acarrt/examples/SHARED~1/Pickup.cdb
+
+Alias: racecar
+Path: C:/PROGRA~1/VI-grade/VI-CAR~1/acarrt/examples/SHARED~1/RaceCar.cdb
+
+Alias: scg004c_r06c
+Path: D:/VI-Grade_DB/SCG004C_R06c.cdb
+
+Alias: scg007c_2wd4wd
+Path: D:/VI-Grade_DB/SCG007C_2WD4WD.cdb
+
+Alias: scg007c_2wd4wd_v2
+Path: D:/VI-Grade_DB/SCG007C_2WD4WD_V2.cdb
+
+Alias: scg007c_r01
+Path: D:/VI-Grade_DB/SCG007C_R01.cdb
+
+Alias: scg007c_r06
+Path: D:/VI-Grade_DB/SCG007C_R06.cdb
+
+Alias: scg007c_r07_stiff
+Path: D:/VI-Grade_DB/SCG007C_R07_Stiff.cdb
+
+Alias: sedancar
+Path: C:/PROGRA~1/VI-grade/VI-CAR~1/acarrt/examples/SHARED~1/SedanCar.cdb
+
+Alias: sportcar
+Path: C:/PROGRA~1/VI-grade/VI-CAR~1/acarrt/examples/SHARED~1/SportCar.cdb
+
+Alias: suv
+Path: C:/PROGRA~1/VI-grade/VI-CAR~1/acarrt/examples/SHARED~1/SUV.cdb
+
+Alias: vi-grade_tracks
+Path: D:/VI-Grade_DB/VI-Grade_Tracks.cdb
+
+Alias: visafety_shared
+Path: C:/PROGRA~1/VI-grade/VI-CAR~1/acarrt/VISAFE~1.CDB
+ -- INFO -- 
+ -- INFO -- Spline fsusp_damper_L1 -> ACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline fsusp_damper_L2 -> ACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline fsusp_damper_R1 -> ACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline fsusp_damper_R2 -> ACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline fsusp_spring_L1 -> ACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline fsusp_spring_L2 -> ACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline fsusp_spring_R1 -> ACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline fsusp_spring_R2 -> ACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline steering_system_compliance_1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline rsusp_spring_L1 -> ACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline rsusp_spring_L2 -> ACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline rsusp_spring_R1 -> ACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline rsusp_spring_R2 -> ACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline rsusp_jounce_bumper_L1 -> ACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline rsusp_jounce_bumper_L2 -> ACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline rsusp_jounce_bumper_R1 -> ACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline rsusp_jounce_bumper_R2 -> ACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline rsusp_rebound_bumper_L1 -> ACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline rsusp_rebound_bumper_L2 -> ACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline rsusp_rebound_bumper_R1 -> ACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline rsusp_rebound_bumper_R2 -> ACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline rsusp_damper_L1 -> ACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline rsusp_damper_L2 -> ACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline rsusp_damper_R1 -> ACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline rsusp_damper_R2 -> ACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline fsusp_jounce_bumper_L1 -> ACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline fsusp_jounce_bumper_L2 -> ACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline fsusp_jounce_bumper_R1 -> ACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline fsusp_jounce_bumper_R2 -> ACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline fsusp_rebound_bumper_L1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline fsusp_rebound_bumper_L2 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline fsusp_rebound_bumper_R1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline fsusp_rebound_bumper_R2 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline wheel_x_vs_z_L1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline wheel_x_vs_z_R1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline wheel_y_vs_z_L1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline wheel_y_vs_z_R1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline LSD_C1_table1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline LSD_C1_table2 -> ACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline LSD_C1_table3 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline fsusp_third_damper_1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline fsusp_third_damper_2 -> ACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline fsusp_third_spring_1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline fsusp_third_spring_2 -> ACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline servo_steering_action_scaling -> ACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline gear_ratios -> ACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline downshiftRPM -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline upshiftRPM -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline fsusp_antiroll_1 -> ACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline fsusp_antiroll_2 -> ACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline sva_vs_fz_L1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline sva_vs_fz_L2 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline sva_vs_fz_R1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline sva_vs_fz_R2 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline toe_vs_fz_L1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline toe_vs_fz_L2 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline toe_vs_fz_R1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline toe_vs_fz_R2 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline camber_vs_fz_L1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline camber_vs_fz_L2 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline camber_vs_fz_R1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline camber_vs_fz_R2 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline track_vs_fz_L1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline track_vs_fz_L2 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline track_vs_fz_R1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline track_vs_fz_R2 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline base_vs_fz_L1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline base_vs_fz_L2 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline base_vs_fz_R1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline base_vs_fz_R2 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline fsusp_single_damper_bumpstop_1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline fsusp_single_damper_bumpstop_2 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline fsusp_single_damper_reboundstop_1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline fsusp_single_damper_reboundstop_2 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline fsusp_single_damper_1 -> ACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline fsusp_single_damper_2 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline fsusp_single_inerter_1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline fsusp_single_inerter_2 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline fsusp_single_spring_1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline fsusp_single_spring_2 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline fsusp_single_spring_bumpstop_1 -> ACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline fsusp_single_spring_bumpstop_2 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline fsusp_single_spring_reboundstop_1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline fsusp_single_spring_reboundstop_2 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline fsusp_single_inerter_bumpstop_1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline fsusp_single_inerter_bumpstop_2 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline fsusp_single_inerter_reboundstop_1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline fsusp_single_inerter_reboundstop_2 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline fsusp_single_opp_damper_1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline fsusp_single_opp_damper_2 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline fsusp_single_opp_dmp_bumpstop_1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline fsusp_single_opp_dmp_bumpstop_2 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline fsusp_single_opp_dmp_reboundstop_1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline fsusp_single_opp_dmp_reboundstop_2 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline steer_to_rack -> ACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline ram_efficiency_spline -> ACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline user_diff_1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline user_diff_2 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline user_diff_3 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline steer_to_rack_saved -> ACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline fsusp_extra_spring_L1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline fsusp_extra_spring_L2 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline fsusp_extra_spring_R1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline fsusp_extra_spring_R2 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline rsusp_extra_spring_L1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline rsusp_extra_spring_L2 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline rsusp_extra_spring_R1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline rsusp_extra_spring_R2 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline fsusp_extra_damper_L1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline fsusp_extra_damper_L2 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline fsusp_extra_damper_R1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline fsusp_extra_damper_R2 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline rsusp_extra_damper_L1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline rsusp_extra_damper_L2 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline rsusp_extra_damper_R1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline rsusp_extra_damper_R2 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline fsusp_extra_jounce_bumper_L1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline fsusp_extra_jounce_bumper_L2 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline fsusp_extra_jounce_bumper_R1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline fsusp_extra_jounce_bumper_R2 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline rsusp_extra_jounce_bumper_L1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline rsusp_extra_jounce_bumper_L2 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline rsusp_extra_jounce_bumper_R1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline rsusp_extra_jounce_bumper_R2 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline fsusp_extra_rebound_bumper_L1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline fsusp_extra_rebound_bumper_L2 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline fsusp_extra_rebound_bumper_R1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline fsusp_extra_rebound_bumper_R2 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline rsusp_extra_rebound_bumper_L1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline rsusp_extra_rebound_bumper_L2 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline rsusp_extra_rebound_bumper_R1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline rsusp_extra_rebound_bumper_R2 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline rsusp_inerter_L1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline rsusp_inerter_L2 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline rsusp_inerter_R1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline rsusp_inerter_R2 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline fsusp_inerter_L1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline fsusp_inerter_L2 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline fsusp_inerter_R1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline fsusp_inerter_R2 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Total Spline 140 -> Active Spline 40 
+ -- INFO -- 
+ -- INFO -- Spline2D wheel_str_vs_swaz_L1 -> ACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D wheel_str_vs_swaz_R1 -> ACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D steering_wheel_torque -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D wheel_camber_vs_swaz_L1 -> ACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D wheel_camber_vs_swaz_R1 -> ACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D wheel_sva_vs_swaz_L1 -> ACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D wheel_sva_vs_swaz_R1 -> ACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D wheel_toe_vs_z1z2_L2 -> ACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D wheel_toe_vs_z1z2_R2 -> ACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D wheel_camber_vs_z1z2_L2 -> ACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D wheel_camber_vs_z1z2_R2 -> ACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D wheel_sva_vs_z1z2_L2 -> ACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D wheel_sva_vs_z1z2_R2 -> ACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D aux_roll_moment_vs_z1z2_1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D aux_roll_moment_vs_z1z2_2 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D wheel_x_vs_z1z2_L2 -> ACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D wheel_x_vs_z1z2_R2 -> ACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D wheel_y_vs_z1z2_L2 -> ACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D wheel_y_vs_z1z2_R2 -> ACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D fsusp_damper_3D_L1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D fsusp_damper_3D_L2 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D fsusp_damper_3D_R1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D fsusp_damper_3D_R2 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D engine_map -> ACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D rsusp_antiroll_vs_z1z2_1 -> ACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D rsusp_antiroll_vs_z1z2_2 -> ACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D kingpin_vs_swajounce_L1 -> ACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D kingpin_vs_swajounce_R1 -> ACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D caster_vs_swajounce_L1 -> ACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D caster_vs_swajounce_R1 -> ACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D kingpin_px_vs_swajounce_L1 -> ACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D kingpin_px_vs_swajounce_R1 -> ACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D kingpin_py_vs_swajounce_L1 -> ACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D kingpin_py_vs_swajounce_R1 -> ACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D kingpin_pz_vs_swajounce_L1 -> ACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D kingpin_pz_vs_swajounce_R1 -> ACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D wheel_x_vs_swaz_L1 -> ACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D wheel_x_vs_swaz_R1 -> ACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D wheel_y_vs_swaz_L1 -> ACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D wheel_y_vs_swaz_R1 -> ACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D rsusp_spring_3D_L1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D rsusp_spring_3D_L2 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D rsusp_spring_3D_R1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D rsusp_spring_3D_R2 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D fuel_consumption -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D rsusp_third_damper_1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D rsusp_third_damper_2 -> ACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D rsusp_third_spring_1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D rsusp_third_spring_2 -> ACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D rsusp_single_damper_bumpstop_1 -> ACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D rsusp_single_damper_bumpstop_2 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D rsusp_single_damper_reboundstop_1 -> ACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D rsusp_single_damper_reboundstop_2 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D rsusp_single_damper_1 -> ACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D rsusp_single_damper_2 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D rsusp_single_inerter_1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D rsusp_single_inerter_2 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D rsusp_single_spring_1 -> ACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D rsusp_single_spring_2 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D rsusp_single_spring_bumpstop_1 -> ACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D rsusp_single_spring_bumpstop_2 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D rsusp_single_spring_reboundstop_1 -> ACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D rsusp_single_spring_reboundstop_2 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D rsusp_single_inerter_bumpstop_1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D rsusp_single_inerter_bumpstop_2 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D rsusp_single_inerter_reboundstop_1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D rsusp_single_inerter_reboundstop_2 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D rsusp_damper_3D_L1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D rsusp_damper_3D_L2 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D rsusp_damper_3D_R1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D rsusp_damper_3D_R2 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D rsusp_single_opp_damper_1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D rsusp_single_opp_damper_2 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D rsusp_single_opp_dmp_bumpstop_1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D rsusp_single_opp_dmp_bumpstop_2 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D rsusp_single_opp_dmp_reboundstop_1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D rsusp_single_opp_dmp_reboundstop_2 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D wheel_x_vs_z1z2_L1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D wheel_y_vs_z1z2_L1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D wheel_sva_vs_z1z2_L1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D wheel_toe_vs_z1z2_L1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D wheel_camber_vs_z1z2_L1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D wheel_x_vs_z1z2_R1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D wheel_y_vs_z1z2_R1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D wheel_sva_vs_z1z2_R1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D wheel_toe_vs_z1z2_R1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D wheel_camber_vs_z1z2_R1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D drop_x_vs_z_L1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D drop_y_vs_z_L1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D drop_z_vs_z_L1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D drop_x_vs_z_R1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D drop_y_vs_z_R1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D drop_z_vs_z_R1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D drop_x_vs_z_L2 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D drop_y_vs_z_L2 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D drop_z_vs_z_L2 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D drop_x_vs_z_R2 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D drop_y_vs_z_R2 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D drop_z_vs_z_R2 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D rack_force -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D left_tierod_force -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D right_tierod_force -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D fsusp_aux_spring_L1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D fsusp_aux_spring_L2 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D fsusp_aux_spring_R1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D fsusp_aux_spring_R2 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D rsusp_jounceBumper_3D_L1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D rsusp_jounceBumper_3D_L2 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D rsusp_jounceBumper_3D_R1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D rsusp_jounceBumper_3D_R2 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D rsusp_reboundBumper_3D_L1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D rsusp_reboundBumper_3D_L2 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D rsusp_reboundBumper_3D_R1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D rsusp_reboundBumper_3D_R2 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D rsusp_extra_spring_3D_L1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D rsusp_extra_spring_3D_L2 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D rsusp_extra_spring_3D_R1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D rsusp_extra_spring_3D_R2 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D rsusp_extra_damper_3D_L1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D rsusp_extra_damper_3D_L2 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D rsusp_extra_damper_3D_R1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D rsusp_extra_damper_3D_R2 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D rsusp_extra_jounceBumper_3D_L1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D rsusp_extra_jounceBumper_3D_L2 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D rsusp_extra_jounceBumper_3D_R1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D rsusp_extra_jounceBumper_3D_R2 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D rsusp_extra_reboundBumper_3D_L1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D rsusp_extra_reboundBumper_3D_L2 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D rsusp_extra_reboundBumper_3D_R1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D rsusp_extra_reboundBumper_3D_R2 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D fsusp_extra_damper_3D_L1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D fsusp_extra_damper_3D_L2 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D fsusp_extra_damper_3D_R1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D fsusp_extra_damper_3D_R2 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D fuel_consumption_PME -> ACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D steering_ira_vs_swajounce_L1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D steering_ira_vs_swajounce_R1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D aux_roll_force_vs_z1z2_L1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D aux_roll_force_vs_z1z2_R1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D aux_roll_force_vs_z1z2_L2 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D aux_roll_force_vs_z1z2_R2 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D rsusp_steer_spring_3D_L1 -> ACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D rsusp_steer_spring_3D_R1 -> ACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D rsusp_steer_damper_3D_L1 -> ACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D rsusp_steer_damper_3D_R1 -> ACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D rsusp_steer_jounceBumper_3D_L1 -> ACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D rsusp_steer_jounceBumper_3D_R1 -> ACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D rsusp_steer_reboundBumper_3D_L1 -> ACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D rsusp_steer_reboundBumper_3D_R1 -> ACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D aux_roll_force_swa_z1_L1 -> ACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D aux_roll_force_swa_z1_R1 -> ACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D aux_roll_force_swa_zM_1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D rsusp_antiroll_swa_zM_1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D f_air_spring_L1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D f_air_spring_R1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D f_air_spring_L2 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D f_air_spring_R2 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D f_air_extra_spring_L1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D f_air_extra_spring_R1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D f_air_extra_spring_L2 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D f_air_extra_spring_R2 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D rsusp_steer_inerter_3D_L1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D rsusp_steer_inerter_3D_R1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D rsusp_inerter_3D_L1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D rsusp_inerter_3D_L2 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D rsusp_inerter_3D_R1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D rsusp_inerter_3D_R2 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D generic2d_map -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Total Spline2D 168 -> Active Spline 52 
+ -- INFO -- 
+ -- INFO -- Spline2D sva_vs_fxjounce_L1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D sva_vs_fxjounce_L2 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D sva_vs_fxjounce_R1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D sva_vs_fxjounce_R2 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D sva_vs_fyjounce_L1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D sva_vs_fyjounce_L2 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D sva_vs_fyjounce_R1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D sva_vs_fyjounce_R2 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D sva_vs_mzjounce_L1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D sva_vs_mzjounce_L2 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D sva_vs_mzjounce_R1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D sva_vs_mzjounce_R2 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D sva_vs_fxwctrjounce_L1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D sva_vs_fxwctrjounce_L2 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D sva_vs_fxwctrjounce_R1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D sva_vs_fxwctrjounce_R2 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D sva_vs_fxjounce_cross_L1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D sva_vs_fxjounce_cross_L2 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D sva_vs_fxjounce_cross_R1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D sva_vs_fxjounce_cross_R2 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D sva_vs_fyjounce_cross_L1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D sva_vs_fyjounce_cross_L2 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D sva_vs_fyjounce_cross_R1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D sva_vs_fyjounce_cross_R2 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D sva_vs_mzjounce_cross_L1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D sva_vs_mzjounce_cross_L2 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D sva_vs_mzjounce_cross_R1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D sva_vs_mzjounce_cross_R2 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D sva_vs_fxwctrjounce_cross_L1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D sva_vs_fxwctrjounce_cross_L2 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D sva_vs_fxwctrjounce_cross_R1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D sva_vs_fxwctrjounce_cross_R2 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D toe_vs_fxjounce_L1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D toe_vs_fxjounce_L2 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D toe_vs_fxjounce_R1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D toe_vs_fxjounce_R2 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D toe_vs_fyjounce_L1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D toe_vs_fyjounce_L2 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D toe_vs_fyjounce_R1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D toe_vs_fyjounce_R2 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D toe_vs_mzjounce_L1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D toe_vs_mzjounce_L2 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D toe_vs_mzjounce_R1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D toe_vs_mzjounce_R2 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D toe_vs_fxwctrjounce_L1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D toe_vs_fxwctrjounce_L2 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D toe_vs_fxwctrjounce_R1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D toe_vs_fxwctrjounce_R2 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D toe_vs_fxjounce_cross_L1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D toe_vs_fxjounce_cross_L2 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D toe_vs_fxjounce_cross_R1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D toe_vs_fxjounce_cross_R2 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D toe_vs_fyjounce_cross_L1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D toe_vs_fyjounce_cross_L2 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D toe_vs_fyjounce_cross_R1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D toe_vs_fyjounce_cross_R2 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D toe_vs_mzjounce_cross_L1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D toe_vs_mzjounce_cross_L2 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D toe_vs_mzjounce_cross_R1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D toe_vs_mzjounce_cross_R2 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D toe_vs_fxwctrjounce_cross_L1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D toe_vs_fxwctrjounce_cross_L2 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D toe_vs_fxwctrjounce_cross_R1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D toe_vs_fxwctrjounce_cross_R2 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D camber_vs_fxjounce_L1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D camber_vs_fxjounce_L2 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D camber_vs_fxjounce_R1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D camber_vs_fxjounce_R2 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D camber_vs_fyjounce_L1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D camber_vs_fyjounce_L2 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D camber_vs_fyjounce_R1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D camber_vs_fyjounce_R2 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D camber_vs_mzjounce_L1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D camber_vs_mzjounce_L2 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D camber_vs_mzjounce_R1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D camber_vs_mzjounce_R2 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D camber_vs_fxwctrjounce_L1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D camber_vs_fxwctrjounce_L2 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D camber_vs_fxwctrjounce_R1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D camber_vs_fxwctrjounce_R2 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D camber_vs_fxjounce_cross_L1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D camber_vs_fxjounce_cross_L2 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D camber_vs_fxjounce_cross_R1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D camber_vs_fxjounce_cross_R2 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D camber_vs_fyjounce_cross_L1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D camber_vs_fyjounce_cross_L2 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D camber_vs_fyjounce_cross_R1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D camber_vs_fyjounce_cross_R2 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D camber_vs_mzjounce_cross_L1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D camber_vs_mzjounce_cross_L2 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D camber_vs_mzjounce_cross_R1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D camber_vs_mzjounce_cross_R2 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D camber_vs_fxwctrjounce_cross_L1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D camber_vs_fxwctrjounce_cross_L2 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D camber_vs_fxwctrjounce_cross_R1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D camber_vs_fxwctrjounce_cross_R2 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D track_vs_fxjounce_L1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D track_vs_fxjounce_L2 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D track_vs_fxjounce_R1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D track_vs_fxjounce_R2 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D track_vs_fyjounce_L1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D track_vs_fyjounce_L2 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D track_vs_fyjounce_R1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D track_vs_fyjounce_R2 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D track_vs_mzjounce_L1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D track_vs_mzjounce_L2 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D track_vs_mzjounce_R1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D track_vs_mzjounce_R2 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D track_vs_fxwctrjounce_L1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D track_vs_fxwctrjounce_L2 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D track_vs_fxwctrjounce_R1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D track_vs_fxwctrjounce_R2 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D track_vs_fxjounce_cross_L1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D track_vs_fxjounce_cross_L2 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D track_vs_fxjounce_cross_R1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D track_vs_fxjounce_cross_R2 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D track_vs_fyjounce_cross_L1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D track_vs_fyjounce_cross_L2 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D track_vs_fyjounce_cross_R1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D track_vs_fyjounce_cross_R2 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D track_vs_mzjounce_cross_L1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D track_vs_mzjounce_cross_L2 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D track_vs_mzjounce_cross_R1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D track_vs_mzjounce_cross_R2 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D track_vs_fxwctrjounce_cross_L1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D track_vs_fxwctrjounce_cross_L2 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D track_vs_fxwctrjounce_cross_R1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D track_vs_fxwctrjounce_cross_R2 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D base_vs_fxjounce_L1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D base_vs_fxjounce_L2 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D base_vs_fxjounce_R1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D base_vs_fxjounce_R2 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D base_vs_fyjounce_L1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D base_vs_fyjounce_L2 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D base_vs_fyjounce_R1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D base_vs_fyjounce_R2 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D base_vs_mzjounce_L1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D base_vs_mzjounce_L2 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D base_vs_mzjounce_R1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D base_vs_mzjounce_R2 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D base_vs_fxwctrjounce_L1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D base_vs_fxwctrjounce_L2 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D base_vs_fxwctrjounce_R1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D base_vs_fxwctrjounce_R2 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D base_vs_fxjounce_cross_L1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D base_vs_fxjounce_cross_L2 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D base_vs_fxjounce_cross_R1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D base_vs_fxjounce_cross_R2 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D base_vs_fyjounce_cross_L1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D base_vs_fyjounce_cross_L2 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D base_vs_fyjounce_cross_R1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D base_vs_fyjounce_cross_R2 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D base_vs_mzjounce_cross_L1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D base_vs_mzjounce_cross_L2 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D base_vs_mzjounce_cross_R1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D base_vs_mzjounce_cross_R2 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D base_vs_fxwctrjounce_cross_L1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D base_vs_fxwctrjounce_cross_L2 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D base_vs_fxwctrjounce_cross_R1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D base_vs_fxwctrjounce_cross_R2 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D kingpin_vs_mzjounce_l1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D caster_vs_mzjounce_l1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D kingpin_px_vs_mzjounce_l1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D kingpin_py_vs_mzjounce_l1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D kingpin_vs_mzjounce_cross_l1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D caster_vs_mzjounce_cross_l1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D kingpin_px_vs_mzjounce_cross_l1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D kingpin_py_vs_mzjounce_cross_l1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D kingpin_vs_mzjounce_r1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D caster_vs_mzjounce_r1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D kingpin_px_vs_mzjounce_r1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D kingpin_py_vs_mzjounce_r1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D kingpin_vs_mzjounce_cross_r1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D caster_vs_mzjounce_cross_r1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D kingpin_px_vs_mzjounce_cross_r1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D kingpin_py_vs_mzjounce_cross_r1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D kingpin_vs_fyjounce_l1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D caster_vs_fyjounce_l1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D kingpin_px_vs_fyjounce_l1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D kingpin_py_vs_fyjounce_l1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D kingpin_vs_fyjounce_cross_l1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D caster_vs_fyjounce_cross_l1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D kingpin_px_vs_fyjounce_cross_l1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D kingpin_py_vs_fyjounce_cross_l1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D kingpin_vs_fyjounce_r1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D caster_vs_fyjounce_r1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D kingpin_px_vs_fyjounce_r1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D kingpin_py_vs_fyjounce_r1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D kingpin_vs_fyjounce_cross_r1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D caster_vs_fyjounce_cross_r1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D kingpin_px_vs_fyjounce_cross_r1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D kingpin_py_vs_fyjounce_cross_r1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D kingpin_vs_fxjounce_l1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D caster_vs_fxjounce_l1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D kingpin_px_vs_fxjounce_l1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D kingpin_py_vs_fxjounce_l1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D kingpin_vs_fxjounce_cross_l1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D caster_vs_fxjounce_cross_l1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D kingpin_px_vs_fxjounce_cross_l1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D kingpin_py_vs_fxjounce_cross_l1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D kingpin_vs_fxjounce_r1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D caster_vs_fxjounce_r1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D kingpin_px_vs_fxjounce_r1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D kingpin_py_vs_fxjounce_r1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D kingpin_vs_fxjounce_cross_r1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D caster_vs_fxjounce_cross_r1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D kingpin_px_vs_fxjounce_cross_r1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D kingpin_py_vs_fxjounce_cross_r1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D kingpin_vs_fxwctrjounce_l1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D caster_vs_fxwctrjounce_l1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D kingpin_px_vs_fxwctrjounce_l1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D kingpin_py_vs_fxwctrjounce_l1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D kingpin_vs_fxwctrjounce_cross_l1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D caster_vs_fxwctrjounce_cross_l1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D kingpin_px_vs_fxwctrjounce_cross_l1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D kingpin_py_vs_fxwctrjounce_cross_l1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D kingpin_vs_fxwctrjounce_r1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D caster_vs_fxwctrjounce_r1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D kingpin_px_vs_fxwctrjounce_r1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D kingpin_py_vs_fxwctrjounce_r1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D kingpin_vs_fxwctrjounce_cross_r1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D caster_vs_fxwctrjounce_cross_r1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D kingpin_px_vs_fxwctrjounce_cross_r1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D kingpin_py_vs_fxwctrjounce_cross_r1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D sva_vs_fx_twhc_jounce_L1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D toe_vs_fx_twhc_jounce_L1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D camber_vs_fx_twhc_jounce_L1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D base_vs_fx_twhc_jounce_L1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D track_vs_fx_twhc_jounce_L1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D sva_vs_fx_twhc_jounce_cross_L1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D toe_vs_fx_twhc_jounce_cross_L1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D camber_vs_fx_twhc_jounce_cross_L1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D base_vs_fx_twhc_jounce_cross_L1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D track_vs_fx_twhc_jounce_cross_L1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D sva_vs_fy_twhc_jounce_L1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D toe_vs_fy_twhc_jounce_L1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D camber_vs_fy_twhc_jounce_L1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D base_vs_fy_twhc_jounce_L1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D track_vs_fy_twhc_jounce_L1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D sva_vs_fy_twhc_jounce_cross_L1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D toe_vs_fy_twhc_jounce_cross_L1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D camber_vs_fy_twhc_jounce_cross_L1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D base_vs_fy_twhc_jounce_cross_L1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D track_vs_fy_twhc_jounce_cross_L1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D sva_vs_fz_twhc_jounce_L1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D toe_vs_fz_twhc_jounce_L1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D camber_vs_fz_twhc_jounce_L1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D base_vs_fz_twhc_jounce_L1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D track_vs_fz_twhc_jounce_L1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D sva_vs_fz_twhc_jounce_cross_L1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D toe_vs_fz_twhc_jounce_cross_L1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D camber_vs_fz_twhc_jounce_cross_L1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D base_vs_fz_twhc_jounce_cross_L1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D track_vs_fz_twhc_jounce_cross_L1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D sva_vs_mx_twhc_jounce_L1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D toe_vs_mx_twhc_jounce_L1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D camber_vs_mx_twhc_jounce_L1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D base_vs_mx_twhc_jounce_L1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D track_vs_mx_twhc_jounce_L1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D sva_vs_mx_twhc_jounce_cross_L1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D toe_vs_mx_twhc_jounce_cross_L1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D camber_vs_mx_twhc_jounce_cross_L1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D base_vs_mx_twhc_jounce_cross_L1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D track_vs_mx_twhc_jounce_cross_L1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D sva_vs_my_twhc_jounce_L1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D toe_vs_my_twhc_jounce_L1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D camber_vs_my_twhc_jounce_L1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D base_vs_my_twhc_jounce_L1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D track_vs_my_twhc_jounce_L1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D sva_vs_my_twhc_jounce_cross_L1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D toe_vs_my_twhc_jounce_cross_L1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D camber_vs_my_twhc_jounce_cross_L1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D base_vs_my_twhc_jounce_cross_L1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D track_vs_my_twhc_jounce_cross_L1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D sva_vs_mz_twhc_jounce_L1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D toe_vs_mz_twhc_jounce_L1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D camber_vs_mz_twhc_jounce_L1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D base_vs_mz_twhc_jounce_L1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D track_vs_mz_twhc_jounce_L1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D sva_vs_mz_twhc_jounce_cross_L1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D toe_vs_mz_twhc_jounce_cross_L1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D camber_vs_mz_twhc_jounce_cross_L1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D base_vs_mz_twhc_jounce_cross_L1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D track_vs_mz_twhc_jounce_cross_L1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D sva_vs_fx_twhc_jounce_R1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D toe_vs_fx_twhc_jounce_R1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D camber_vs_fx_twhc_jounce_R1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D base_vs_fx_twhc_jounce_R1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D track_vs_fx_twhc_jounce_R1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D sva_vs_fx_twhc_jounce_cross_R1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D toe_vs_fx_twhc_jounce_cross_R1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D camber_vs_fx_twhc_jounce_cross_R1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D base_vs_fx_twhc_jounce_cross_R1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D track_vs_fx_twhc_jounce_cross_R1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D sva_vs_fy_twhc_jounce_R1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D toe_vs_fy_twhc_jounce_R1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D camber_vs_fy_twhc_jounce_R1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D base_vs_fy_twhc_jounce_R1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D track_vs_fy_twhc_jounce_R1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D sva_vs_fy_twhc_jounce_cross_R1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D toe_vs_fy_twhc_jounce_cross_R1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D camber_vs_fy_twhc_jounce_cross_R1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D base_vs_fy_twhc_jounce_cross_R1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D track_vs_fy_twhc_jounce_cross_R1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D sva_vs_fz_twhc_jounce_R1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D toe_vs_fz_twhc_jounce_R1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D camber_vs_fz_twhc_jounce_R1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D base_vs_fz_twhc_jounce_R1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D track_vs_fz_twhc_jounce_R1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D sva_vs_fz_twhc_jounce_cross_R1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D toe_vs_fz_twhc_jounce_cross_R1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D camber_vs_fz_twhc_jounce_cross_R1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D base_vs_fz_twhc_jounce_cross_R1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D track_vs_fz_twhc_jounce_cross_R1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D sva_vs_mx_twhc_jounce_R1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D toe_vs_mx_twhc_jounce_R1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D camber_vs_mx_twhc_jounce_R1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D base_vs_mx_twhc_jounce_R1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D track_vs_mx_twhc_jounce_R1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D sva_vs_mx_twhc_jounce_cross_R1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D toe_vs_mx_twhc_jounce_cross_R1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D camber_vs_mx_twhc_jounce_cross_R1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D base_vs_mx_twhc_jounce_cross_R1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D track_vs_mx_twhc_jounce_cross_R1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D sva_vs_my_twhc_jounce_R1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D toe_vs_my_twhc_jounce_R1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D camber_vs_my_twhc_jounce_R1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D base_vs_my_twhc_jounce_R1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D track_vs_my_twhc_jounce_R1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D sva_vs_my_twhc_jounce_cross_R1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D toe_vs_my_twhc_jounce_cross_R1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D camber_vs_my_twhc_jounce_cross_R1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D base_vs_my_twhc_jounce_cross_R1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D track_vs_my_twhc_jounce_cross_R1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D sva_vs_mz_twhc_jounce_R1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D toe_vs_mz_twhc_jounce_R1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D camber_vs_mz_twhc_jounce_R1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D base_vs_mz_twhc_jounce_R1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D track_vs_mz_twhc_jounce_R1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D sva_vs_mz_twhc_jounce_cross_R1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D toe_vs_mz_twhc_jounce_cross_R1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D camber_vs_mz_twhc_jounce_cross_R1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D base_vs_mz_twhc_jounce_cross_R1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D track_vs_mz_twhc_jounce_cross_R1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D sva_vs_fx_twhc_jounce_L2 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D toe_vs_fx_twhc_jounce_L2 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D camber_vs_fx_twhc_jounce_L2 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D base_vs_fx_twhc_jounce_L2 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D track_vs_fx_twhc_jounce_L2 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D sva_vs_fx_twhc_jounce_cross_L2 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D toe_vs_fx_twhc_jounce_cross_L2 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D camber_vs_fx_twhc_jounce_cross_L2 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D base_vs_fx_twhc_jounce_cross_L2 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D track_vs_fx_twhc_jounce_cross_L2 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D sva_vs_fy_twhc_jounce_L2 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D toe_vs_fy_twhc_jounce_L2 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D camber_vs_fy_twhc_jounce_L2 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D base_vs_fy_twhc_jounce_L2 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D track_vs_fy_twhc_jounce_L2 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D sva_vs_fy_twhc_jounce_cross_L2 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D toe_vs_fy_twhc_jounce_cross_L2 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D camber_vs_fy_twhc_jounce_cross_L2 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D base_vs_fy_twhc_jounce_cross_L2 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D track_vs_fy_twhc_jounce_cross_L2 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D sva_vs_fz_twhc_jounce_L2 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D toe_vs_fz_twhc_jounce_L2 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D camber_vs_fz_twhc_jounce_L2 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D base_vs_fz_twhc_jounce_L2 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D track_vs_fz_twhc_jounce_L2 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D sva_vs_fz_twhc_jounce_cross_L2 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D toe_vs_fz_twhc_jounce_cross_L2 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D camber_vs_fz_twhc_jounce_cross_L2 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D base_vs_fz_twhc_jounce_cross_L2 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D track_vs_fz_twhc_jounce_cross_L2 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D sva_vs_mx_twhc_jounce_L2 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D toe_vs_mx_twhc_jounce_L2 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D camber_vs_mx_twhc_jounce_L2 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D base_vs_mx_twhc_jounce_L2 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D track_vs_mx_twhc_jounce_L2 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D sva_vs_mx_twhc_jounce_cross_L2 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D toe_vs_mx_twhc_jounce_cross_L2 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D camber_vs_mx_twhc_jounce_cross_L2 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D base_vs_mx_twhc_jounce_cross_L2 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D track_vs_mx_twhc_jounce_cross_L2 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D sva_vs_my_twhc_jounce_L2 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D toe_vs_my_twhc_jounce_L2 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D camber_vs_my_twhc_jounce_L2 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D base_vs_my_twhc_jounce_L2 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D track_vs_my_twhc_jounce_L2 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D sva_vs_my_twhc_jounce_cross_L2 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D toe_vs_my_twhc_jounce_cross_L2 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D camber_vs_my_twhc_jounce_cross_L2 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D base_vs_my_twhc_jounce_cross_L2 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D track_vs_my_twhc_jounce_cross_L2 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D sva_vs_mz_twhc_jounce_L2 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D toe_vs_mz_twhc_jounce_L2 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D camber_vs_mz_twhc_jounce_L2 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D base_vs_mz_twhc_jounce_L2 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D track_vs_mz_twhc_jounce_L2 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D sva_vs_mz_twhc_jounce_cross_L2 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D toe_vs_mz_twhc_jounce_cross_L2 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D camber_vs_mz_twhc_jounce_cross_L2 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D base_vs_mz_twhc_jounce_cross_L2 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D track_vs_mz_twhc_jounce_cross_L2 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D sva_vs_fx_twhc_jounce_R2 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D toe_vs_fx_twhc_jounce_R2 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D camber_vs_fx_twhc_jounce_R2 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D base_vs_fx_twhc_jounce_R2 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D track_vs_fx_twhc_jounce_R2 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D sva_vs_fx_twhc_jounce_cross_R2 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D toe_vs_fx_twhc_jounce_cross_R2 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D camber_vs_fx_twhc_jounce_cross_R2 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D base_vs_fx_twhc_jounce_cross_R2 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D track_vs_fx_twhc_jounce_cross_R2 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D sva_vs_fy_twhc_jounce_R2 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D toe_vs_fy_twhc_jounce_R2 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D camber_vs_fy_twhc_jounce_R2 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D base_vs_fy_twhc_jounce_R2 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D track_vs_fy_twhc_jounce_R2 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D sva_vs_fy_twhc_jounce_cross_R2 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D toe_vs_fy_twhc_jounce_cross_R2 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D camber_vs_fy_twhc_jounce_cross_R2 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D base_vs_fy_twhc_jounce_cross_R2 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D track_vs_fy_twhc_jounce_cross_R2 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D sva_vs_fz_twhc_jounce_R2 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D toe_vs_fz_twhc_jounce_R2 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D camber_vs_fz_twhc_jounce_R2 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D base_vs_fz_twhc_jounce_R2 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D track_vs_fz_twhc_jounce_R2 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D sva_vs_fz_twhc_jounce_cross_R2 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D toe_vs_fz_twhc_jounce_cross_R2 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D camber_vs_fz_twhc_jounce_cross_R2 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D base_vs_fz_twhc_jounce_cross_R2 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D track_vs_fz_twhc_jounce_cross_R2 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D sva_vs_mx_twhc_jounce_R2 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D toe_vs_mx_twhc_jounce_R2 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D camber_vs_mx_twhc_jounce_R2 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D base_vs_mx_twhc_jounce_R2 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D track_vs_mx_twhc_jounce_R2 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D sva_vs_mx_twhc_jounce_cross_R2 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D toe_vs_mx_twhc_jounce_cross_R2 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D camber_vs_mx_twhc_jounce_cross_R2 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D base_vs_mx_twhc_jounce_cross_R2 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D track_vs_mx_twhc_jounce_cross_R2 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D sva_vs_my_twhc_jounce_R2 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D toe_vs_my_twhc_jounce_R2 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D camber_vs_my_twhc_jounce_R2 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D base_vs_my_twhc_jounce_R2 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D track_vs_my_twhc_jounce_R2 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D sva_vs_my_twhc_jounce_cross_R2 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D toe_vs_my_twhc_jounce_cross_R2 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D camber_vs_my_twhc_jounce_cross_R2 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D base_vs_my_twhc_jounce_cross_R2 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D track_vs_my_twhc_jounce_cross_R2 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D sva_vs_mz_twhc_jounce_R2 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D toe_vs_mz_twhc_jounce_R2 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D camber_vs_mz_twhc_jounce_R2 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D base_vs_mz_twhc_jounce_R2 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D track_vs_mz_twhc_jounce_R2 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D sva_vs_mz_twhc_jounce_cross_R2 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D toe_vs_mz_twhc_jounce_cross_R2 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D camber_vs_mz_twhc_jounce_cross_R2 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D base_vs_mz_twhc_jounce_cross_R2 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D track_vs_mz_twhc_jounce_cross_R2 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Total Compliance Spline 464 -> Active Spline 0 
+ -- WARNING -- Tierod Geometry does not match rack travel vs steering wheel slope: please check kinematic curves or tierod locations.
+ -- WARNING -- Solver will automatically invert the sign of computed rack force.
+
+Initializing powertrain / driveline...
+Done.
+
+Initializing aero force...
+Done.
+
+Initializing tires...
+Loading road data file... (file=C:/PROGRA~1/VI-grade/VI-CAR~1/acarrt/CARREA~1.CDB/roads.tbl/flat_straight.rdf)
+
+road file total reading time = 0.002s
+
+FLAT road model has been initialized...
+
+initializing VI-TIRE Pacejka 96/02 model... OK
+
+initializing VI-TIRE Pacejka 96/02 model... OK
+
+initializing VI-TIRE Pacejka 96/02 model... OK
+
+initializing VI-TIRE Pacejka 96/02 model... OK
+
+Done.
+
+Initializing driver...
+
+Done.
+
+
+Event data is being read from input XML file...
+
+Using configuration file:  D:\VI-Grade_WD\SCG007C_2/vicrt_cdb.cfg
+
+Databases List:
+
+Alias: carrealtime_shared
+Path: C:/PROGRA~1/VI-grade/VI-CAR~1/acarrt/CARREA~1.CDB
+
+Alias: citycar
+Path: C:/PROGRA~1/VI-grade/VI-CAR~1/acarrt/examples/SHARED~1/CityCar.cdb
+
+Alias: compactcar
+Path: C:/PROGRA~1/VI-grade/VI-CAR~1/acarrt/examples/SHARED~1/COMPAC~1.CDB
+
+Alias: crossover
+Path: C:/PROGRA~1/VI-grade/VI-CAR~1/acarrt/examples/SHARED~1/CROSSO~1.CDB
+
+Alias: pickup
+Path: C:/PROGRA~1/VI-grade/VI-CAR~1/acarrt/examples/SHARED~1/Pickup.cdb
+
+Alias: racecar
+Path: C:/PROGRA~1/VI-grade/VI-CAR~1/acarrt/examples/SHARED~1/RaceCar.cdb
+
+Alias: scg004c_r06c
+Path: D:/VI-Grade_DB/SCG004C_R06c.cdb
+
+Alias: scg007c_2wd4wd
+Path: D:/VI-Grade_DB/SCG007C_2WD4WD.cdb
+
+Alias: scg007c_2wd4wd_v2
+Path: D:/VI-Grade_DB/SCG007C_2WD4WD_V2.cdb
+
+Alias: scg007c_r01
+Path: D:/VI-Grade_DB/SCG007C_R01.cdb
+
+Alias: scg007c_r06
+Path: D:/VI-Grade_DB/SCG007C_R06.cdb
+
+Alias: scg007c_r07_stiff
+Path: D:/VI-Grade_DB/SCG007C_R07_Stiff.cdb
+
+Alias: sedancar
+Path: C:/PROGRA~1/VI-grade/VI-CAR~1/acarrt/examples/SHARED~1/SedanCar.cdb
+
+Alias: sportcar
+Path: C:/PROGRA~1/VI-grade/VI-CAR~1/acarrt/examples/SHARED~1/SportCar.cdb
+
+Alias: suv
+Path: C:/PROGRA~1/VI-grade/VI-CAR~1/acarrt/examples/SHARED~1/SUV.cdb
+
+Alias: vi-grade_tracks
+Path: D:/VI-Grade_DB/VI-Grade_Tracks.cdb
+
+Alias: visafety_shared
+Path: C:/PROGRA~1/VI-grade/VI-CAR~1/acarrt/VISAFE~1.CDB
+ -- INFO -- 
+ -- INFO -- Spline fsusp_damper_L1 -> ACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline fsusp_damper_L2 -> ACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline fsusp_damper_R1 -> ACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline fsusp_damper_R2 -> ACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline fsusp_spring_L1 -> ACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline fsusp_spring_L2 -> ACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline fsusp_spring_R1 -> ACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline fsusp_spring_R2 -> ACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline steering_system_compliance_1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline rsusp_spring_L1 -> ACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline rsusp_spring_L2 -> ACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline rsusp_spring_R1 -> ACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline rsusp_spring_R2 -> ACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline rsusp_jounce_bumper_L1 -> ACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline rsusp_jounce_bumper_L2 -> ACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline rsusp_jounce_bumper_R1 -> ACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline rsusp_jounce_bumper_R2 -> ACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline rsusp_rebound_bumper_L1 -> ACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline rsusp_rebound_bumper_L2 -> ACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline rsusp_rebound_bumper_R1 -> ACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline rsusp_rebound_bumper_R2 -> ACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline rsusp_damper_L1 -> ACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline rsusp_damper_L2 -> ACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline rsusp_damper_R1 -> ACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline rsusp_damper_R2 -> ACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline fsusp_jounce_bumper_L1 -> ACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline fsusp_jounce_bumper_L2 -> ACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline fsusp_jounce_bumper_R1 -> ACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline fsusp_jounce_bumper_R2 -> ACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline fsusp_rebound_bumper_L1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline fsusp_rebound_bumper_L2 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline fsusp_rebound_bumper_R1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline fsusp_rebound_bumper_R2 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline wheel_x_vs_z_L1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline wheel_x_vs_z_R1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline wheel_y_vs_z_L1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline wheel_y_vs_z_R1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline LSD_C1_table1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline LSD_C1_table2 -> ACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline LSD_C1_table3 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline fsusp_third_damper_1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline fsusp_third_damper_2 -> ACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline fsusp_third_spring_1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline fsusp_third_spring_2 -> ACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline servo_steering_action_scaling -> ACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline gear_ratios -> ACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline downshiftRPM -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline upshiftRPM -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline fsusp_antiroll_1 -> ACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline fsusp_antiroll_2 -> ACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline sva_vs_fz_L1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline sva_vs_fz_L2 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline sva_vs_fz_R1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline sva_vs_fz_R2 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline toe_vs_fz_L1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline toe_vs_fz_L2 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline toe_vs_fz_R1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline toe_vs_fz_R2 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline camber_vs_fz_L1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline camber_vs_fz_L2 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline camber_vs_fz_R1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline camber_vs_fz_R2 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline track_vs_fz_L1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline track_vs_fz_L2 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline track_vs_fz_R1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline track_vs_fz_R2 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline base_vs_fz_L1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline base_vs_fz_L2 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline base_vs_fz_R1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline base_vs_fz_R2 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline fsusp_single_damper_bumpstop_1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline fsusp_single_damper_bumpstop_2 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline fsusp_single_damper_reboundstop_1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline fsusp_single_damper_reboundstop_2 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline fsusp_single_damper_1 -> ACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline fsusp_single_damper_2 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline fsusp_single_inerter_1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline fsusp_single_inerter_2 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline fsusp_single_spring_1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline fsusp_single_spring_2 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline fsusp_single_spring_bumpstop_1 -> ACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline fsusp_single_spring_bumpstop_2 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline fsusp_single_spring_reboundstop_1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline fsusp_single_spring_reboundstop_2 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline fsusp_single_inerter_bumpstop_1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline fsusp_single_inerter_bumpstop_2 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline fsusp_single_inerter_reboundstop_1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline fsusp_single_inerter_reboundstop_2 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline fsusp_single_opp_damper_1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline fsusp_single_opp_damper_2 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline fsusp_single_opp_dmp_bumpstop_1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline fsusp_single_opp_dmp_bumpstop_2 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline fsusp_single_opp_dmp_reboundstop_1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline fsusp_single_opp_dmp_reboundstop_2 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline steer_to_rack -> ACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline ram_efficiency_spline -> ACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline user_diff_1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline user_diff_2 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline user_diff_3 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline steer_to_rack_saved -> ACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline fsusp_extra_spring_L1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline fsusp_extra_spring_L2 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline fsusp_extra_spring_R1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline fsusp_extra_spring_R2 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline rsusp_extra_spring_L1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline rsusp_extra_spring_L2 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline rsusp_extra_spring_R1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline rsusp_extra_spring_R2 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline fsusp_extra_damper_L1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline fsusp_extra_damper_L2 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline fsusp_extra_damper_R1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline fsusp_extra_damper_R2 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline rsusp_extra_damper_L1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline rsusp_extra_damper_L2 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline rsusp_extra_damper_R1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline rsusp_extra_damper_R2 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline fsusp_extra_jounce_bumper_L1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline fsusp_extra_jounce_bumper_L2 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline fsusp_extra_jounce_bumper_R1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline fsusp_extra_jounce_bumper_R2 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline rsusp_extra_jounce_bumper_L1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline rsusp_extra_jounce_bumper_L2 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline rsusp_extra_jounce_bumper_R1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline rsusp_extra_jounce_bumper_R2 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline fsusp_extra_rebound_bumper_L1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline fsusp_extra_rebound_bumper_L2 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline fsusp_extra_rebound_bumper_R1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline fsusp_extra_rebound_bumper_R2 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline rsusp_extra_rebound_bumper_L1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline rsusp_extra_rebound_bumper_L2 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline rsusp_extra_rebound_bumper_R1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline rsusp_extra_rebound_bumper_R2 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline rsusp_inerter_L1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline rsusp_inerter_L2 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline rsusp_inerter_R1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline rsusp_inerter_R2 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline fsusp_inerter_L1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline fsusp_inerter_L2 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline fsusp_inerter_R1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline fsusp_inerter_R2 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Total Spline 140 -> Active Spline 40 
+ -- INFO -- 
+ -- INFO -- Spline2D wheel_str_vs_swaz_L1 -> ACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D wheel_str_vs_swaz_R1 -> ACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D steering_wheel_torque -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D wheel_camber_vs_swaz_L1 -> ACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D wheel_camber_vs_swaz_R1 -> ACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D wheel_sva_vs_swaz_L1 -> ACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D wheel_sva_vs_swaz_R1 -> ACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D wheel_toe_vs_z1z2_L2 -> ACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D wheel_toe_vs_z1z2_R2 -> ACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D wheel_camber_vs_z1z2_L2 -> ACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D wheel_camber_vs_z1z2_R2 -> ACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D wheel_sva_vs_z1z2_L2 -> ACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D wheel_sva_vs_z1z2_R2 -> ACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D aux_roll_moment_vs_z1z2_1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D aux_roll_moment_vs_z1z2_2 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D wheel_x_vs_z1z2_L2 -> ACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D wheel_x_vs_z1z2_R2 -> ACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D wheel_y_vs_z1z2_L2 -> ACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D wheel_y_vs_z1z2_R2 -> ACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D fsusp_damper_3D_L1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D fsusp_damper_3D_L2 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D fsusp_damper_3D_R1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D fsusp_damper_3D_R2 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D engine_map -> ACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D rsusp_antiroll_vs_z1z2_1 -> ACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D rsusp_antiroll_vs_z1z2_2 -> ACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D kingpin_vs_swajounce_L1 -> ACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D kingpin_vs_swajounce_R1 -> ACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D caster_vs_swajounce_L1 -> ACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D caster_vs_swajounce_R1 -> ACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D kingpin_px_vs_swajounce_L1 -> ACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D kingpin_px_vs_swajounce_R1 -> ACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D kingpin_py_vs_swajounce_L1 -> ACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D kingpin_py_vs_swajounce_R1 -> ACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D kingpin_pz_vs_swajounce_L1 -> ACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D kingpin_pz_vs_swajounce_R1 -> ACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D wheel_x_vs_swaz_L1 -> ACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D wheel_x_vs_swaz_R1 -> ACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D wheel_y_vs_swaz_L1 -> ACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D wheel_y_vs_swaz_R1 -> ACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D rsusp_spring_3D_L1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D rsusp_spring_3D_L2 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D rsusp_spring_3D_R1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D rsusp_spring_3D_R2 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D fuel_consumption -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D rsusp_third_damper_1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D rsusp_third_damper_2 -> ACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D rsusp_third_spring_1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D rsusp_third_spring_2 -> ACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D rsusp_single_damper_bumpstop_1 -> ACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D rsusp_single_damper_bumpstop_2 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D rsusp_single_damper_reboundstop_1 -> ACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D rsusp_single_damper_reboundstop_2 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D rsusp_single_damper_1 -> ACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D rsusp_single_damper_2 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D rsusp_single_inerter_1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D rsusp_single_inerter_2 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D rsusp_single_spring_1 -> ACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D rsusp_single_spring_2 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D rsusp_single_spring_bumpstop_1 -> ACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D rsusp_single_spring_bumpstop_2 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D rsusp_single_spring_reboundstop_1 -> ACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D rsusp_single_spring_reboundstop_2 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D rsusp_single_inerter_bumpstop_1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D rsusp_single_inerter_bumpstop_2 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D rsusp_single_inerter_reboundstop_1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D rsusp_single_inerter_reboundstop_2 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D rsusp_damper_3D_L1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D rsusp_damper_3D_L2 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D rsusp_damper_3D_R1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D rsusp_damper_3D_R2 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D rsusp_single_opp_damper_1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D rsusp_single_opp_damper_2 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D rsusp_single_opp_dmp_bumpstop_1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D rsusp_single_opp_dmp_bumpstop_2 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D rsusp_single_opp_dmp_reboundstop_1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D rsusp_single_opp_dmp_reboundstop_2 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D wheel_x_vs_z1z2_L1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D wheel_y_vs_z1z2_L1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D wheel_sva_vs_z1z2_L1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D wheel_toe_vs_z1z2_L1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D wheel_camber_vs_z1z2_L1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D wheel_x_vs_z1z2_R1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D wheel_y_vs_z1z2_R1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D wheel_sva_vs_z1z2_R1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D wheel_toe_vs_z1z2_R1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D wheel_camber_vs_z1z2_R1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D drop_x_vs_z_L1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D drop_y_vs_z_L1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D drop_z_vs_z_L1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D drop_x_vs_z_R1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D drop_y_vs_z_R1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D drop_z_vs_z_R1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D drop_x_vs_z_L2 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D drop_y_vs_z_L2 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D drop_z_vs_z_L2 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D drop_x_vs_z_R2 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D drop_y_vs_z_R2 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D drop_z_vs_z_R2 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D rack_force -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D left_tierod_force -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D right_tierod_force -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D fsusp_aux_spring_L1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D fsusp_aux_spring_L2 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D fsusp_aux_spring_R1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D fsusp_aux_spring_R2 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D rsusp_jounceBumper_3D_L1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D rsusp_jounceBumper_3D_L2 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D rsusp_jounceBumper_3D_R1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D rsusp_jounceBumper_3D_R2 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D rsusp_reboundBumper_3D_L1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D rsusp_reboundBumper_3D_L2 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D rsusp_reboundBumper_3D_R1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D rsusp_reboundBumper_3D_R2 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D rsusp_extra_spring_3D_L1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D rsusp_extra_spring_3D_L2 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D rsusp_extra_spring_3D_R1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D rsusp_extra_spring_3D_R2 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D rsusp_extra_damper_3D_L1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D rsusp_extra_damper_3D_L2 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D rsusp_extra_damper_3D_R1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D rsusp_extra_damper_3D_R2 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D rsusp_extra_jounceBumper_3D_L1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D rsusp_extra_jounceBumper_3D_L2 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D rsusp_extra_jounceBumper_3D_R1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D rsusp_extra_jounceBumper_3D_R2 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D rsusp_extra_reboundBumper_3D_L1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D rsusp_extra_reboundBumper_3D_L2 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D rsusp_extra_reboundBumper_3D_R1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D rsusp_extra_reboundBumper_3D_R2 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D fsusp_extra_damper_3D_L1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D fsusp_extra_damper_3D_L2 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D fsusp_extra_damper_3D_R1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D fsusp_extra_damper_3D_R2 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D fuel_consumption_PME -> ACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D steering_ira_vs_swajounce_L1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D steering_ira_vs_swajounce_R1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D aux_roll_force_vs_z1z2_L1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D aux_roll_force_vs_z1z2_R1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D aux_roll_force_vs_z1z2_L2 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D aux_roll_force_vs_z1z2_R2 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D rsusp_steer_spring_3D_L1 -> ACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D rsusp_steer_spring_3D_R1 -> ACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D rsusp_steer_damper_3D_L1 -> ACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D rsusp_steer_damper_3D_R1 -> ACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D rsusp_steer_jounceBumper_3D_L1 -> ACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D rsusp_steer_jounceBumper_3D_R1 -> ACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D rsusp_steer_reboundBumper_3D_L1 -> ACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D rsusp_steer_reboundBumper_3D_R1 -> ACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D aux_roll_force_swa_z1_L1 -> ACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D aux_roll_force_swa_z1_R1 -> ACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D aux_roll_force_swa_zM_1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D rsusp_antiroll_swa_zM_1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D f_air_spring_L1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D f_air_spring_R1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D f_air_spring_L2 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D f_air_spring_R2 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D f_air_extra_spring_L1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D f_air_extra_spring_R1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D f_air_extra_spring_L2 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D f_air_extra_spring_R2 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D rsusp_steer_inerter_3D_L1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D rsusp_steer_inerter_3D_R1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D rsusp_inerter_3D_L1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D rsusp_inerter_3D_L2 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D rsusp_inerter_3D_R1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D rsusp_inerter_3D_R2 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D generic2d_map -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Total Spline2D 168 -> Active Spline 52 
+ -- INFO -- 
+ -- INFO -- Spline2D sva_vs_fxjounce_L1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D sva_vs_fxjounce_L2 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D sva_vs_fxjounce_R1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D sva_vs_fxjounce_R2 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D sva_vs_fyjounce_L1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D sva_vs_fyjounce_L2 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D sva_vs_fyjounce_R1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D sva_vs_fyjounce_R2 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D sva_vs_mzjounce_L1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D sva_vs_mzjounce_L2 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D sva_vs_mzjounce_R1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D sva_vs_mzjounce_R2 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D sva_vs_fxwctrjounce_L1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D sva_vs_fxwctrjounce_L2 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D sva_vs_fxwctrjounce_R1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D sva_vs_fxwctrjounce_R2 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D sva_vs_fxjounce_cross_L1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D sva_vs_fxjounce_cross_L2 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D sva_vs_fxjounce_cross_R1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D sva_vs_fxjounce_cross_R2 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D sva_vs_fyjounce_cross_L1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D sva_vs_fyjounce_cross_L2 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D sva_vs_fyjounce_cross_R1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D sva_vs_fyjounce_cross_R2 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D sva_vs_mzjounce_cross_L1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D sva_vs_mzjounce_cross_L2 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D sva_vs_mzjounce_cross_R1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D sva_vs_mzjounce_cross_R2 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D sva_vs_fxwctrjounce_cross_L1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D sva_vs_fxwctrjounce_cross_L2 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D sva_vs_fxwctrjounce_cross_R1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D sva_vs_fxwctrjounce_cross_R2 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D toe_vs_fxjounce_L1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D toe_vs_fxjounce_L2 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D toe_vs_fxjounce_R1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D toe_vs_fxjounce_R2 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D toe_vs_fyjounce_L1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D toe_vs_fyjounce_L2 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D toe_vs_fyjounce_R1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D toe_vs_fyjounce_R2 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D toe_vs_mzjounce_L1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D toe_vs_mzjounce_L2 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D toe_vs_mzjounce_R1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D toe_vs_mzjounce_R2 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D toe_vs_fxwctrjounce_L1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D toe_vs_fxwctrjounce_L2 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D toe_vs_fxwctrjounce_R1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D toe_vs_fxwctrjounce_R2 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D toe_vs_fxjounce_cross_L1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D toe_vs_fxjounce_cross_L2 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D toe_vs_fxjounce_cross_R1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D toe_vs_fxjounce_cross_R2 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D toe_vs_fyjounce_cross_L1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D toe_vs_fyjounce_cross_L2 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D toe_vs_fyjounce_cross_R1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D toe_vs_fyjounce_cross_R2 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D toe_vs_mzjounce_cross_L1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D toe_vs_mzjounce_cross_L2 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D toe_vs_mzjounce_cross_R1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D toe_vs_mzjounce_cross_R2 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D toe_vs_fxwctrjounce_cross_L1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D toe_vs_fxwctrjounce_cross_L2 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D toe_vs_fxwctrjounce_cross_R1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D toe_vs_fxwctrjounce_cross_R2 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D camber_vs_fxjounce_L1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D camber_vs_fxjounce_L2 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D camber_vs_fxjounce_R1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D camber_vs_fxjounce_R2 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D camber_vs_fyjounce_L1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D camber_vs_fyjounce_L2 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D camber_vs_fyjounce_R1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D camber_vs_fyjounce_R2 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D camber_vs_mzjounce_L1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D camber_vs_mzjounce_L2 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D camber_vs_mzjounce_R1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D camber_vs_mzjounce_R2 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D camber_vs_fxwctrjounce_L1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D camber_vs_fxwctrjounce_L2 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D camber_vs_fxwctrjounce_R1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D camber_vs_fxwctrjounce_R2 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D camber_vs_fxjounce_cross_L1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D camber_vs_fxjounce_cross_L2 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D camber_vs_fxjounce_cross_R1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D camber_vs_fxjounce_cross_R2 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D camber_vs_fyjounce_cross_L1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D camber_vs_fyjounce_cross_L2 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D camber_vs_fyjounce_cross_R1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D camber_vs_fyjounce_cross_R2 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D camber_vs_mzjounce_cross_L1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D camber_vs_mzjounce_cross_L2 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D camber_vs_mzjounce_cross_R1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D camber_vs_mzjounce_cross_R2 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D camber_vs_fxwctrjounce_cross_L1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D camber_vs_fxwctrjounce_cross_L2 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D camber_vs_fxwctrjounce_cross_R1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D camber_vs_fxwctrjounce_cross_R2 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D track_vs_fxjounce_L1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D track_vs_fxjounce_L2 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D track_vs_fxjounce_R1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D track_vs_fxjounce_R2 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D track_vs_fyjounce_L1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D track_vs_fyjounce_L2 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D track_vs_fyjounce_R1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D track_vs_fyjounce_R2 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D track_vs_mzjounce_L1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D track_vs_mzjounce_L2 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D track_vs_mzjounce_R1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D track_vs_mzjounce_R2 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D track_vs_fxwctrjounce_L1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D track_vs_fxwctrjounce_L2 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D track_vs_fxwctrjounce_R1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D track_vs_fxwctrjounce_R2 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D track_vs_fxjounce_cross_L1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D track_vs_fxjounce_cross_L2 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D track_vs_fxjounce_cross_R1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D track_vs_fxjounce_cross_R2 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D track_vs_fyjounce_cross_L1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D track_vs_fyjounce_cross_L2 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D track_vs_fyjounce_cross_R1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D track_vs_fyjounce_cross_R2 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D track_vs_mzjounce_cross_L1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D track_vs_mzjounce_cross_L2 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D track_vs_mzjounce_cross_R1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D track_vs_mzjounce_cross_R2 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D track_vs_fxwctrjounce_cross_L1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D track_vs_fxwctrjounce_cross_L2 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D track_vs_fxwctrjounce_cross_R1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D track_vs_fxwctrjounce_cross_R2 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D base_vs_fxjounce_L1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D base_vs_fxjounce_L2 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D base_vs_fxjounce_R1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D base_vs_fxjounce_R2 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D base_vs_fyjounce_L1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D base_vs_fyjounce_L2 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D base_vs_fyjounce_R1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D base_vs_fyjounce_R2 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D base_vs_mzjounce_L1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D base_vs_mzjounce_L2 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D base_vs_mzjounce_R1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D base_vs_mzjounce_R2 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D base_vs_fxwctrjounce_L1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D base_vs_fxwctrjounce_L2 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D base_vs_fxwctrjounce_R1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D base_vs_fxwctrjounce_R2 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D base_vs_fxjounce_cross_L1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D base_vs_fxjounce_cross_L2 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D base_vs_fxjounce_cross_R1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D base_vs_fxjounce_cross_R2 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D base_vs_fyjounce_cross_L1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D base_vs_fyjounce_cross_L2 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D base_vs_fyjounce_cross_R1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D base_vs_fyjounce_cross_R2 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D base_vs_mzjounce_cross_L1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D base_vs_mzjounce_cross_L2 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D base_vs_mzjounce_cross_R1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D base_vs_mzjounce_cross_R2 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D base_vs_fxwctrjounce_cross_L1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D base_vs_fxwctrjounce_cross_L2 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D base_vs_fxwctrjounce_cross_R1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D base_vs_fxwctrjounce_cross_R2 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D kingpin_vs_mzjounce_l1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D caster_vs_mzjounce_l1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D kingpin_px_vs_mzjounce_l1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D kingpin_py_vs_mzjounce_l1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D kingpin_vs_mzjounce_cross_l1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D caster_vs_mzjounce_cross_l1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D kingpin_px_vs_mzjounce_cross_l1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D kingpin_py_vs_mzjounce_cross_l1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D kingpin_vs_mzjounce_r1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D caster_vs_mzjounce_r1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D kingpin_px_vs_mzjounce_r1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D kingpin_py_vs_mzjounce_r1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D kingpin_vs_mzjounce_cross_r1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D caster_vs_mzjounce_cross_r1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D kingpin_px_vs_mzjounce_cross_r1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D kingpin_py_vs_mzjounce_cross_r1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D kingpin_vs_fyjounce_l1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D caster_vs_fyjounce_l1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D kingpin_px_vs_fyjounce_l1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D kingpin_py_vs_fyjounce_l1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D kingpin_vs_fyjounce_cross_l1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D caster_vs_fyjounce_cross_l1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D kingpin_px_vs_fyjounce_cross_l1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D kingpin_py_vs_fyjounce_cross_l1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D kingpin_vs_fyjounce_r1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D caster_vs_fyjounce_r1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D kingpin_px_vs_fyjounce_r1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D kingpin_py_vs_fyjounce_r1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D kingpin_vs_fyjounce_cross_r1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D caster_vs_fyjounce_cross_r1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D kingpin_px_vs_fyjounce_cross_r1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D kingpin_py_vs_fyjounce_cross_r1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D kingpin_vs_fxjounce_l1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D caster_vs_fxjounce_l1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D kingpin_px_vs_fxjounce_l1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D kingpin_py_vs_fxjounce_l1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D kingpin_vs_fxjounce_cross_l1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D caster_vs_fxjounce_cross_l1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D kingpin_px_vs_fxjounce_cross_l1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D kingpin_py_vs_fxjounce_cross_l1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D kingpin_vs_fxjounce_r1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D caster_vs_fxjounce_r1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D kingpin_px_vs_fxjounce_r1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D kingpin_py_vs_fxjounce_r1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D kingpin_vs_fxjounce_cross_r1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D caster_vs_fxjounce_cross_r1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D kingpin_px_vs_fxjounce_cross_r1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D kingpin_py_vs_fxjounce_cross_r1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D kingpin_vs_fxwctrjounce_l1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D caster_vs_fxwctrjounce_l1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D kingpin_px_vs_fxwctrjounce_l1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D kingpin_py_vs_fxwctrjounce_l1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D kingpin_vs_fxwctrjounce_cross_l1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D caster_vs_fxwctrjounce_cross_l1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D kingpin_px_vs_fxwctrjounce_cross_l1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D kingpin_py_vs_fxwctrjounce_cross_l1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D kingpin_vs_fxwctrjounce_r1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D caster_vs_fxwctrjounce_r1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D kingpin_px_vs_fxwctrjounce_r1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D kingpin_py_vs_fxwctrjounce_r1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D kingpin_vs_fxwctrjounce_cross_r1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D caster_vs_fxwctrjounce_cross_r1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D kingpin_px_vs_fxwctrjounce_cross_r1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D kingpin_py_vs_fxwctrjounce_cross_r1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D sva_vs_fx_twhc_jounce_L1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D toe_vs_fx_twhc_jounce_L1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D camber_vs_fx_twhc_jounce_L1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D base_vs_fx_twhc_jounce_L1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D track_vs_fx_twhc_jounce_L1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D sva_vs_fx_twhc_jounce_cross_L1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D toe_vs_fx_twhc_jounce_cross_L1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D camber_vs_fx_twhc_jounce_cross_L1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D base_vs_fx_twhc_jounce_cross_L1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D track_vs_fx_twhc_jounce_cross_L1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D sva_vs_fy_twhc_jounce_L1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D toe_vs_fy_twhc_jounce_L1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D camber_vs_fy_twhc_jounce_L1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D base_vs_fy_twhc_jounce_L1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D track_vs_fy_twhc_jounce_L1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D sva_vs_fy_twhc_jounce_cross_L1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D toe_vs_fy_twhc_jounce_cross_L1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D camber_vs_fy_twhc_jounce_cross_L1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D base_vs_fy_twhc_jounce_cross_L1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D track_vs_fy_twhc_jounce_cross_L1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D sva_vs_fz_twhc_jounce_L1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D toe_vs_fz_twhc_jounce_L1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D camber_vs_fz_twhc_jounce_L1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D base_vs_fz_twhc_jounce_L1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D track_vs_fz_twhc_jounce_L1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D sva_vs_fz_twhc_jounce_cross_L1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D toe_vs_fz_twhc_jounce_cross_L1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D camber_vs_fz_twhc_jounce_cross_L1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D base_vs_fz_twhc_jounce_cross_L1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D track_vs_fz_twhc_jounce_cross_L1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D sva_vs_mx_twhc_jounce_L1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D toe_vs_mx_twhc_jounce_L1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D camber_vs_mx_twhc_jounce_L1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D base_vs_mx_twhc_jounce_L1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D track_vs_mx_twhc_jounce_L1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D sva_vs_mx_twhc_jounce_cross_L1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D toe_vs_mx_twhc_jounce_cross_L1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D camber_vs_mx_twhc_jounce_cross_L1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D base_vs_mx_twhc_jounce_cross_L1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D track_vs_mx_twhc_jounce_cross_L1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D sva_vs_my_twhc_jounce_L1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D toe_vs_my_twhc_jounce_L1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D camber_vs_my_twhc_jounce_L1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D base_vs_my_twhc_jounce_L1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D track_vs_my_twhc_jounce_L1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D sva_vs_my_twhc_jounce_cross_L1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D toe_vs_my_twhc_jounce_cross_L1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D camber_vs_my_twhc_jounce_cross_L1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D base_vs_my_twhc_jounce_cross_L1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D track_vs_my_twhc_jounce_cross_L1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D sva_vs_mz_twhc_jounce_L1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D toe_vs_mz_twhc_jounce_L1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D camber_vs_mz_twhc_jounce_L1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D base_vs_mz_twhc_jounce_L1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D track_vs_mz_twhc_jounce_L1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D sva_vs_mz_twhc_jounce_cross_L1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D toe_vs_mz_twhc_jounce_cross_L1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D camber_vs_mz_twhc_jounce_cross_L1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D base_vs_mz_twhc_jounce_cross_L1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D track_vs_mz_twhc_jounce_cross_L1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D sva_vs_fx_twhc_jounce_R1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D toe_vs_fx_twhc_jounce_R1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D camber_vs_fx_twhc_jounce_R1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D base_vs_fx_twhc_jounce_R1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D track_vs_fx_twhc_jounce_R1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D sva_vs_fx_twhc_jounce_cross_R1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D toe_vs_fx_twhc_jounce_cross_R1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D camber_vs_fx_twhc_jounce_cross_R1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D base_vs_fx_twhc_jounce_cross_R1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D track_vs_fx_twhc_jounce_cross_R1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D sva_vs_fy_twhc_jounce_R1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D toe_vs_fy_twhc_jounce_R1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D camber_vs_fy_twhc_jounce_R1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D base_vs_fy_twhc_jounce_R1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D track_vs_fy_twhc_jounce_R1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D sva_vs_fy_twhc_jounce_cross_R1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D toe_vs_fy_twhc_jounce_cross_R1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D camber_vs_fy_twhc_jounce_cross_R1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D base_vs_fy_twhc_jounce_cross_R1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D track_vs_fy_twhc_jounce_cross_R1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D sva_vs_fz_twhc_jounce_R1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D toe_vs_fz_twhc_jounce_R1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D camber_vs_fz_twhc_jounce_R1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D base_vs_fz_twhc_jounce_R1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D track_vs_fz_twhc_jounce_R1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D sva_vs_fz_twhc_jounce_cross_R1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D toe_vs_fz_twhc_jounce_cross_R1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D camber_vs_fz_twhc_jounce_cross_R1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D base_vs_fz_twhc_jounce_cross_R1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D track_vs_fz_twhc_jounce_cross_R1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D sva_vs_mx_twhc_jounce_R1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D toe_vs_mx_twhc_jounce_R1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D camber_vs_mx_twhc_jounce_R1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D base_vs_mx_twhc_jounce_R1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D track_vs_mx_twhc_jounce_R1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D sva_vs_mx_twhc_jounce_cross_R1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D toe_vs_mx_twhc_jounce_cross_R1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D camber_vs_mx_twhc_jounce_cross_R1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D base_vs_mx_twhc_jounce_cross_R1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D track_vs_mx_twhc_jounce_cross_R1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D sva_vs_my_twhc_jounce_R1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D toe_vs_my_twhc_jounce_R1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D camber_vs_my_twhc_jounce_R1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D base_vs_my_twhc_jounce_R1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D track_vs_my_twhc_jounce_R1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D sva_vs_my_twhc_jounce_cross_R1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D toe_vs_my_twhc_jounce_cross_R1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D camber_vs_my_twhc_jounce_cross_R1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D base_vs_my_twhc_jounce_cross_R1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D track_vs_my_twhc_jounce_cross_R1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D sva_vs_mz_twhc_jounce_R1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D toe_vs_mz_twhc_jounce_R1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D camber_vs_mz_twhc_jounce_R1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D base_vs_mz_twhc_jounce_R1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D track_vs_mz_twhc_jounce_R1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D sva_vs_mz_twhc_jounce_cross_R1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D toe_vs_mz_twhc_jounce_cross_R1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D camber_vs_mz_twhc_jounce_cross_R1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D base_vs_mz_twhc_jounce_cross_R1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D track_vs_mz_twhc_jounce_cross_R1 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D sva_vs_fx_twhc_jounce_L2 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D toe_vs_fx_twhc_jounce_L2 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D camber_vs_fx_twhc_jounce_L2 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D base_vs_fx_twhc_jounce_L2 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D track_vs_fx_twhc_jounce_L2 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D sva_vs_fx_twhc_jounce_cross_L2 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D toe_vs_fx_twhc_jounce_cross_L2 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D camber_vs_fx_twhc_jounce_cross_L2 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D base_vs_fx_twhc_jounce_cross_L2 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D track_vs_fx_twhc_jounce_cross_L2 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D sva_vs_fy_twhc_jounce_L2 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D toe_vs_fy_twhc_jounce_L2 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D camber_vs_fy_twhc_jounce_L2 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D base_vs_fy_twhc_jounce_L2 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D track_vs_fy_twhc_jounce_L2 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D sva_vs_fy_twhc_jounce_cross_L2 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D toe_vs_fy_twhc_jounce_cross_L2 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D camber_vs_fy_twhc_jounce_cross_L2 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D base_vs_fy_twhc_jounce_cross_L2 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D track_vs_fy_twhc_jounce_cross_L2 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D sva_vs_fz_twhc_jounce_L2 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D toe_vs_fz_twhc_jounce_L2 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D camber_vs_fz_twhc_jounce_L2 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D base_vs_fz_twhc_jounce_L2 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D track_vs_fz_twhc_jounce_L2 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D sva_vs_fz_twhc_jounce_cross_L2 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D toe_vs_fz_twhc_jounce_cross_L2 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D camber_vs_fz_twhc_jounce_cross_L2 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D base_vs_fz_twhc_jounce_cross_L2 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D track_vs_fz_twhc_jounce_cross_L2 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D sva_vs_mx_twhc_jounce_L2 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D toe_vs_mx_twhc_jounce_L2 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D camber_vs_mx_twhc_jounce_L2 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D base_vs_mx_twhc_jounce_L2 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D track_vs_mx_twhc_jounce_L2 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D sva_vs_mx_twhc_jounce_cross_L2 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D toe_vs_mx_twhc_jounce_cross_L2 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D camber_vs_mx_twhc_jounce_cross_L2 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D base_vs_mx_twhc_jounce_cross_L2 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D track_vs_mx_twhc_jounce_cross_L2 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D sva_vs_my_twhc_jounce_L2 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D toe_vs_my_twhc_jounce_L2 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D camber_vs_my_twhc_jounce_L2 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D base_vs_my_twhc_jounce_L2 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D track_vs_my_twhc_jounce_L2 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D sva_vs_my_twhc_jounce_cross_L2 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D toe_vs_my_twhc_jounce_cross_L2 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D camber_vs_my_twhc_jounce_cross_L2 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D base_vs_my_twhc_jounce_cross_L2 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D track_vs_my_twhc_jounce_cross_L2 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D sva_vs_mz_twhc_jounce_L2 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D toe_vs_mz_twhc_jounce_L2 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D camber_vs_mz_twhc_jounce_L2 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D base_vs_mz_twhc_jounce_L2 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D track_vs_mz_twhc_jounce_L2 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D sva_vs_mz_twhc_jounce_cross_L2 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D toe_vs_mz_twhc_jounce_cross_L2 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D camber_vs_mz_twhc_jounce_cross_L2 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D base_vs_mz_twhc_jounce_cross_L2 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D track_vs_mz_twhc_jounce_cross_L2 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D sva_vs_fx_twhc_jounce_R2 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D toe_vs_fx_twhc_jounce_R2 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D camber_vs_fx_twhc_jounce_R2 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D base_vs_fx_twhc_jounce_R2 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D track_vs_fx_twhc_jounce_R2 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D sva_vs_fx_twhc_jounce_cross_R2 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D toe_vs_fx_twhc_jounce_cross_R2 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D camber_vs_fx_twhc_jounce_cross_R2 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D base_vs_fx_twhc_jounce_cross_R2 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D track_vs_fx_twhc_jounce_cross_R2 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D sva_vs_fy_twhc_jounce_R2 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D toe_vs_fy_twhc_jounce_R2 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D camber_vs_fy_twhc_jounce_R2 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D base_vs_fy_twhc_jounce_R2 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D track_vs_fy_twhc_jounce_R2 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D sva_vs_fy_twhc_jounce_cross_R2 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D toe_vs_fy_twhc_jounce_cross_R2 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D camber_vs_fy_twhc_jounce_cross_R2 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D base_vs_fy_twhc_jounce_cross_R2 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D track_vs_fy_twhc_jounce_cross_R2 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D sva_vs_fz_twhc_jounce_R2 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D toe_vs_fz_twhc_jounce_R2 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D camber_vs_fz_twhc_jounce_R2 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D base_vs_fz_twhc_jounce_R2 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D track_vs_fz_twhc_jounce_R2 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D sva_vs_fz_twhc_jounce_cross_R2 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D toe_vs_fz_twhc_jounce_cross_R2 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D camber_vs_fz_twhc_jounce_cross_R2 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D base_vs_fz_twhc_jounce_cross_R2 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D track_vs_fz_twhc_jounce_cross_R2 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D sva_vs_mx_twhc_jounce_R2 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D toe_vs_mx_twhc_jounce_R2 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D camber_vs_mx_twhc_jounce_R2 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D base_vs_mx_twhc_jounce_R2 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D track_vs_mx_twhc_jounce_R2 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D sva_vs_mx_twhc_jounce_cross_R2 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D toe_vs_mx_twhc_jounce_cross_R2 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D camber_vs_mx_twhc_jounce_cross_R2 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D base_vs_mx_twhc_jounce_cross_R2 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D track_vs_mx_twhc_jounce_cross_R2 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D sva_vs_my_twhc_jounce_R2 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D toe_vs_my_twhc_jounce_R2 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D camber_vs_my_twhc_jounce_R2 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D base_vs_my_twhc_jounce_R2 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D track_vs_my_twhc_jounce_R2 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D sva_vs_my_twhc_jounce_cross_R2 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D toe_vs_my_twhc_jounce_cross_R2 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D camber_vs_my_twhc_jounce_cross_R2 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D base_vs_my_twhc_jounce_cross_R2 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D track_vs_my_twhc_jounce_cross_R2 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D sva_vs_mz_twhc_jounce_R2 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D toe_vs_mz_twhc_jounce_R2 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D camber_vs_mz_twhc_jounce_R2 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D base_vs_mz_twhc_jounce_R2 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D track_vs_mz_twhc_jounce_R2 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D sva_vs_mz_twhc_jounce_cross_R2 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D toe_vs_mz_twhc_jounce_cross_R2 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D camber_vs_mz_twhc_jounce_cross_R2 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D base_vs_mz_twhc_jounce_cross_R2 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Spline2D track_vs_mz_twhc_jounce_cross_R2 -> DEACTIVATED
+ -- INFO -- 
+ -- INFO -- Total Compliance Spline 464 -> Active Spline 0 
+ -- WARNING -- Tierod Geometry does not match rack travel vs steering wheel slope: please check kinematic curves or tierod locations.
+ -- WARNING -- Solver will automatically invert the sign of computed rack force.
+
+Initializing powertrain / driveline...
+Done.
+
+Initializing aero force...
+Done.
+
+Initializing tires...
+Loading road data file... (file=C:/PROGRA~1/VI-grade/VI-CAR~1/acarrt/CARREA~1.CDB/roads.tbl/flat_straight.rdf)
+
+road file total reading time = 0.002s
+
+FLAT road model has been initialized...
+
+initializing VI-TIRE Pacejka 96/02 model... OK
+
+initializing VI-TIRE Pacejka 96/02 model... OK
+
+initializing VI-TIRE Pacejka 96/02 model... OK
+
+initializing VI-TIRE Pacejka 96/02 model... OK
+
+Done.
+
+Initializing driver...
+
+Done.
+

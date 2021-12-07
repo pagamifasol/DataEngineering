@@ -1,0 +1,37 @@
+<?xml version="1.0"?>
+<NumericTable>
+<Frequence>1 Hz</Frequence>
+<Graphs>
+<Graph>
+<Label>Team_Fuel_Used_Stint</Label>
+</Graph>
+</Graphs>
+<SourceChnName>0</SourceChnName>
+<TimeMode>0</TimeMode>
+<HeaderBackgroundColor>000000</HeaderBackgroundColor>
+<HeaderTextColor>FFFFFF</HeaderTextColor>
+<TimestampsBackgroundColor>000000</TimestampsBackgroundColor>
+<TimestampsTextColor>FFFFFF</TimestampsTextColor>
+<ValuesTextColor>FFFFFF</ValuesTextColor>
+<Font>
+<FontConfiguration>
+<CustomEnabled>0</CustomEnabled>
+<FontName>Tahoma</FontName>
+<Weight>8</Weight>
+<Scalable>0</Scalable>
+<SevenSegments>0</SevenSegments>
+</FontConfiguration>
+</Font>
+<ShowUnit>0</ShowUnit>
+<WintaxConfiguration>
+<Version>4.80.08.29</Version>
+<EmbeddedScript/>
+<EnableCustomSettings>0</EnableCustomSettings>
+</WintaxConfiguration>
+<Colors>
+<ColorBack>000000</ColorBack>
+<ColorGraphBack>000000</ColorGraphBack>
+<ColorGraphBorder>D3D3D3</ColorGraphBorder>
+</Colors>
+<ViewStyle>0</ViewStyle>
+</NumericTable>

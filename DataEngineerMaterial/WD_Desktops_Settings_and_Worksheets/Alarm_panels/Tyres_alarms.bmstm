@@ -1,0 +1,95 @@
+<COnlineDataWnd Name="C:\Users\Matteo.Paganini\Desktop\DataEnginnering\Worksheets\Tyres_alarms.bmstm" Caption="Instrument panel">
+	<COnlineDataItemBar oid="1" Name="Pres_FR" Caption="FR_Pres" Len="9" Dec="3" Min="1" Max="2.5" PosSize="282,35,60,96" ForeColor="WHITE" BackColor="Green-5">
+		<ZONE Id="0" Valid="-1" Start="1.85" Hysteresis="0.05" Hystersis="0.05" UnconfirmedBackColor="BLACK" Alert="-1"/>
+		<ZONE Id="1" Valid="-1" Hysteresis="0.05" Hystersis="0.05"/>
+		<ZONE Id="2" Valid="-1" Start="2.15" Hysteresis="0.05" Hystersis="0.05" UnconfirmedBackColor="BLACK" Alert="-1"/>
+		<CAPTION Height="18" BackColor="GREEN"/>
+		<STYLE Solid="-1" ValueHeight="17" ScaleWidth="31" ScaleValueHeight="10"/>
+	</COnlineDataItemBar>
+	<COnlineDataItemBar oid="2" Name="tst_tTire_FR" Caption="FR_Tire_T" Len="6" Dec="2" Max="140" PosSize="342,0,97,131" ForeColor="WHITE" BackColor="Green-5">
+		<ZONE Id="0" Valid="-1" Start="10" Hysteresis="0.2" Hystersis="0.2" UnconfirmedBackColor="BLACK" Alert="-1"/>
+		<ZONE Id="1" Valid="-1" Hysteresis="0.2" Hystersis="0.2"/>
+		<ZONE Id="2" Valid="-1" Start="105" Hysteresis="0.2" Hystersis="0.2" UnconfirmedBackColor="BLACK" Alert="-1"/>
+		<CAPTION Height="18" BackColor="GREEN"/>
+		<STYLE Solid="-1" ValueHeight="17" ScaleWidth="40" ScaleValueHeight="11"/>
+	</COnlineDataItemBar>
+	<COnlineDataItemPrevLapTime oid="3" Name="laptime" Len="9" Dec="3" Max="1570.00492" PosSize="0,131,71,35">
+		<ZONE Id="0" Hysteresis="1" Hystersis="1" ForeColor="Red-5"/>
+		<ZONE Id="1" Valid="-1" Hysteresis="1" Hystersis="1"/>
+		<ZONE Id="2" Hysteresis="1" Hystersis="1"/>
+		<CAPTION Height="17"/>
+	</COnlineDataItemPrevLapTime>
+	<COnlineDataItemCurrLapTime oid="4" Name="laptime" Len="9" Dec="3" Max="1570.00492" PosSize="0,164,71,35">
+		<ZONE Id="0" Hysteresis="1" Hystersis="1" ForeColor="LTGREEN"/>
+		<ZONE Id="1" Valid="-1" Hysteresis="1" Hystersis="1"/>
+		<ZONE Id="2" Hysteresis="1" Hystersis="1"/>
+		<CAPTION Height="17"/>
+	</COnlineDataItemCurrLapTime>
+	<COnlineDataItemValue oid="5" Name="tdisk_fl" Len="5" Dec="2" Max="1200" PosSize="168,0,87,35" ForeColor="WHITE" BackColor="Red-7">
+		<ZONE Id="0" Valid="-1" Start="550" Hysteresis="0.2" Hystersis="0.2" UnconfirmedBackColor="BLACK" Alert="-1"/>
+		<ZONE Id="1" Valid="-1" Hysteresis="0.2" Hystersis="0.2"/>
+		<ZONE Id="2" Valid="-1" Start="650" Hysteresis="0.2" Hystersis="0.2" UnconfirmedBackColor="BLACK" Alert="-1"/>
+		<CAPTION Height="17"/>
+	</COnlineDataItemValue>
+	<COnlineDataItemValue oid="6" Name="tdisk_fr" Len="5" Dec="2" Max="1200" PosSize="255,0,87,35" ForeColor="WHITE" BackColor="Green-4">
+		<ZONE Id="0" Valid="-1" Start="550" Hysteresis="0.2" Hystersis="0.2" UnconfirmedBackColor="BLACK" Alert="-1"/>
+		<ZONE Id="1" Valid="-1" Hysteresis="0.2" Hystersis="0.2"/>
+		<ZONE Id="2" Valid="-1" Start="650" Hysteresis="0.2" Hystersis="0.2" UnconfirmedBackColor="BLACK" Alert="-1"/>
+		<CAPTION Height="17" ForeColor="WHITE" BackColor="Green-4"/>
+	</COnlineDataItemValue>
+	<COnlineDataItemBar oid="7" Name="Pres_FL" Caption="FL_Pres" Len="9" Dec="3" Min="1" Max="2.5" PosSize="169,35,61,96" ForeColor="WHITE" BackColor="Red-7">
+		<ZONE Id="0" Valid="-1" Start="1.85" Hysteresis="0.05" Hystersis="0.05" UnconfirmedBackColor="BLACK" Alert="-1"/>
+		<ZONE Id="1" Valid="-1" Hysteresis="0.05" Hystersis="0.05"/>
+		<ZONE Id="2" Valid="-1" Start="2.15" Hysteresis="0.05" Hystersis="0.05" UnconfirmedBackColor="BLACK" Alert="-1"/>
+		<CAPTION Height="18"/>
+		<HOLD Min="10000" Max="10000"/>
+		<STYLE Solid="-1" ValueHeight="17" ScaleWidth="31" ScaleValueHeight="10"/>
+	</COnlineDataItemBar>
+	<COnlineDataItemBar oid="8" Name="tst_tTire_FL" Caption="FL_Tire_T" Len="6" Dec="2" Max="140" PosSize="71,0,98,131" ForeColor="WHITE" BackColor="Red-7">
+		<ZONE Id="0" Valid="-1" Start="10" Hysteresis="0.2" Hystersis="0.2" UnconfirmedBackColor="BLACK" Alert="-1"/>
+		<ZONE Id="1" Valid="-1" Hysteresis="0.2" Hystersis="0.2"/>
+		<ZONE Id="2" Valid="-1" Start="105" Hysteresis="0.2" Hystersis="0.2" UnconfirmedBackColor="BLACK" Alert="-1"/>
+		<CAPTION Height="18"/>
+		<STYLE Solid="-1" ValueHeight="17" ScaleWidth="41" ScaleValueHeight="11"/>
+	</COnlineDataItemBar>
+	<COnlineDataItemValue oid="9" Name="tdisk_rr" Len="5" Dec="2" Max="1200" PosSize="255,136,77,35" ForeColor="WHITE" BackColor="Yellow-5">
+		<ZONE Id="0" Valid="-1" Start="550" Hysteresis="0.2" Hystersis="0.2" UnconfirmedBackColor="BLACK" Alert="-1"/>
+		<ZONE Id="1" Valid="-1" Hysteresis="0.2" Hystersis="0.2"/>
+		<ZONE Id="2" Valid="-1" Start="650" Hysteresis="0.2" Hystersis="0.2" Alert="-1"/>
+		<CAPTION Height="17"/>
+	</COnlineDataItemValue>
+	<COnlineDataItemBar oid="10" Name="tst_tTire_RR" Caption="RR_Tire_T" Len="6" Dec="2" Max="140" PosSize="332,131,107,133" ForeColor="WHITE" BackColor="Yellow-5">
+		<ZONE Id="0" Valid="-1" Start="10" Hysteresis="0.2" Hystersis="0.2" UnconfirmedBackColor="BLACK" Alert="-1"/>
+		<ZONE Id="1" Valid="-1" Hysteresis="0.2" Hystersis="0.2"/>
+		<ZONE Id="2" Valid="-1" Start="105" Hysteresis="0.2" Hystersis="0.2" UnconfirmedBackColor="BLACK" Alert="-1"/>
+		<CAPTION Height="18"/>
+		<STYLE Solid="-1" ValueHeight="17" ScaleWidth="40" ScaleValueHeight="11"/>
+	</COnlineDataItemBar>
+	<COnlineDataItemValue oid="11" Name="tdisk_rl" Len="5" Dec="2" Max="1200" PosSize="177,136,78,35" ForeColor="WHITE" BackColor="Blue-7">
+		<ZONE Id="0" Valid="-1" Start="550" Hysteresis="0.2" Hystersis="0.2" Alert="-1"/>
+		<ZONE Id="1" Valid="-1" Hysteresis="0.2" Hystersis="0.2"/>
+		<ZONE Id="2" Valid="-1" Start="650" Hysteresis="0.2" Hystersis="0.2" Alert="-1"/>
+		<CAPTION Height="17"/>
+	</COnlineDataItemValue>
+	<COnlineDataItemBar oid="12" Name="tst_tTire_RL" Caption="RL_Tire_T" Len="6" Dec="2" Max="140" PosSize="71,131,106,133" ForeColor="WHITE" BackColor="Blue-8">
+		<ZONE Id="0" Valid="-1" Start="10" Hysteresis="0.2" Hystersis="0.2" UnconfirmedForeColor="LTBLUE" Alert="-1"/>
+		<ZONE Id="1" Valid="-1" Hysteresis="0.2" Hystersis="0.2"/>
+		<ZONE Id="2" Valid="-1" Start="105" Hysteresis="0.2" Hystersis="0.2" Alert="-1"/>
+		<CAPTION Height="18"/>
+		<STYLE Solid="-1" ValueHeight="17" ScaleWidth="38" ScaleValueHeight="10"/>
+	</COnlineDataItemBar>
+	<COnlineDataItemBar oid="13" Name="Pres_RR" Caption="RR_Pres" Len="9" Dec="3" Min="1" Max="2.5" PosSize="271,171,61,93" ForeColor="WHITE" BackColor="Yellow-5">
+		<ZONE Id="0" Valid="-1" Start="1.85" Hysteresis="0.05" Hystersis="0.05" UnconfirmedBackColor="BLACK" Alert="-1"/>
+		<ZONE Id="1" Valid="-1" Hysteresis="0.05" Hystersis="0.05"/>
+		<ZONE Id="2" Valid="-1" Start="2.15" Hysteresis="0.05" Hystersis="0.05" UnconfirmedBackColor="BLACK" Alert="-1"/>
+		<CAPTION Height="18"/>
+		<STYLE Solid="-1" ValueHeight="17" ScaleWidth="30" ScaleValueHeight="10"/>
+	</COnlineDataItemBar>
+	<COnlineDataItemBar oid="14" Name="Pres_RL" Caption="RL_Pres" Len="9" Dec="3" Min="1" Max="2.5" PosSize="177,171,61,93" ForeColor="WHITE" BackColor="Blue-7">
+		<ZONE Id="0" Valid="-1" Start="1.85" Hysteresis="0.125" Hystersis="0.125" Alert="-1"/>
+		<ZONE Id="1" Valid="-1" Hysteresis="0.125" Hystersis="0.125"/>
+		<ZONE Id="2" Valid="-1" Start="2.15" Hysteresis="0.125" Hystersis="0.125" Alert="-1" Blink="0"/>
+		<CAPTION Height="18"/>
+		<STYLE Solid="-1" ValueHeight="17" ScaleWidth="30" ScaleValueHeight="10"/>
+	</COnlineDataItemBar>
+</COnlineDataWnd>

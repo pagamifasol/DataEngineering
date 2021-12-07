@@ -1,0 +1,34 @@
+<BMSXML>
+	<FILEINFO>
+		<name>Gear pump currve</name>
+		<application>WinDarab</application>
+		<filetype>LookupTable</filetype>
+		<version MajVersion="1.0" MinVersion="001" AppVersion="7.07.027"/>
+	</FILEINFO>
+	<FILEBODY>
+		<DESCRIPTION></DESCRIPTION>
+		<COLUMNWIDTHS>50</COLUMNWIDTHS>
+		<AXIS interpolate="yes" decimals="3">
+			<VALUE>0</VALUE>
+			<VALUE>4000</VALUE>
+			<VALUE>4500</VALUE>
+			<VALUE>5000</VALUE>
+			<VALUE>5500</VALUE>
+			<VALUE>6000</VALUE>
+			<VALUE>6500</VALUE>
+			<VALUE>7000</VALUE>
+		</AXIS>
+		<VALUES decimals="2">
+			<DIM dimension="0">
+				<VALUE>0</VALUE>
+				<VALUE>2</VALUE>
+				<VALUE>2.2</VALUE>
+				<VALUE>2.7</VALUE>
+				<VALUE>3.2</VALUE>
+				<VALUE>3.7</VALUE>
+				<VALUE>4</VALUE>
+				<VALUE>4.3</VALUE>
+			</DIM>
+		</VALUES>
+	</FILEBODY>
+</BMSXML>

@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<DisplayValueConfiguration>
+<DisplayValues/>
+<LayoutGraphs>3</LayoutGraphs>
+<FontLabelName/>
+<FontValueName/>
+<Enable7DigitFont>0</Enable7DigitFont>
+<FontLabelSize>8</FontLabelSize>
+<FontLabelScalable>1</FontLabelScalable>
+<FontValueSize2>8</FontValueSize2>
+<FontValueScalable2>1</FontValueScalable2>
+<GradientMinMaxMode>0</GradientMinMaxMode>
+<GradientLastSeconds>1</GradientLastSeconds>
+<WintaxConfiguration>
+<Version>4.80.08.29</Version>
+<EmbeddedScript/>
+<EnableCustomSettings>0</EnableCustomSettings>
+</WintaxConfiguration>
+<Colors>
+<ColorBack>000000</ColorBack>
+<ColorGraphBack>000000</ColorGraphBack>
+<ColorGraphBorder>D3D3D3</ColorGraphBorder>
+</Colors>
+<ViewStyle>0</ViewStyle>
+</DisplayValueConfiguration>

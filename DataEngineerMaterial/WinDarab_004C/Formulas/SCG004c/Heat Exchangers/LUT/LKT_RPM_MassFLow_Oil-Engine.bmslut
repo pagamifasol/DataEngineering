@@ -1,0 +1,30 @@
+<BMSXML>
+	<FILEINFO>
+		<name>LKT_RPM_MassFLow_Oil-Engine</name>
+		<application>WinDarab</application>
+		<filetype>LookupTable</filetype>
+		<version MajVersion="1.0" MinVersion="001" AppVersion="7.03.027"/>
+	</FILEINFO>
+	<FILEBODY>
+		<DESCRIPTION></DESCRIPTION>
+		<COLUMNWIDTHS>50</COLUMNWIDTHS>
+		<AXIS interpolate="yes" decimals="0">
+			<VALUE>0</VALUE>
+			<VALUE>3400</VALUE>
+			<VALUE>4200</VALUE>
+			<VALUE>5000</VALUE>
+			<VALUE>6000</VALUE>
+			<VALUE>6800</VALUE>
+		</AXIS>
+		<VALUES decimals="3">
+			<DIM dimension="0">
+				<VALUE>0</VALUE>
+				<VALUE>0.495</VALUE>
+				<VALUE>0.5629999999999999</VALUE>
+				<VALUE>0.577</VALUE>
+				<VALUE>0.6</VALUE>
+				<VALUE>0.605</VALUE>
+			</DIM>
+		</VALUES>
+	</FILEBODY>
+</BMSXML>

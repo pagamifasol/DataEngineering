@@ -1,0 +1,45 @@
+<?xml version="1.0"?>
+<Event>
+<Groups>
+<Events>
+<NameGroup>Default</NameGroup>
+<VCH>
+<Name>Event</Name>
+<Properties>
+<Comment/>
+<Measure/>
+<Expression/>
+<Freq>Auto</Freq>
+<OutFormat>Auto</OutFormat>
+<Decimals>Auto</Decimals>
+<Showhide>1</Showhide>
+<GUIType>Standard Event</GUIType>
+<Search>False To True</Search>
+<GraphOptions>
+<Enable>1</Enable>
+<ShowTooltip>1</ShowTooltip>
+<MarkerChannels/>
+<LinkedChannels/>
+<MarkerStyle>6</MarkerStyle>
+<ForeColor>0000FF</ForeColor>
+<BackColor>FFFFFF</BackColor>
+<MarkerWeight>10</MarkerWeight>
+<MarkerThickness>1</MarkerThickness>
+<MarkerEffect>0</MarkerEffect>
+<AutoZoomEnable>0</AutoZoomEnable>
+<AutoZoomTime>0</AutoZoomTime>
+<AutoZoomSpace>0</AutoZoomSpace>
+<AutoZoomOffsetTime>0</AutoZoomOffsetTime>
+<ShowLayout>0</ShowLayout>
+<Layout/>
+<TooltipStyle>1</TooltipStyle>
+</GraphOptions>
+<Global>1</Global>
+</Properties>
+</VCH>
+</Events>
+</Groups>
+<WintaxConfiguration>
+<Version>4.80.08.29</Version>
+</WintaxConfiguration>
+</Event>
